@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="INDONESIA VIP",TRANSTV HD
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TRANSTV HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73608.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TRANS7 HD
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TRANS7 HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73609.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TV ONE HD
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TV ONE HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73610.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",METRO TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",METRO TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73611.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",KOMPAS TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",KOMPAS TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73612.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",CNN INDONESIA 
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",CNN INDONESIA 
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73613.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",BERITA SATU
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",BERITA SATU
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73614.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",MOJI TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",MOJI TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73615.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",MNCTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",MNCTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73616.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",INDOSIAR
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",INDOSIAR
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73617.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",ANTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",ANTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73618.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",GTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",GTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73619.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TVRI
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVRI
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73620.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",JACKTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",JACKTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73626.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",JTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",JTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73627.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TV9
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TV9
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73629.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",JWPTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",JWPTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73631.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",CITRA DRAMA
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",CITRA DRAMA
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/901193.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",CITRA DANGDUT
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",CITRA DANGDUT
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/901194.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",ADJWATV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",ADJWATV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73636.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",IMC TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",IMC TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73869.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",BIOSKOP INDO
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",BIOSKOP INDO
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73873.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",JIANGSU TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",JIANGSU TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73878.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",HUNAN TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",HUNAN TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73879.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",SIANGHAI TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SIANGHAI TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73880.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",ANHUI TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",ANHUI TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73882.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TVN
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVN
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73985.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TVN MOVIES
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVN MOVIES
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73986.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",SONY ONE TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SONY ONE TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73987.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",ARIRANG KOR
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",ARIRANG KOR
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73990.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",NUSANTARA TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",NUSANTARA TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/34721.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",BERITA SATU NEWS
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",BERITA SATU NEWS
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/886796.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",DHAMMA TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",DHAMMA TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/886807.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TVMU
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVMU
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/886811.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",MADU TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",MADU TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/886833.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",MQTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",MQTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/886836.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",DAAI TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",DAAI TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/921746.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",BANDUNGTV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",BANDUNGTV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/921747.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",EWTN
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",EWTN
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/946466.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",TAWAF
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TAWAF
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/946468.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",VISION PRIME
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",VISION PRIME
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/946469.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",MUSLIM TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",MUSLIM TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/946470.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",JAWA POS TV
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",JAWA POS TV
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/947789.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",KIX
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",KIX
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/947917.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",SEA TODAY
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SEA TODAY
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/947784.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",INEWS
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",INEWS
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73605.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",RCTI HD
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73606.ts
-#EXTINF:-1 ,group-title="INDONESIA VIP",SCTV HD
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SCTV HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73607.ts
 ======================================================================================================================
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
