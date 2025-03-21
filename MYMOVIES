@@ -35,8 +35,6 @@ http://fortv.cc:8080/movie/60892684/60892684/168404.mp4
 http://fortv.cc:8080/movie/60892684/60892684/168405.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pearl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg" group-title="2022 Movies",Pearl (2022)
 http://fortv.cc:8080/movie/60892684/60892684/168424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
-http://fortv.cc:8080/60892684/60892684/168466
 #EXTINF:-1 tvg-id="" tvg-name="The School for Good and Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="2022 Movies",The School for Good and Evil (2022)
 http://fortv.cc:8080/movie/60892684/60892684/168659.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg" group-title="2022 Movies",Terrifier 2 (2022)
@@ -865,14 +863,6 @@ http://fortv.cc:8080/movie/60892684/60892684/171053.mp4
 http://fortv.cc:8080/movie/60892684/60892684/171054.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Good Nurse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="2022 Movies",The Good Nurse (2022)
 http://fortv.cc:8080/movie/60892684/60892684/171156.mp4
-#EXTINF:-1 tvg-id="fox17kdsm.us" tvg-name="US FOX 17 (KDSM) Des Moines " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US FOX 17 (KDSM) Des Moines 
-http://fortv.cc:8080/60892684/60892684/171157
-#EXTINF:-1 tvg-id="nbc13who.us" tvg-name="US NBC 13 (WHO) Des Moines (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 13 (WHO) Des Moines (A)
-http://fortv.cc:8080/60892684/60892684/171158
-#EXTINF:-1 tvg-id="cbs8kcci.us" tvg-name="US CBS 8 (KCCI) Des Moines-Ames (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 8 (KCCI) Des Moines-Ames (A)
-http://fortv.cc:8080/60892684/60892684/171159
-#EXTINF:-1 tvg-id="" tvg-name="US ABC 5 (WOI) West Des Moine (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC 5 (WOI) West Des Moine (A)
-http://fortv.cc:8080/60892684/60892684/171160
 #EXTINF:-1 tvg-id="" tvg-name="See How They Run (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3rpSAi2yukZwr9H2km0WKGODWo.jpg" group-title="2022 Movies",See How They Run (2022)
 http://fortv.cc:8080/movie/60892684/60892684/171582.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Woman King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg" group-title="2022 Movies",The Woman King (2022)
@@ -895,8 +885,6 @@ http://fortv.cc:8080/movie/60892684/60892684/171907.mp4
 http://fortv.cc:8080/60892684/60892684/171954
 #EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" group-title="2022 Movies",Smile (2022)
 http://fortv.cc:8080/movie/60892684/60892684/172066.mp4
-#EXTINF:-1 tvg-id="fetv.us" tvg-name="US Family Entertainment Television " tvg-logo="" group-title="USA ",US Family Entertainment Television 
-http://fortv.cc:8080/60892684/60892684/172481
 #EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="2022 Movies",TÁR (2022)
 http://fortv.cc:8080/movie/60892684/60892684/172537.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Emily (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgVBMIiJczfBWINRRd9yxE8ESln.jpg" group-title="2022 Movies",Emily (2022)
@@ -909,16 +897,6 @@ http://fortv.cc:8080/movie/60892684/60892684/172540.mp4
 http://fortv.cc:8080/movie/60892684/60892684/172552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Wonder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg" group-title="2022 Movies",The Wonder (2022)
 http://fortv.cc:8080/movie/60892684/60892684/172553.mp4
-#EXTINF:-1 tvg-id="abckatv.us" tvg-name="US ABC 7 (KATV) Little Rock (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC 7 (KATV) Little Rock (H)
-http://fortv.cc:8080/60892684/60892684/172655
-#EXTINF:-1 tvg-id="" tvg-name="US abc9 (WTVA) Tupelo " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc9 (WTVA) Tupelo 
-http://fortv.cc:8080/60892684/60892684/173099
-#EXTINF:-1 tvg-id="cbs4wcbi.us" tvg-name="US CBS 4 (WCBI) Tupelo (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 4 (WCBI) Tupelo (F)
-http://fortv.cc:8080/60892684/60892684/173100
-#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="US NBC (WALB) Albany (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WALB) Albany (F)
-http://fortv.cc:8080/60892684/60892684/173119
-#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA HPItv East HD " tvg-logo="" group-title="CANADA",CA HPItv East HD 
-http://fortv.cc:8080/60892684/60892684/173131
 #EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="2022 Movies",Armageddon Time (2022)
 http://fortv.cc:8080/movie/60892684/60892684/173133.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Christmas Story Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="2022 Movies",A Christmas Story Christmas (2022)
@@ -24774,24 +24752,6 @@ http://fortv.cc:8080/movie/60892684/60892684/215979.mp4
 http://fortv.cc:8080/movie/60892684/60892684/215980.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Winnie-the-Pooh: Blood and Honey 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sADrLwMQof6yYmrJRSa04tFZuS.jpg" group-title="2024 Movies",Winnie-the-Pooh: Blood and Honey 2 (2024)
 http://fortv.cc:8080/movie/60892684/60892684/215981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carib TVDirect13 (D)" tvg-logo="" group-title="Caribbean",Carib TVDirect13 (D)
-http://fortv.cc:8080/60892684/60892684/216085
-#EXTINF:-1 tvg-id="" tvg-name="US US CW 39 (KIAH) Houston " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US US CW 39 (KIAH) Houston 
-http://fortv.cc:8080/60892684/60892684/216086
-#EXTINF:-1 tvg-id="" tvg-name="CA City News Toronto ON" tvg-logo="" group-title="CANADA",CA City News Toronto ON
-http://fortv.cc:8080/60892684/60892684/216100
-#EXTINF:-1 tvg-id="fox23wxxa.us" tvg-name="US FOX 31 (WFXL) Albany " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US FOX 31 (WFXL) Albany 
-http://fortv.cc:8080/60892684/60892684/216103
-#EXTINF:-1 tvg-id="nbc11kcbd.us" tvg-name="US NBC11 (KCBD) Lubbock/Texas" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC11 (KCBD) Lubbock/Texas
-http://fortv.cc:8080/60892684/60892684/216129
-#EXTINF:-1 tvg-id="cbs13klbk.us" tvg-name="US CBS (KLBK) Lubbock" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (KLBK) Lubbock
-http://fortv.cc:8080/60892684/60892684/216130
-#EXTINF:-1 tvg-id="" tvg-name="US ABC28 (KAMC) Lubbock/Texas (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US ABC28 (KAMC) Lubbock/Texas (A)
-http://fortv.cc:8080/60892684/60892684/216131
-#EXTINF:-1 tvg-id="fox34kjtv.us" tvg-name="US FOX 34 (KJTV) Lubbock/Texas " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US FOX 34 (KJTV) Lubbock/Texas 
-http://fortv.cc:8080/60892684/60892684/216132
-#EXTINF:-1 tvg-id="nbc11kcbd.us" tvg-name="NBC: TX LUBBOCK KCBD" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: TX LUBBOCK KCBD
-http://fortv.cc:8080/60892684/60892684/216146
 #EXTINF:-1 tvg-id="" tvg-name="Boy in the Walls (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3lRCpnIgm68Izh1q8VL6yqfRTr.jpg" group-title="2023 Movies",Boy in the Walls (2023)
 http://fortv.cc:8080/movie/60892684/60892684/216154.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boy Kills World (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25JskXmchcYwj3jHRmcPm738MpB.jpg" group-title="2024 Movies",Boy Kills World (2024)
@@ -25208,8 +25168,6 @@ http://fortv.cc:8080/movie/60892684/60892684/217385.mp4
 http://fortv.cc:8080/movie/60892684/60892684/217386.mp4
 #EXTINF:-1 tvg-id="" tvg-name="When Mom Becomes a Murderer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaQAbFMi2w2W6fSYhFQpmh8KLIn.jpg" group-title="2024 Movies",When Mom Becomes a Murderer (2024)
 http://fortv.cc:8080/movie/60892684/60892684/217387.mp4
-#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="US CBS 6 (WKMG) Orlando " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 6 (WKMG) Orlando 
-http://fortv.cc:8080/60892684/60892684/217388
 #EXTINF:-1 tvg-id="" tvg-name="Snowden (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg" group-title="2020 Movies",Snowden (2016)
 http://fortv.cc:8080/movie/60892684/60892684/217620.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place: Day One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU42CRk14JuPEdqZG3AWmagiPAP.jpg" group-title="2024 Movies",A Quiet Place: Day One (2024)
@@ -25619,12 +25577,6 @@ http://fortv.cc:8080/movie/60892684/60892684/220765.mp4
 http://fortv.cc:8080/movie/60892684/60892684/220766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="You Gotta Believe (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4X9SeMFCv414BCt97IBgzYX7JC.jpg" group-title="2024 Movies",You Gotta Believe (2024)
 http://fortv.cc:8080/movie/60892684/60892684/220767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="US CBS 6 (KOIN) Portland/Oregon (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS 6 (KOIN) Portland/Oregon (F)
-http://fortv.cc:8080/60892684/60892684/221128
-#EXTINF:-1 tvg-id="" tvg-name="US FOX 19 (WXIX) Cincinnati (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US FOX 19 (WXIX) Cincinnati (H)
-http://fortv.cc:8080/60892684/60892684/221129
-#EXTINF:-1 tvg-id="" tvg-name="US FanDuel Sports Socal" tvg-logo="" group-title="Sports Fanatic's ",US FanDuel Sports Socal
-http://fortv.cc:8080/60892684/60892684/221151
 #EXTINF:-1 tvg-id="" tvg-name="12 to Midnight (2024)" tvg-logo="" group-title="2024 Movies",12 to Midnight (2024)
 http://fortv.cc:8080/movie/60892684/60892684/221364.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Dance in the Snow (2024)" tvg-logo="" group-title="2024 Movies",A Dance in the Snow (2024)
@@ -25761,14 +25713,6 @@ http://fortv.cc:8080/movie/60892684/60892684/221429.mp4
 http://fortv.cc:8080/movie/60892684/60892684/221430.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Year 10 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg" group-title="2024 Movies",Year 10 (2024)
 http://fortv.cc:8080/movie/60892684/60892684/221431.mp4
-#EXTINF:-1 tvg-id="cbs3wwmt.us" tvg-name="MI | Kalamazoo | CBS WWMT" tvg-logo="" group-title="USA | NEWS | REGIONALS ",MI | Kalamazoo | CBS WWMT
-http://fortv.cc:8080/60892684/60892684/221616
-#EXTINF:-1 tvg-id="fox17wxmi.us" tvg-name="MI | Grand Rapids | FOX WXMI" tvg-logo="" group-title="USA | NEWS | REGIONALS ",MI | Grand Rapids | FOX WXMI
-http://fortv.cc:8080/60892684/60892684/221618
-#EXTINF:-1 tvg-id="" tvg-name="NFL 00: " tvg-logo="" group-title="NFL",NFL 00: 
-http://fortv.cc:8080/60892684/60892684/221666
-#EXTINF:-1 tvg-id="" tvg-name="NFL 01 " tvg-logo="" group-title="NFL",NFL 01 
-http://fortv.cc:8080/60892684/60892684/221667
 #EXTINF:-1 tvg-id="" tvg-name="3 Working Days (2024)" tvg-logo="" group-title="2024 Movies",3 Working Days (2024)
 http://fortv.cc:8080/movie/60892684/60892684/221668.mp4
 #EXTINF:-1 tvg-id="" tvg-name="An Evening with Dua Lipa (2024)" tvg-logo="" group-title="2024 Movies",An Evening with Dua Lipa (2024)
