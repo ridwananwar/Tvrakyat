@@ -135,6 +135,10 @@ https://zozotv.xyz:443/live/usez37/zxy921/144.ts
 #EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="INDONESIA",iNews
 https://zozotv.xyz:443/live/usez37/zxy921/2203.ts
 ==================================================================================================================================================
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",Indosiar HD
 http://tvking.xyz:8080/live/Stv2991/A67121/5117.ts
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",Citra Drama
