@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TRANSTV HD
 http://ktpremium.xyz:2095/live/110420220445/abcd1234/73608.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TRANS7 HD
