@@ -26,6 +26,10 @@ http://tvking.xyz:8080/wafdi38/wafdi38/5147
 http://tvking.xyz:8080/wafdi38/wafdi38/5149
 #EXTINF:-1 tvg-id="" tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",ID: TransTV
 http://tvking.xyz:8080/wafdi38/wafdi38/5151
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="NASIONAL",TVRI NASIONAL
+http://tvking.xyz:8080/wafdi38/wafdi38/25416
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="NASIONAL",TVRI SPORT
+http://tvking.xyz:8080/wafdi38/wafdi38/25417
 #EXTINF:-1 tvg-id="" tvg-name="MY: CHUTTI TV" tvg-logo="https://1.bp.blogspot.com/-tZmZPujwbNU/UfeO_ffI-OI/AAAAAAAACzs/QqpckcVpnZY/s1600/Chutti+Tv.jpg" group-title="INDIA",MY: CHUTTI TV
 http://tvking.xyz:8080/wafdi38/wafdi38/5178
 #EXTINF:-1 tvg-id="CHN" tvg-name="MY: MAKKAL TV" tvg-logo="https://tvwish.com/img/channel/1258.jpg" group-title="INDIA",MY: MAKKAL TV
@@ -426,10 +430,6 @@ http://tvking.xyz:8080/wafdi38/wafdi38/19482
 http://tvking.xyz:8080/wafdi38/wafdi38/5205
 #EXTINF:-1 tvg-id="" tvg-name="KITA TV" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/merdeka24-mainkv-800x450.jpg" group-title="MOVIES",KITA TV
 http://tvking.xyz:8080/wafdi38/wafdi38/24648
-#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="NASIONALTV",TVRI NASIONAL
-http://tvking.xyz:8080/wafdi38/wafdi38/25416
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="NASIONALTV",TVRI SPORT
-http://tvking.xyz:8080/wafdi38/wafdi38/25417
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://static.wikia.nocookie.net/drama/images/f/f4/SBS.png" group-title="KOREA TV",SBS
 http://tvking.xyz:8080/wafdi38/wafdi38/25799
 #EXTINF:-1 tvg-id="" tvg-name="SBS Ubc" tvg-logo="https://static.wikia.nocookie.net/drama/images/f/f4/SBS.png" group-title="KOREA TV",SBS Ubc
