@@ -1,26 +1,22 @@
 #EXTM3U
-
 #EXTINF:0,ANTV
 #EXTGRP:Indonesia
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:0,ANTV
+#EXTGRP:Indonesia
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:0,KOMPAS TV
+#EXTGRP:Indonesia
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0,KOMPAS TV
 #EXTGRP:Indonesia
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0,BERITA SATU
 #EXTGRP:Indonesia
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:0,TV KESEHATAN
-#EXTGRP:Indonesia
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,INDOSIAR
 #EXTGRP:Indonesia
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:0,ANTV
-#EXTGRP:Indonesia
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#EXTINF:0,KOMPAS TV
-#EXTGRP:Indonesia
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
@@ -36,6 +32,9 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #EXTINF:0,UGTV
 #EXTGRP:Indonesia
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:0,TV KESEHATAN
+#EXTGRP:Indonesia
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Banten TV
 #EXTGRP:DAERAH
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.com
