@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar HD
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5117
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Drama
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5118
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Dangdut
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5120
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ID: ANTV
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5124
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="ID: GTV" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="INDONESIA",ID: GTV
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5127
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="ID: Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA",ID: Berita Satu
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5131
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="ID: CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="INDONESIA",ID: CNN Indonesia
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5135
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="INDONESIA",ID: MNC TV HD
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5139
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="ID: Net TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",ID: Net TV
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5140
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="INDONESIA",ID: RCTI HD
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5144
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",ID: SCTV
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5147
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",ID: Trans 7
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5149
+#EXTINF:-1 tvg-id="" tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",ID: TransTV
+http://tvking.xyz:8080/live/wafdi38/wafdi38/5151
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="INDONESIA",TVRI NASIONAL
+http://tvking.xyz:8080/live/wafdi38/wafdi38/25416
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="INDONESIA",TVRI SPORT
+http://tvking.xyz:8080/live/wafdi38/wafdi38/25417
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://zozotv.xyz:443/live/usez37/zxy921/50.ts
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA",GTV
