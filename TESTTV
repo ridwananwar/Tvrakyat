@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHz4qXZXyyIxnU2ooR9jRKemsGjTOx0zclg&usqp=CAU" group-title="🔴TRANSVISION",RCTI
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
