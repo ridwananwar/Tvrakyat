@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:0,Beritasatu
+#EXTGRP:NASIONAL TV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0,RTV
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:0,Beritasatu
+#EXTGRP:TV NASIONAL
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:0,tvkesehatan
+#EXTGRP:TV NASIONAL
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SCTV
+#EXTGRP:TV NASIONAL
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,INDOSIAR
+#EXTGRP:TV NASIONAL
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0,MDTV
+#EXTGRP:TV NASIONAL
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTINF:0,IMTV
+#EXTGRP:TV NASIONAL
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:0,KSTV
+#EXTGRP:TV NASIONAL
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:0,Banten TV
+#EXTGRP:TV NASIONAL
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:0,Jogja TV
+#EXTGRP:TV NASIONAL
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:0,aXs tv now
+#EXTGRP:TV NASIONAL
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:0,WB TV
+#EXTGRP:TV NASIONAL
+https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:0,dfc
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+#EXTINF:0,SHOWBIZ
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+#EXTINF:0,TV5 Monde Style
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTINF:0,MyCinema
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
+#EXTINF:0,Bollywood HD
+#EXTGRP:TV NASIONAL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:0,KPLUS
+#EXTGRP:TV NASIONAL
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:0,KBS Korea
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+#EXTINF:0,Love Nature 4K
+#EXTGRP:TV NASIONAL
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0,KNOWLEDGE
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+#EXTINF:0,Fashion TV Midnight Secret
+#EXTGRP:TV NASIONAL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:0,ANIPLUS
+#EXTGRP:TV NASIONAL
+https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+#EXTINF:0,MU TV
+#EXTGRP:TV NASIONAL
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:0,IMPACT ! Wrestling
+#EXTGRP:TV NASIONAL
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0,RedBull TV
+#EXTGRP:TV NASIONAL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0,Sports TV
+#EXTGRP:TV NASIONAL
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0,Unifi 1 (Unifi Live)
+#EXTGRP:TV NASIONAL
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:0,Voice Of America
+#EXTGRP:TV NASIONAL
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:0,TV9
+#EXTGRP:TV RELIGI
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:0,MQ TV
+#EXTGRP:TV RELIGI
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:0,RTB TV
+#EXTGRP:TV NRELIGI
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+#EXTINF:0,RTB GO
+#EXTGRP:TV NASIONAL
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:0,ME WATCH LIVE 1
+#EXTGRP:TV NASIONAL
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:0,RTB_SUKMA.INDERA
+#EXTGRP:TV RELIGI
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+#EXTINF:0,RTB_ANEKA
+#EXTGRP:TV RELIGIL
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+#EXTINF:0,REALMADRID TV
+#EXTGRP:TV NASIONAL
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:0,MU TV
+#EXTGRP:TV NASIONAL
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:0,sportstv
+#EXTGRP:TV NASIONAL
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0,WWE.network
+#EXTGRP:TV NASIONAL
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0,MU TV
+#EXTGRP:TV NASIONAL
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:0,IMPACT ! Wrestling
+#EXTGRP:TV NASIONAL
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0,RedBull TV
+#EXTGRP:TV NASIONAL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0,Sports TV
+#EXTGRP:TV NASIONAL
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+Enter file contents here
