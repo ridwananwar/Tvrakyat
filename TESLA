@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Beritasatu
-#EXTGRP:NASIONAL TV
+#EXTGRP:TV NASIONAL
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0,RTV
 #EXTGRP:TV NASIONAL
