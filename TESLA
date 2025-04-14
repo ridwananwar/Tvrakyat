@@ -1,4 +1,132 @@
 #EXTM3U
+#EXTINF:-1,Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1, METRO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1, tvOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1, Kompas_TV
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+#EXTINF:-1, BTV
+http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1, antv
+http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+#EXTINF:-1, NET.
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+#EXTINF:-1, RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1, Magna_Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+#EXTINF:-1, DAAI_TV
+http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
+#EXTINF:-1, ROCK_Entertainment_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1, ROCK_Action
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1, KIX_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1, tvN_Movies_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1, Celestial_Movies_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+#EXTINF:-1, CCM_Celestial_Classic_MV-
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
+#EXTINF:-1, My_Cinema_Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:-1, Thrill
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+#EXTINF:-1, My_Cinema_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1, My_Cinema_Europe_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1, My_Family_Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1, DensPla
+http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
+#EXTINF:-1, DensLife_n_Style
+http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+#EXTINF:-1, DensFood_Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTINF:-1, DensShowBiz
+http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+#EXTINF:-1, DensKnowledge
+http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1, IDTV
+http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8
+#EXTINF:-1, Elshinta_TV
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+#EXTINF:-1, TVRI_Sport
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
+#EXTINF:-1, TVRI
+http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1, Jak_tv
+http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1, RodjaTV
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
+#EXTINF:-1, ANIPLUS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+#EXTINF:-1, My_Kidz_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1, KBS_Korea
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8
+#EXTINF:-1, KBS_World
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
+#EXTINF:-1, K-PLUS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+#EXTINF:-1, tvN_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
+#EXTINF:-1, TV5MONDE_Style_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
+#EXTINF:-1, crema.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+#EXTINF:-1, Stingray_Classica
+http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+#EXTINF:-1, Deluxe_Lounge
+http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
+#EXTINF:-1, Dance_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
+#EXTINF:-1, FIGHT_SPORTS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1, Motorvision%2B
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+#EXTINF:-1, MotoRRacing_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
+#EXTINF:-1, W-Sport
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+#EXTINF:-1, CNA
+http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+#EXTINF:-1, NHK_WORLD-JAPAN
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
+#EXTINF:-1, Al_Jazeera_English
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8
+#EXTINF:-1, TRT_Worl
+http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
+#EXTINF:-1, WION
+http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+#EXTINF:-1, FREEDOM
+http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
+#EXTINF:-1, Al_Jazeera_Arabic
+http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
+#EXTINF:-1, CCTV-4
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
+#EXTINF:-1, France_24
+http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
+#EXTINF:-1, TV5MONDE_ASIE
+http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8
+#EXTINF:-1, DW-TV
+http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1, DIM_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8
+#EXTINF:-1, TBN
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
+#EXTINF:-1, CGTN_Documentary
+http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8
+#EXTINF:-1, Quran_TV
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+#EXTINF:-1, Sunna_TV
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+==================================================================================================================================
 #EXTINF:0,Beritasatu
 #EXTGRP:TV NASIONAL
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -134,4 +262,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0,Sports TV
 #EXTGRP:TV NASIONAL
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-Enter file contents here
+
