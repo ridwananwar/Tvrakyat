@@ -2,26 +2,11 @@
 #EXTINF:0,SCTV
 #EXTGRP:TV NASIONAL
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-#EXTINF:0,TV ONE
-#EXTGRP:TV NASIONAL
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:0,RTV
-#EXTGRP:TV NASIONAL
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:0,TV NASIONALNA TV
-#EXTGRP:TV NASIONAL
-https://tvstreamcast.com/TV NASIONALna.m3u8
-#EXTINF:0,TVRI WORLD
-#EXTGRP:TV NASIONAL
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
-#EXTINF:0,ugtv
+#EXTINF:0,UGTV
 #EXTGRP:TV NASIONAL
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:0,RCTI HD
-#EXTGRP:TV NASIONAL HD
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy&user-agent=Mozilla/5.0
 #EXTINF:0,TV ONE HD
-#EXTGRP:TV NASIONAL HD
+#EXTGRP:TV NASIONAL
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;
 #EXTINF:0,Hanacaraka TV
 #EXTGRP:TV DAERAH
