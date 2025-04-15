@@ -1,4 +1,588 @@
 #EXTM3U
+
+#EXTINF:0,SCTV
+#EXTGRP:TV NASIONAL
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:0,TV ONE
+#EXTGRP:TV NASIONAL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTINF:0,RTV
+#EXTGRP:TV NASIONAL
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:0,TV NASIONALNA TV
+#EXTGRP:TV NASIONAL
+https://tvstreamcast.com/TV NASIONALna.m3u8
+#EXTINF:0,TVRI WORLD
+#EXTGRP:TV NASIONAL
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
+#EXTINF:0,ugtv
+#EXTGRP:TV NASIONAL
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:0,RCTI HD
+#EXTGRP:TV NASIONAL HD
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy&user-agent=Mozilla/5.0
+#EXTINF:0,TV ONE HD
+#EXTGRP:TV NASIONAL HD
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;
+#EXTINF:0,Hanacaraka TV
+#EXTGRP:TV DAERAH
+https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#EXTINF:0,BALI TV
+#EXTGRP:TV DAERAH
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF:0,Banten TV
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bandung TV
+#EXTGRP:TV DAERAH
+http://202.150.153.254:443/bandungtvWEBSITE.m3u8
+#EXTINF:0,Surabaya TV
+#EXTGRP:TV DAERAH
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:0,RCTV Cirebon
+#EXTGRP:TV DAERAH
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:0,CarubanTV
+#EXTGRP:TV DAERAH
+https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
+#EXTINF:0,AYU TV
+#EXTGRP:TV DAERAH
+https://rtmp.tvcctube.com:8443/hls/4yuTVCC.m3u8
+#EXTINF:0,Balikpapan TV
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:0,Dhoho TV- Kediri
+#EXTGRP:TV DAERAH
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Radar Lampung TV
+#EXTGRP:TV DAERAH
+http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
+#EXTINF:0,Elshinta TV
+#EXTGRP:TV DAERAH
+https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+#EXTINF:0,InspiraTV
+#EXTGRP:TV DAERAH
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:0,AKTV
+#EXTGRP:TV DAERAH
+https://e.siar.us/live/aktv.m3u8
+#EXTINF:0,Dhamma TV
+#EXTGRP:TV DAERAH
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:0,Kilisuci TV
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:0,Ficom TV
+#EXTGRP:TV DAERAH
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:0,Sampit TV
+#EXTGRP:TV DAERAH
+https://e.siar.us/live/sampit-tv.m3u8
+#EXTINF:0,Semarang TV
+#EXTGRP:TV DAERAH
+http://116.254.112.74/hls/cakralive.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Madu TV
+#EXTGRP:TV DAERAH
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:0,JITV Jogja
+#EXTGRP:TV DAERAH
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:0,Bungo TV
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:0,LingkarTV
+#EXTGRP:TV DAERAH
+https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+#EXTINF:0,jawaposTv
+#EXTGRP:TV DAERAH
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:0,TV Tabalong
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:0,Sakti TV
+#EXTGRP:TV DAERAH
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:0,Duta TV
+#EXTGRP:TV DAERAH
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:0,BRTV
+#EXTGRP:TV DAERAH
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:0,TATV Solo
+#EXTGRP:TV DAERAH
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:0,HBO
+#EXTGRP:MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#EXTINF:0,HBO Hits
+#EXTGRP:MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:0,Celestial Movies
+#EXTGRP:MOVIES
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:0,Celestial Classic
+#EXTGRP:MOVIES
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:0,TvN movies HD
+#EXTGRP:MOVIES
+https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:0,ONE
+#EXTGRP:MOVIES
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:0,MY CINEMA
+#EXTGRP:MOVIES
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;
+#EXTINF:0,MY CINEMA ASIA
+#EXTGRP:MOVIES
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;
+#EXTINF:0,MY FAMILY
+#EXTGRP:MOVIES
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0
+#EXTINF:0,ETV BIOSKOP 01
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:0,ETV BIOSKOP 02
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:0,ETV BIOSKOP 03
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:0,ETV BIOSKOP 04
+#EXTGRP:MOVIES
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+#EXTINF:0,RTV SD
+#EXTGRP:KIDS
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:0,Kids TV
+#EXTGRP:KIDS
+https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+#EXTINF:0,MYKIDS
+#EXTGRP:KIDS
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;
+#EXTINF:0,ANIPLUS
+#EXTGRP:KIDS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
+#EXTINF:0,TVRI Aceh
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:0,TVRI Bali
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:0,TVRI Bangka Belitung
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:0,TVRI Bengkulu
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:0,TVRI Gorontalo
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:0,TVRI Jakarta
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:0,TVRI Jambi
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:0,TVRI Jawa Barat
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:0,TVRI Jawa Tengah
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:0,TVRI Jawa Timur
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:0,TVRI Kalimantan Barat
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:0,TVRI Kalimantan Selatan
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:0,TVRI Kalimantan Tengah
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:0,TVRI Kalimantan Timur
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:0,TVRI Lampung
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:0,TVRI Maluku
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:0,TVRI NTB
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:0,TVRI NTT
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:0,TVRI Papua
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:0,TVRI Papua Barat
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:0,TVRI Riau
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTINF:0,TVRI Sulawesi Barat
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:0,TVRI Sulawesi Selatan
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:0,TVRI Sulawesi Tengah
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:0,TVRI Sulawesi Tenggara
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:0,TVRI Sulawesi Utara
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:0,TVRI Sumatera Barat
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:0,TVRI Sumatera Selatan
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:0,TVRI Sumatera Utara
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:0,TVRI Yogyakarta
+#EXTGRP:TVRI GROUP
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:0,MUI TV
+#EXTGRP:TV RELIGI
+https://mui.siar.us/mui/live/playlist.m3u8
+#EXTINF:0,BahrainQuran
+#EXTGRP:TV RELIGI
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:0,Dzikir Pagi
+#EXTGRP:TV RELIGI
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:0,Dzikir Petang
+#EXTGRP:TV RELIGI
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:0,Dzikir Sebelum Tidur
+#EXTGRP:TV RELIGI
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:0,POP MUSIK
+#EXTGRP:MUSIC
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+#EXTINF:0,MALEO
+#EXTGRP:MUSIC
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+#EXTINF:0,MUSIC TV
+#EXTGRP:MUSIC
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:0,ACTIVA TV
+#EXTGRP:MUSIC
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:0,AFN TV
+#EXTGRP:MUSIC
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:0,AFROBEATS HD
+#EXTGRP:MUSIC
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0,IMTV
+#EXTGRP:MUSIC
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:0,K-Pop TV
+#EXTGRP:MUSIC
+https://live.24hrkpop.com/hls/3/stream.m3u8|user-agent=OTTNavigator/1.7.1.6
+#EXTINF:0,New K-Pop
+#EXTGRP:MUSIC
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:0,K-Pop TVPlay
+#EXTGRP:MUSIC
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1
+#EXTINF:0,MIC TV
+#EXTGRP:MUSIC
+https://v2.siar.us/mic/live/playlist.m3u8
+#EXTINF:0,musik TV NASIONAL
+#EXTGRP:MUSIC
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+#EXTINF:0,Rock Entertainment
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#EXTINF:0,CELEBRITIES TV
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#EXTINF:0,ENTERTAINMENT
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#EXTINF:0,ALLPLAY ENT (INDIHOME)
+#EXTGRP:ENTERTAINMENT
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:0,Lifetime
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF:0,Vision Prime
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#EXTINF:0,TV5 Monde Style
+#EXTGRP:ENTERTAINMENT
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTINF:0,Arirang
+#EXTGRP:ENTERTAINMENT
+https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:0,LOVE NATURE
+#EXTGRP:KNOWLEDGE
+https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
+#EXTINF:0,Voice Of America
+#EXTGRP:WORLD NEWS
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:0,CNN International
+#EXTGRP:WORLD NEWS
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Al Jazeera English
+#EXTGRP:WORLD NEWS
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,Euronews English
+#EXTGRP:WORLD NEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+#EXTINF:0,CNA
+#EXTGRP:WORLD NEWS
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:WORLD NEWS
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0,NHK World Japan
+#EXTGRP:WORLD NEWS
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:0,WION
+#EXTGRP:WORLD NEWS
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:0,CNBC Africa
+#EXTGRP:WORLD NEWS
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:0,SABC News
+#EXTGRP:WORLD NEWS
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
+#EXTINF:0,Press TV
+#EXTGRP:WORLD NEWS
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:0,teleSUR English
+#EXTGRP:WORLD NEWS
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0,CNN USA
+#EXTGRP:WORLD NEWS
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Fox Business
+#EXTGRP:WORLD NEWS
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:0,Bloomberg TV
+#EXTGRP:WORLD NEWS
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:0,MSNBC
+#EXTGRP:WORLD NEWS
+http://41.205.93.154:80/MSNBC/index.m3u8
+#EXTINF:0,NewsNation
+#EXTGRP:WORLD NEWS
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:0,HLN
+#EXTGRP:WORLD NEWS
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0,CBS News 24/7
+#EXTGRP:WORLD NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,ABC News Live
+#EXTGRP:WORLD NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,Yahoo! Finance
+#EXTGRP:WORLD NEWS
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0,C-SPAN
+#EXTGRP:WORLD NEWS
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:0,BBC News UK
+#EXTGRP:WORLD NEWS
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:0,GB News
+#EXTGRP:WORLD NEWS
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:0,TalkTV
+#EXTGRP:WORLD NEWS
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:0,ABC News
+#EXTGRP:WORLD NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:0,Sky News Now
+#EXTGRP:WORLD NEWS
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,Al Jazeera Channel
+#EXTGRP:WORLD NEWS
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0,Al Arabiya
+#EXTGRP:WORLD NEWS
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0,Sky News Arabia
+#EXTGRP:WORLD NEWS
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0,TRT Arabi
+#EXTGRP:WORLD NEWS
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:0,RT Arabic
+#EXTGRP:WORLD NEWS
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:0,Al Alam News Network
+#EXTGRP:WORLD NEWS
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:0,Astro Awani
+#EXTGRP:WORLD NEWS
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0,BEIN SPORT 4
+#EXTGRP:SPORTS INDO
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTINF:0,BEIN SPORT 5
+#EXTGRP:SPORTS INDO
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF:0,TVRI Sport
+#EXTGRP:SPORTS INDO
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0,PSJ TV
+#EXTGRP:SPORTS INDO
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:0,BeinSport Xtra
+#EXTGRP:SPORTS
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:0,beIN Sports Xtra en Español
+#EXTGRP:SPORTS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0,ID: Moji
+#EXTGRP:SPORTS
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/480.stream/hdntl=exp=1744137830~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=40f05c7ab270a03436f7cab3253939f351c5fc2c4a8e2464c629d9dc88f6ce2b/chunklist.m3u8
+#EXTINF:0,NBA TV (INDIHOME)
+#EXTGRP:SPORTS
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+#EXTINF:0,TSN 1
+#EXTGRP:SPORTS
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:0,TSN 2
+#EXTGRP:SPORTS
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:0,TSN 3
+#EXTGRP:SPORTS
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:0,TSN 4
+#EXTGRP:SPORTS
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:0,TSN 5
+#EXTGRP:SPORTS
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:0,SUKAN RTM
+#EXTGRP:SPORTS
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:0,MUTV 
+#EXTGRP:SPORTS
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:0,BOXINGTV
+#EXTGRP:SPORTS
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:0,Redbull TV
+#EXTGRP:SPORTS
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0,Dubai Sports 1
+#EXTGRP:SPORTS
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#EXTINF:0,Dubai Sports 2
+#EXTGRP:SPORTS
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+#EXTINF:0,Dubai Sports 3
+#EXTGRP:SPORTS
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+#EXTINF:0,J Sports 1
+#EXTGRP:SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,J Sports 2
+#EXTGRP:SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,J Sports 3
+#EXTGRP:SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,J Sports 4
+#EXTGRP:SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,Indosiar HD
+#EXTGRP:BRI LIGA 1
+https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=e2efd8942355e0d78376a0d509bac379&txTime=67f7b2bd
+#EXTINF:0,POKER TV
+#EXTGRP:UCL  UEL
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:0,optus 2
+#EXTGRP:LIGA INGGRIS
+https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
+#EXTINF:0,optus 3
+#EXTGRP:LIGA INGGRIS
+https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
+#EXTINF:0,POKER TV
+#EXTGRP:LIGA INGGRIS
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:0,POKER TV
+#EXTGRP:LIGA SPANYOL
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:0,TV 1
+#EXTGRP:Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:0,TV 2
+#EXTGRP:Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:0,TV3
+#EXTGRP:Malaysia
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:0,TV Okey
+#EXTGRP:Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:0,TV 6
+#EXTGRP:Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:0,DidikTv KPM
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#EXTINF:0,8TV
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+#EXTINF:0,TV9
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#EXTINF:0,BERITA RTM
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+#EXTINF:0,SUKAN RTM
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+#EXTINF:0,AstroAwani
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+#EXTINF:0,Dewan Rakyat
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+#EXTINF:0,Dewan Negara
+#EXTGRP:Malaysia
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+#EXTINF:0,RTM Asean
+#EXTGRP:Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:0,Padang TV
+#EXTGRP:TV DAERAH
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+#EXTINF:0,BWF
+#EXTGRP:TEST
+https://bf.shandongjncz.com/live/sd-24-4661728.m3u8?txSecret=be5e816c0c3610429af5a6a05c28cf0e&txTime=67dea218
+#EXTINF:0,ASTRO ARENA BOLA
+#EXTGRP:TEST
+https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?session=gfJoyMxE9WJvhAqaZxbHpP
+
 #EXTINF:0,Catholic TV
 #EXTGRP:TV RELIGI
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
