@@ -233,15 +233,6 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:0,Astro Awani
 #EXTGRP:WORLD NEWS
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:0,BEIN SPORT 4
-#EXTGRP:SPORTS INDO
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-#EXTINF:0,BEIN SPORT 5
-#EXTGRP:SPORTS INDO
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-#EXTINF:0,TVRI Sport
-#EXTGRP:SPORTS INDO
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:0,PSJ TV
 #EXTGRP:SPORTS INDO
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -305,24 +296,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:0,J Sports 4
 #EXTGRP:SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0,Indosiar HD
-#EXTGRP:BRI LIGA 1
-https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=e2efd8942355e0d78376a0d509bac379&txTime=67f7b2bd
-#EXTINF:0,POKER TV
-#EXTGRP:UCL  UEL
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:0,optus 2
-#EXTGRP:LIGA INGGRIS
-https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
-#EXTINF:0,optus 3
-#EXTGRP:LIGA INGGRIS
-https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
-#EXTINF:0,POKER TV
-#EXTGRP:LIGA INGGRIS
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:0,POKER TV
-#EXTGRP:LIGA SPANYOL
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:0,TV 1
 #EXTGRP:Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -365,15 +338,6 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:0,RTM Asean
 #EXTGRP:Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:0,Padang TV
-#EXTGRP:TV DAERAH
-https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
-#EXTINF:0,BWF
-#EXTGRP:TEST
-https://bf.shandongjncz.com/live/sd-24-4661728.m3u8?txSecret=be5e816c0c3610429af5a6a05c28cf0e&txTime=67dea218
-#EXTINF:0,ASTRO ARENA BOLA
-#EXTGRP:TEST
-https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?session=gfJoyMxE9WJvhAqaZxbHpP
 #EXTINF:0,Catholic TV
 #EXTGRP:TV RELIGI
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
@@ -458,9 +422,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8
 #EXTINF:0,Elshinta_TV
 #EXTGRP:TV NASIONAL
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
-#EXTINF:0,TVRI_Sport
-#EXTGRP:TV NASIONAL
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
 #EXTINF:0,TVRI
 #EXTGRP:TV NASIONAL
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
@@ -623,9 +584,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 #EXTINF:0,KBS Korea
 #EXTGRP:TV NASIONAL
 https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-#EXTINF:0,Love Nature 4K
-#EXTGRP:TV NASIONAL
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0,KNOWLEDGE
 #EXTGRP:TV NASIONAL
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
