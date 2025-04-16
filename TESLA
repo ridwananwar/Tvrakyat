@@ -5,10 +5,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:0,SCTV 
 #EXTGRP:TV NASIONAL
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:29,TRANS TV
+#EXTINF:0,TRANS TV
 #EXTGRP:TV NASIONAL
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:26,TRANS 7 
+#EXTINF:0,TRANS 7 
 #EXTGRP:TV NASIONAL
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:0,INDOSOIR
@@ -23,25 +23,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:0, KOMPAS TV
 #EXTGRP:TV NASIONAL 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-#EXTINF:36,CNN INDONESIA
+#EXTINF:0,CNN INDONESIA
 #EXTGRP:TV NASIONAL                 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:26,CNBC INDONESIA
+#EXTINF:0,CNBC INDONESIA
 #EXTGRP:TV NASIONAL
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:30,Magna Channel
 #EXTGRP:TV NASIONAL                                                                                       
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:60, METRO TV
+#EXTINF:0, METRO TV
 #EXTGRP:TV NASIONAL                                                                                     
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:24,Berita Satu News World
+#EXTINF:0,Berita Satu News World
 #EXTGRP:TV NASIONAL
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:9,LINGKARTV
+#EXTINF:0,LINGKARTV
 #EXTGRP:TV NASIONAL           
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:47,SANGAJI TV
+#EXTINF:0,SANGAJI TV
 #EXTGRP:TV NASIONAL                                    
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:0,SCTV
@@ -53,243 +53,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:0,TV ONE HD
 #EXTGRP:TV NASIONAL
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;
-#EXTINF:0,Hanacaraka TV
-#EXTGRP:TV DAERAH
-https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-#EXTINF:0,BALI TV
-#EXTGRP:TV DAERAH
-https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-#EXTINF:0,Banten TV
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Bandung TV
-#EXTGRP:TV DAERAH
-http://202.150.153.254:443/bandungtvWEBSITE.m3u8
-#EXTINF:0,Surabaya TV
-#EXTGRP:TV DAERAH
-https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:0,RCTV Cirebon
-#EXTGRP:TV DAERAH
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:0,CarubanTV
-#EXTGRP:TV DAERAH
-https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
-#EXTINF:0,AYU TV
-#EXTGRP:TV DAERAH
-https://rtmp.tvcctube.com:8443/hls/4yuTVCC.m3u8
-#EXTINF:0,Balikpapan TV
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-#EXTINF:0,Dhoho TV- Kediri
-#EXTGRP:TV DAERAH
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Radar Lampung TV
-#EXTGRP:TV DAERAH
-http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
-#EXTINF:0,Elshinta TV
-#EXTGRP:TV DAERAH
-https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
-#EXTINF:0,InspiraTV
-#EXTGRP:TV DAERAH
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:0,AKTV
-#EXTGRP:TV DAERAH
-https://e.siar.us/live/aktv.m3u8
-#EXTINF:0,Dhamma TV
-#EXTGRP:TV DAERAH
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0,Kilisuci TV
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:0,Ficom TV
-#EXTGRP:TV DAERAH
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:0,Sampit TV
-#EXTGRP:TV DAERAH
-https://e.siar.us/live/sampit-tv.m3u8
-#EXTINF:0,Semarang TV
-#EXTGRP:TV DAERAH
-http://116.254.112.74/hls/cakralive.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Madu TV
-#EXTGRP:TV DAERAH
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0,JITV Jogja
-#EXTGRP:TV DAERAH
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:0,Bungo TV
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0,LingkarTV
-#EXTGRP:TV DAERAH
-https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
-#EXTINF:0,jawaposTv
-#EXTGRP:TV DAERAH
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:0,TV Tabalong
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:0,Sakti TV
-#EXTGRP:TV DAERAH
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:0,Duta TV
-#EXTGRP:TV DAERAH
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:0,BRTV
-#EXTGRP:TV DAERAH
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:0,TATV Solo
-#EXTGRP:TV DAERAH
-https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:0,HBO
-#EXTGRP:MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-#EXTINF:0,HBO Hits
-#EXTGRP:MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-#EXTINF:0,HBO Family
-#EXTGRP:MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:0,HBO Signature
-#EXTGRP:MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-#EXTINF:0,Celestial Movies
-#EXTGRP:MOVIES
-https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:0,Celestial Classic
-#EXTGRP:MOVIES
-https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:0,TvN movies HD
-#EXTGRP:MOVIES
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:0,ONE
-#EXTGRP:MOVIES
-https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:0,MY CINEMA
-#EXTGRP:MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;
-#EXTINF:0,MY CINEMA ASIA
-#EXTGRP:MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;
-#EXTINF:0,MY FAMILY
-#EXTGRP:MOVIES
-http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0
-#EXTINF:0,ETV BIOSKOP 01
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:0,ETV BIOSKOP 02
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:0,ETV BIOSKOP 03
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:0,ETV BIOSKOP 04
-#EXTGRP:MOVIES
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
-#EXTINF:0,RTV SD
-#EXTGRP:KIDS
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:0,Kids TV
-#EXTGRP:KIDS
-https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
-#EXTINF:0,MYKIDS
-#EXTGRP:KIDS
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;
-#EXTINF:0,ANIPLUS
-#EXTGRP:KIDS
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
-#EXTINF:0,TVRI Aceh
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:0,TVRI Bali
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:0,TVRI Bangka Belitung
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:0,TVRI Bengkulu
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:0,TVRI Gorontalo
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:0,TVRI Jakarta
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:0,TVRI Jambi
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:0,TVRI Jawa Barat
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:0,TVRI Jawa Tengah
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:0,TVRI Jawa Timur
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:0,TVRI Kalimantan Barat
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:0,TVRI Kalimantan Selatan
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:0,TVRI Kalimantan Tengah
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:0,TVRI Kalimantan Timur
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:0,TVRI Lampung
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:0,TVRI Maluku
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:0,TVRI NTB
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:0,TVRI NTT
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:0,TVRI Papua
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:0,TVRI Papua Barat
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:0,TVRI Riau
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-#EXTINF:0,TVRI Sulawesi Barat
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:0,TVRI Sulawesi Selatan
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:0,TVRI Sulawesi Tengah
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:0,TVRI Sulawesi Tenggara
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:0,TVRI Sulawesi Utara
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:0,TVRI Sumatera Barat
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:0,TVRI Sumatera Selatan
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:0,TVRI Sumatera Utara
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:0,TVRI Yogyakarta
-#EXTGRP:TVRI GROUP
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:0,MUI TV
 #EXTGRP:TV RELIGI
 https://mui.siar.us/mui/live/playlist.m3u8
@@ -611,7 +374,6 @@ https://bf.shandongjncz.com/live/sd-24-4661728.m3u8?txSecret=be5e816c0c3610429af
 #EXTINF:0,ASTRO ARENA BOLA
 #EXTGRP:TEST
 https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?session=gfJoyMxE9WJvhAqaZxbHpP
-
 #EXTINF:0,Catholic TV
 #EXTGRP:TV RELIGI
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
