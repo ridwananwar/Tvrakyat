@@ -1,222 +1,223 @@
 #EXTM3U
-#EXTINF:-1 ,RCTI
+#EXTINF:-1 group-title="VIP",RCTI
 http://ktpremium.online:2095/live/A5675/4866/73606.ts
-#EXTINF:-1 ,RCTI
+#EXTINF:-1 group-title="VIP",RCTI
 http://ktpremium.online:2095/live/A5675/4866/73606.ts
-#EXTINF:-1 ,SCTV
+#EXTINF:-1 group-title="VIP",SCTV
 http://ktpremium.online:2095/live/A5675/4866/73607.ts
-#EXTINF:-1 ,SCTV
+#EXTINF:-1 group-title="VIP",SCTV
 http://ktpremium.online:2095/live/A5675/4866/73607.ts
-#EXTINF:-1 ,TRANSTVHD
+#EXTINF:-1 group-title="VIP",TRANSTVHD
 http://ktpremium.online:2095/live/A5675/4866/73608.ts
-#EXTINF:-1 ,TRANSTVHD
+#EXTINF:-1 group-title="VIP",TRANSTVHD
 http://ktpremium.online:2095/live/A5675/4866/73608.ts
-#EXTINF:-1 ,TRANS7HD
+#EXTINF:-1 group-title="VIP",TRANS7HD
 http://ktpremium.online:2095/live/A5675/4866/73609.ts
-#EXTINF:-1 ,TRANS7HD
+#EXTINF:-1 group-title="VIP",TRANS7HD
 http://ktpremium.online:2095/live/A5675/4866/73609.ts
-#EXTINF:-1 ,TV ONE
+#EXTINF:-1 group-title="VIP",TV ONE
 http://ktpremium.online:2095/live/A5675/4866/73610.ts
-#EXTINF:-1 ,TV ONE
+#EXTINF:-1 group-title="VIP",TV ONE
 http://ktpremium.online:2095/live/A5675/4866/73610.ts
-#EXTINF:-1 ,METROTV
+#EXTINF:-1 group-title="VIP",METROTV
 http://ktpremium.online:2095/live/A5675/4866/73611.ts
-#EXTINF:-1 ,METROTV
+#EXTINF:-1 group-title="VIP",METROTV
 http://ktpremium.online:2095/live/A5675/4866/73611.ts
-#EXTINF:-1 ,KOMPASTV
+#EXTINF:-1 group-title="VIP",KOMPASTV
 http://ktpremium.online:2095/live/A5675/4866/73612.ts
-#EXTINF:-1 ,KOMPASTV
+#EXTINF:-1 group-title="VIP",KOMPASTV
 http://ktpremium.online:2095/live/A5675/4866/73612.ts
-#EXTINF:-1 ,CNN INDONESIA
+#EXTINF:-1 group-title="VIP",CNN INDONESIA
 http://ktpremium.online:2095/live/A5675/4866/73613.ts
-#EXTINF:-1 ,CNN INDONESIA
+#EXTINF:-1 group-title="VIP",CNN INDONESIA
 http://ktpremium.online:2095/live/A5675/4866/73613.ts
-#EXTINF:-1 ,BTV
+#EXTINF:-1 group-title="VIP",BTV
 http://ktpremium.online:2095/live/A5675/4866/73614.ts
-#EXTINF:-1 ,BTV
+#EXTINF:-1 group-title="VIP",BTV
 http://ktpremium.online:2095/live/A5675/4866/73614.ts
-#EXTINF:-1 ,NET TV
+#EXTINF:-1 group-title="VIP",NET TV
 http://ktpremium.online:2095/live/A5675/4866/73615.ts
-#EXTINF:-1 ,NET TV
+#EXTINF:-1 group-title="VIP",NET TV
 http://ktpremium.online:2095/live/A5675/4866/73615.ts
-#EXTINF:-1 ,MNCTV
+#EXTINF:-1 group-title="VIP",MNCTV
 http://ktpremium.online:2095/live/A5675/4866/73616.ts
-#EXTINF:-1 ,MNCTV
+#EXTINF:-1 group-title="VIP",MNCTV
 http://ktpremium.online:2095/live/A5675/4866/73616.ts
-#EXTINF:-1 ,INDOSIAR
+#EXTINF:-1 group-title="VIP",INDOSIAR
 http://ktpremium.online:2095/live/A5675/4866/73617.ts
-#EXTINF:-1 ,INDOSIAR
+#EXTINF:-1 group-title="VIP",INDOSIAR
 http://ktpremium.online:2095/live/A5675/4866/73617.ts
-#EXTINF:-1 ,AN TV
+#EXTINF:-1 group-title="VIP",AN TV
 http://ktpremium.online:2095/live/A5675/4866/73618.ts
-#EXTINF:-1 ,AN TV
+#EXTINF:-1 group-title="VIP",AN TV
 http://ktpremium.online:2095/live/A5675/4866/73618.ts
-#EXTINF:-1 ,GTV
+#EXTINF:-1 group-title="VIP",GTV
 http://ktpremium.online:2095/live/A5675/4866/73619.ts
-#EXTINF:-1 ,GTV
+#EXTINF:-1 group-title="VIP",GTV
 http://ktpremium.online:2095/live/A5675/4866/73619.ts
-#EXTINF:-1 ,TVRI
+#EXTINF:-1 group-title="VIP",TVRI
 http://ktpremium.online:2095/live/A5675/4866/73620.ts
-#EXTINF:-1 ,TVRI
+#EXTINF:-1 group-title="VIP",TVRI
 http://ktpremium.online:2095/live/A5675/4866/73620.ts
-#EXTINF:-1 ,JTV
+#EXTINF:-1 group-title="VIP",JTV
 http://ktpremium.online:2095/live/A5675/4866/73627.ts
-#EXTINF:-1 ,TV9
+#EXTINF:-1 group-title="VIP",TV9
 http://ktpremium.online:2095/live/A5675/4866/73629.ts
-#EXTINF:-1 ,JAWAPOS TV
+#EXTINF:-1 group-title="VIP",JAWAPOS TV
 http://ktpremium.online:2095/live/A5675/4866/73631.ts
-#EXTINF:-1 ,ALJAZEERA
+#EXTINF:-1 group-title="VIP",ALJAZEERA
 http://ktpremium.online:2095/live/A5675/4866/73642.ts
-#EXTINF:-1 ,CNN INTERNATIONAL
+#EXTINF:-1 group-title="VIP",CNN INTERNATIONAL
 http://ktpremium.online:2095/live/A5675/4866/73643.ts
-#EXTINF:-1 ,DW
+#EXTINF:-1 group-title="VIP",DW
 http://ktpremium.online:2095/live/A5675/4866/73644.ts
-#EXTINF:-1 ,FRANCH24
+#EXTINF:-1 group-title="VIP",FRANCH24
 http://ktpremium.online:2095/live/A5675/4866/73645.ts
-#EXTINF:-1 ,CNA
+#EXTINF:-1 group-title="VIP",CNA
 http://ktpremium.online:2095/live/A5675/4866/73646.ts
-#EXTINF:-1 ,KBS WORLD
+#EXTINF:-1 group-title="VIP",KBS WORLD
 http://ktpremium.online:2095/live/A5675/4866/73647.ts
-#EXTINF:-1 ,ABC AUSTRALIA
+#EXTINF:-1 group-title="VIP",ABC AUSTRALIA
 http://ktpremium.online:2095/live/A5675/4866/73648.ts
-#EXTINF:-1 ,NHK WORLD JAPAN
+#EXTINF:-1 group-title="VIP",NHK WORLD JAPAN
 http://ktpremium.online:2095/live/A5675/4866/73649.ts
-#EXTINF:-1 ,EURO NEWS
+#EXTINF:-1 group-title="VIP",EURO NEWS
 http://ktpremium.online:2095/live/A5675/4866/73650.ts
-#EXTINF:-1 ,BBC
+#EXTINF:-1 group-title="VIP",BBC
 http://ktpremium.online:2095/live/A5675/4866/73651.ts
-#EXTINF:-1 ,CNBC INDONESIA
+#EXTINF:-1 group-title="VIP",CNBC INDONESIA
 http://ktpremium.online:2095/live/A5675/4866/73652.ts
-#EXTINF:-1 ,TRT WORLD
+#EXTINF:-1 group-title="VIP",TRT WORLD
 http://ktpremium.online:2095/live/A5675/4866/73653.ts
-#EXTINF:-1 ,CELESTIAL MOVIE
+#EXTINF:-1 group-title="VIP",CELESTIAL MOVIE
 http://ktpremium.online:2095/live/A5675/4866/73655.ts
-#EXTINF:-1 ,CCM
+#EXTINF:-1 group-title="VIP",CCM
 http://ktpremium.online:2095/live/A5675/4866/73656.ts
-#EXTINF:-1 ,OSN TV ONE
+#EXTINF:-1 group-title="VIP",OSN TV ONE
 http://ktpremium.online:2095/live/A5675/4866/73658.ts
-#EXTINF:-1 ,THRILL
+#EXTINF:-1 group-title="VIP",THRILL
 http://ktpremium.online:2095/live/A5675/4866/73660.ts
-#EXTINF:-1 ,AXN
+#EXTINF:-1 group-title="VIP",AXN
 http://ktpremium.online:2095/live/A5675/4866/73661.ts
-#EXTINF:-1 ,HITS
+#EXTINF:-1 group-title="VIP",HITS
 http://ktpremium.online:2095/live/A5675/4866/73662.ts
-#EXTINF:-1 ,ANIMAX
+#EXTINF:-1 group-title="VIP",ANIMAX
 http://ktpremium.online:2095/live/A5675/4866/933048.ts
-#EXTINF:-1 ,ROCK ACTION
+#EXTINF:-1 group-title="VIP",ROCK ACTION
 http://ktpremium.online:2095/live/A5675/4866/933050.ts
-#EXTINF:-1 ,ROCK ENT
+#EXTINF:-1 group-title="VIP",ROCK ENT
 http://ktpremium.online:2095/live/A5675/4866/933051.ts
-#EXTINF:-1 ,SEA TODAY
+#EXTINF:-1 group-title="VIP",SEA TODAY
 http://ktpremium.online:2095/live/A5675/4866/947784.ts
-#EXTINF:-1 ,CITRA DRAMA
+#EXTINF:-1 group-title="VIP",CITRA DRAMA
 http://ktpremium.online:2095/live/A5675/4866/901193.ts
-#EXTINF:-1 ,CITRA DANGDUT
+#EXTINF:-1 group-title="VIP",CITRA DANGDUT
 http://ktpremium.online:2095/live/A5675/4866/901194.ts
-#EXTINF:-1 ,AJWA TV
+#EXTINF:-1 group-title="VIP",AJWA TV
 http://ktpremium.online:2095/live/A5675/4866/73636.ts
-#EXTINF:-1 ,ARIRANG KOREA
+#EXTINF:-1 group-title="VIP",ARIRANG KOREA
 http://ktpremium.online:2095/live/A5675/4866/73990.ts
-#EXTINF:-1 ,NUSANTARATV
+#EXTINF:-1 group-title="VIP",NUSANTARATV
 http://ktpremium.online:2095/live/A5675/4866/34721.ts
-#EXTINF:-1 ,ID TV
+#EXTINF:-1 group-title="VIP",ID TV
 http://ktpremium.online:2095/live/A5675/4866/886796.ts
-#EXTINF:-1 ,DHAMMATV
+#EXTINF:-1 group-title="VIP",DHAMMATV
 http://ktpremium.online:2095/live/A5675/4866/886807.ts
-#EXTINF:-1 ,MUTV
+#EXTINF:-1 group-title="VIP",MUTV
 http://ktpremium.online:2095/live/A5675/4866/886811.ts
-#EXTINF:-1 ,MADUTV
+#EXTINF:-1 group-title="VIP",MADUTV
 http://ktpremium.online:2095/live/A5675/4866/886833.ts
-#EXTINF:-1 ,MQTV
+#EXTINF:-1 group-title="VIP",MQTV
 http://ktpremium.online:2095/live/A5675/4866/886836.ts
-#EXTINF:-1 ,TVKU
+#EXTINF:-1 group-title="VIP",TVKU
 http://ktpremium.online:2095/live/A5675/4866/900813.ts
-#EXTINF:-1 ,DAITV
+#EXTINF:-1 group-title="VIP",DAITV
 http://ktpremium.online:2095/live/A5675/4866/921746.ts
-#EXTINF:-1 ,BANDUNGTV
+#EXTINF:-1 group-title="VIP",BANDUNGTV
 http://ktpremium.online:2095/live/A5675/4866/921747.ts
-#EXTINF:-1 ,EWTN TV
+#EXTINF:-1 group-title="VIP",EWTN TV
 http://ktpremium.online:2095/live/A5675/4866/946466.ts
-#EXTINF:-1 ,TAWAF TV6
+#EXTINF:-1 group-title="VIP",TAWAF TV6
 http://ktpremium.online:2095/live/A5675/4866/946468.ts
-#EXTINF:-1 ,VISION PRIME
+#EXTINF:-1 group-title="VIP",VISION PRIME
 http://ktpremium.online:2095/live/A5675/4866/946469.ts
-#EXTINF:-1 ,MNC MUSLIMTV
+#EXTINF:-1 group-title="VIP",MNC MUSLIMTV
 http://ktpremium.online:2095/live/A5675/4866/946470.ts
-#EXTINF:-1 ,JAWA POS TV
+#EXTINF:-1 group-title="VIP",JAWA POS TV
 http://ktpremium.online:2095/live/A5675/4866/947789.ts
-#EXTINF:-1 ,KIK TV
+#EXTINF:-1 group-title="VIP",KIK TV
 http://ktpremium.online:2095/live/A5675/4866/947917.ts
-#EXTINF:-1 ,RANS CHANNEL TV
+#EXTINF:-1 group-title="VIP",RANS CHANNEL TV
 http://ktpremium.online:2095/live/A5675/4866/73982.ts
-#EXTINF:-1 ,REFORMED 21
+#EXTINF:-1 group-title="VIP",REFORMED 21
 http://ktpremium.online:2095/live/A5675/4866/73605.ts
 ======K I D S===========================
-#EXTINF:-1 ,HIP HIP HORE
+#EXTINF:-1 group-title="VIP",HIP HIP HORE
 http://ktpremium.online:2095/live/A5675/4866/73989.ts
-#EXTINF:-1 ,ANIPLUS
+#EXTINF:-1 group-title="VIP",ANIPLUS
 http://ktpremium.online:2095/live/A5675/4866/73884.ts
-#EXTINF:-1 ,ANIMAX
+#EXTINF:-1 group-title="VIP",ANIMAX
 http://ktpremium.online:2095/live/A5675/4866/73883.ts
-#EXTINF:-1 ,CN CARTOON
+#EXTINF:-1 group-title="VIP",CN CARTOON
 http://ktpremium.online:2095/live/A5675/4866/73934.ts
-#EXTINF:-1 ,CE BEBIES BBC
+#EXTINF:-1 group-title="VIP",CE BEBIES BBC
 http://ktpremium.online:2095/live/A5675/4866/73935.ts
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 group-title="VIP",DISNEY CHANNEL
 http://ktpremium.online:2095/live/A5675/4866/73938.ts
-#EXTINF:-1 ,HOREE
+#EXTINF:-1 group-title="VIP",HOREE
 http://ktpremium.online:2095/live/A5675/4866/73945.ts
-#EXTINF:-1 ,NICK JR
+#EXTINF:-1 group-title="VIP",NICK JR
 http://ktpremium.online:2095/live/A5675/4866/73946.ts
-#EXTINF:-1 ,NICKELODEON
+#EXTINF:-1 group-title="VIP",NICKELODEON
 http://ktpremium.online:2095/live/A5675/4866/73947.ts
-#EXTINF:-1 ,BABYTV
+#EXTINF:-1 group-title="VIP",BABYTV
 http://ktpremium.online:2095/live/A5675/4866/511316.ts
-#EXTINF:-1 ,DISNEY JUNIOR
+#EXTINF:-1 group-title="VIP",DISNEY JUNIOR
 http://ktpremium.online:2095/live/A5675/4866/511324.ts
-#EXTINF:-1 ,XD DISNEY
+#EXTINF:-1 group-title="VIP",XD DISNEY
 http://ktpremium.online:2095/live/A5675/4866/511328.ts
-#EXTINF:-1 ,MOMOTV
+#EXTINF:-1 group-title="VIP",MOMOTV
 http://ktpremium.online:2095/live/A5675/4866/515120.ts
-#EXTINF:-1 ,GOLDEN TV
+#EXTINF:-1 group-title="VIP",GOLDEN TV
 http://ktpremium.online:2095/live/A5675/4866/515122.ts
-#EXTINF:-1 ,BABYTV
+#EXTINF:-1 group-title="VIP",BABYTV
 http://ktpremium.online:2095/live/A5675/4866/694339.ts
-#EXTINF:-1 ,ZOO MOO
+#EXTINF:-1 group-title="VIP",ZOO MOO
 http://ktpremium.online:2095/live/A5675/4866/695556.ts
-#EXTINF:-1 ,ELTV
+#EXTINF:-1 group-title="VIP",ELTV
 http://ktpremium.online:2095/live/A5675/4866/900863.ts
-#EXTINF:-1 ,DREAMWORKS
+#EXTINF:-1 group-title="VIP",DREAMWORKS
 http://ktpremium.online:2095/live/A5675/4866/921749.ts
-#EXTINF:-1 ,TW TV
+#EXTINF:-1 group-title="VIP",TW TV
 http://ktpremium.online:2095/live/A5675/4866/947922.ts
-#EXTINF:-1 ,DAVINCI
+#EXTINF:-1 group-title="VIP",DAVINCI
 http://ktpremium.online:2095/live/A5675/4866/948091.ts
-#EXTINF:-1 ,NICE BINGO
+#EXTINF:-1 group-title="VIP",NICE BINGO
 http://ktpremium.online:2095/live/A5675/4866/995287.ts
-#EXTINF:-1 ,CBCYOYO
+#EXTINF:-1 group-title="VIP",CBCYOYO
 http://ktpremium.online:2095/live/A5675/4866/991028.ts
 ======S P O R T==============================
-#EXTINF:-1 ,START SPORT1
+#EXTINF:-1 group-title="VIP",START SPORT1
 http://ktpremium.online:2095/live/A5675/4866/915314.ts
-#EXTINF:-1 ,START SPORT2
+#EXTINF:-1 group-title="VIP",START SPORT2
 http://ktpremium.online:2095/live/A5675/4866/915315.ts
-#EXTINF:-1 ,SPOTV1
+#EXTINF:-1 group-title="VIP",SPOTV1
 http://ktpremium.online:2095/live/A5675/4866/26318.ts
-#EXTINF:-1 ,SPOTV2
+#EXTINF:-1 group-title="VIP",SPOTV2
 http://ktpremium.online:2095/live/A5675/4866/73957.ts
-#EXTINF:-1 ,SPOTV
+#EXTINF:-1 group-title="VIP",SPOTV
 http://ktpremium.online:2095/live/A5675/4866/73956.ts
-#EXTINF:-1 ,BEIN SOPRT1
+#EXTINF:-1 group-title="VIP",BEIN SOPRT1
 http://ktpremium.online:2095/live/A5675/4866/26321.ts
-#EXTINF:-1 ,BEIN SPORT2
+#EXTINF:-1 group-title="VIP",BEIN SPORT2
 http://ktpremium.online:2095/live/A5675/4866/912557.ts
-#EXTINF:-1 ,ASTRO ARENA
+#EXTINF:-1 group-title="VIP",ASTRO ARENA
 http://ktpremium.online:2095/live/A5675/4866/26308.ts
-#EXTINF:-1 ,ASTRO ARENA1
+#EXTINF:-1 group-title="VIP",ASTRO ARENA1
 http://ktpremium.online:2095/live/A5675/4866/913178.ts
-#EXTINF:-1 ,ASTRO ARENA2
+#EXTINF:-1 group-title="VIP",ASTRO ARENA2
 http://ktpremium.online:2095/live/A5675/4866/26306.ts
+
 
 =========ridwanTV================================================================
 
