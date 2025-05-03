@@ -135,6 +135,10 @@ http://ktpremium.site:2095/live/110420220445/abcd1234/73607.ts
 https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVRI SPORT
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVRI WORLD
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/295291
 ======================================================================================================================
 #EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_1
 http://ktpremium.online:2095/live/A5675/4866/905963.ts
