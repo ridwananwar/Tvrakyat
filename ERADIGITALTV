@@ -188,6 +188,10 @@ https://zozotv.xyz:443/live/usez37/zxy921/346.ts
 https://zozotv.xyz:443/live/usez37/zxy921/51.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI
 https://zozotv.xyz:443/live/usez37/zxy921/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI SPORT
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI WORLD
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/295291
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDONESIA",Rtv
 https://zozotv.xyz:443/live/usez37/zxy921/364.ts
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="INDONESIA",O Channel
