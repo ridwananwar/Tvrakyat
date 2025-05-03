@@ -131,6 +131,40 @@ http://ktpremium.site:2095/live/110420220445/abcd1234/73605.ts
 http://ktpremium.site:2095/live/110420220445/abcd1234/73606.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SCTV HD
 http://ktpremium.site:2095/live/110420220445/abcd1234/73607.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
+======================================================================================================================
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_1
+http://ktpremium.online:2095/live/A5675/4866/905963.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_2
+http://ktpremium.online:2095/live/A5675/4866/905962.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_3
+http://ktpremium.online:2095/live/A5675/4866/905961.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_4
+http://ktpremium.online:2095/live/A5675/4866/905960.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_5
+http://ktpremium.online:2095/live/A5675/4866/905959.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_6
+http://ktpremium.online:2095/live/A5675/4866/905949.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_7
+http://ktpremium.online:2095/live/A5675/4866/905948.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_8
+http://ktpremium.online:2095/live/A5675/4866/905947.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_9
+http://ktpremium.online:2095/live/A5675/4866/905945.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_10
+http://ktpremium.online:2095/live/A5675/4866/905944.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_11
+http://ktpremium.online:2095/live/A5675/4866/905942.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_12
+http://ktpremium.online:2095/live/A5675/4866/905941.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_13
+http://ktpremium.online:2095/live/A5675/4866/905940.ts
+#EXTINF:-1 ,tvg-id="" tvg-name="NETFLIX VIP TV" group-title="NETFLIX VIP ONLINE",NETFLIXHD 24/7_14
+http://ktpremium.online:2095/live/A5675/4866/905964.ts
+
 ======================================================================================================================
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://zozotv.xyz:443/live/usez37/zxy921/50.ts
@@ -167,10 +201,7 @@ https://zozotv.xyz:443/live/usez37/zxy921/144.ts
 #EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="INDONESIA",iNews
 https://zozotv.xyz:443/live/usez37/zxy921/2203.ts
 ==================================================================================================================================================
-#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
-https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
-https://d37nf5n4fr3338.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",Indosiar HD
 http://tvking.xyz:8080/live/Stv2991/A67121/5117.ts
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",Citra Drama
@@ -238,9 +269,9 @@ https://zozotv.xyz:443/live/usez37/zxy921/27.ts
 https://zozotv.xyz:443/live/usez37/zxy921/28.ts
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
 https://zozotv.xyz:443/live/usez37/zxy921/30.ts
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-A
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS TV",Ceria-A
 https://zozotv.xyz:443/live/usez37/zxy921/31.ts
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-B
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS TV",Ceria-B
 https://zozotv.xyz:443/live/usez37/zxy921/32.ts
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name=" Ria " tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", Ria 
 https://zozotv.xyz:443/live/usez37/zxy921/532.ts
@@ -316,123 +347,127 @@ https://zozotv.xyz:443/live/usez37/zxy921/77.ts
 https://zozotv.xyz:443/live/usez37/zxy921/78.ts
 #EXTINF:-1 tvg-id="Kplus" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA",K+
 https://zozotv.xyz:443/live/usez37/zxy921/80.ts
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAINMENT",KIX
+
+
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="ENTERTAIN&KNOWLEDGE TV",KIX
 https://zozotv.xyz:443/live/usez37/zxy921/82.ts
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="ENTERTAIN&KNOWLEDGE TV",AXN
 https://zozotv.xyz:443/live/usez37/zxy921/83.ts
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="ENTERTAINMENT",Warner TV
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="ENTERTAIN&KNOWLEDGE TV",Warner TV
 https://zozotv.xyz:443/live/usez37/zxy921/86.ts
-#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png" group-title="ENTERTAINMENT",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png" group-title="ENTERTAIN&KNOWLEDGE TV",Lifetime
 https://zozotv.xyz:443/live/usez37/zxy921/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="ENTERTAIN&KNOWLEDGE TV",Blue Ant Entertainment
 https://zozotv.xyz:443/live/usez37/zxy921/88.ts
-#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/gJBkjCt/dghjc.png" group-title="ENTERTAINMENT",HGTV
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/gJBkjCt/dghjc.png" group-title="ENTERTAIN&KNOWLEDGE TV",HGTV
 https://zozotv.xyz:443/live/usez37/zxy921/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="https://i.ibb.co/fn2qdmL/1685164526566.png" group-title="ENTERTAINMENT",Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="https://i.ibb.co/fn2qdmL/1685164526566.png" group-title="ENTERTAIN&KNOWLEDGE TV",Crime & Investigation
 https://zozotv.xyz:443/live/usez37/zxy921/845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="Movies",Siar
-https://zozotv.xyz:443/live/usez37/zxy921/1912.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="Movies",Dunia Senima
-https://zozotv.xyz:443/live/usez37/zxy921/1909.ts
-#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="Movies",Degup
-https://zozotv.xyz:443/live/usez37/zxy921/1908.ts
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Movies",BOO (Malay)
-https://zozotv.xyz:443/live/usez37/zxy921/408.ts
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
-https://zozotv.xyz:443/live/usez37/zxy921/96.ts
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO (ID)
-https://zozotv.xyz:443/live/usez37/zxy921/693.ts
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movies",HBO Hits
-https://zozotv.xyz:443/live/usez37/zxy921/97.ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movies",HBO Family
-https://zozotv.xyz:443/live/usez37/zxy921/98.ts
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movies",HBO Signature
-https://zozotv.xyz:443/live/usez37/zxy921/99.ts
-#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="Movies",ShowCase Movies
-https://zozotv.xyz:443/live/usez37/zxy921/385.ts
-#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="Movies",Rock Action
-https://zozotv.xyz:443/live/usez37/zxy921/89.ts
-#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Movies",Galaxy
-https://zozotv.xyz:443/live/usez37/zxy921/108.ts
-#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="Movies",Galaxy Premium
-https://zozotv.xyz:443/live/usez37/zxy921/109.ts
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Movies",Cinemax
-https://zozotv.xyz:443/live/usez37/zxy921/107.ts
-#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="Movies",Cinemachi
-https://zozotv.xyz:443/live/usez37/zxy921/2000.ts
-#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="Movies",Cinemachi Action
-https://zozotv.xyz:443/live/usez37/zxy921/1999.ts
-#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="Movies",Cinemachi MAX
-https://zozotv.xyz:443/live/usez37/zxy921/1998.ts
-#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="Movies",Cinemachi Xtra
-https://zozotv.xyz:443/live/usez37/zxy921/1997.ts
-#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="Movies",Cinemachi Kids
-https://zozotv.xyz:443/live/usez37/zxy921/1996.ts
-#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="Movies",CinemaWorld
-https://zozotv.xyz:443/live/usez37/zxy921/111.ts
-#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Movies",My Cinema
-https://zozotv.xyz:443/live/usez37/zxy921/394.ts
-#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Movies",My Cinema Asia
-https://zozotv.xyz:443/live/usez37/zxy921/395.ts
-#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Movies",My Family
-https://zozotv.xyz:443/live/usez37/zxy921/396.ts
-#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Movies",&Prive HD
-https://zozotv.xyz:443/live/usez37/zxy921/105.ts
-#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Movies",&Flix HD
-https://zozotv.xyz:443/live/usez37/zxy921/104.ts
-#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Movies",Sony PIX
-https://zozotv.xyz:443/live/usez37/zxy921/298.ts
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Movies",Star Movies
-https://zozotv.xyz:443/live/usez37/zxy921/299.ts
-#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movies",Star Movies Select
-https://zozotv.xyz:443/live/usez37/zxy921/300.ts
-#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",HITS Movies
-https://zozotv.xyz:443/live/usez37/zxy921/110.ts
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Movies",Thrill
-https://zozotv.xyz:443/live/usez37/zxy921/112.ts
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Movies",IMC
-https://zozotv.xyz:443/live/usez37/zxy921/113.ts
-#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="Movies",Flik
-https://zozotv.xyz:443/live/usez37/zxy921/114.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="KNOWLEDGE ",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="ENTERTAIN&KNOWLEDGE TV",Discovery Channel
 https://zozotv.xyz:443/live/usez37/zxy921/124.ts
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="KNOWLEDGE ",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="ENTERTAIN&KNOWLEDGE TV",Discovery Asia
 https://zozotv.xyz:443/live/usez37/zxy921/125.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="KNOWLEDGE ",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="ENTERTAIN&KNOWLEDGE TV",Animal Planet
 https://zozotv.xyz:443/live/usez37/zxy921/123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="ENTERTAIN&KNOWLEDGE TV",Love Nature
 https://zozotv.xyz:443/live/usez37/zxy921/116.ts
-#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE ",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="ENTERTAIN&KNOWLEDGE TV",BBC Earth
 https://zozotv.xyz:443/live/usez37/zxy921/117.ts
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="ENTERTAIN&KNOWLEDGE TV",DMAX
 https://zozotv.xyz:443/live/usez37/zxy921/118.ts
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="KNOWLEDGE ",History
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="ENTERTAIN&KNOWLEDGE TV",History
 https://zozotv.xyz:443/live/usez37/zxy921/119.ts
-#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="KNOWLEDGE ",AFC
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="ENTERTAIN&KNOWLEDGE TV",AFC
 https://zozotv.xyz:443/live/usez37/zxy921/127.ts
-#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="KNOWLEDGE ",TLC
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="ENTERTAIN&KNOWLEDGE TV",TLC
 https://zozotv.xyz:443/live/usez37/zxy921/128.ts
-#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/wNHRNJg/1691448706318.png" group-title="KIDS",Moonbug
+
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="MOVIES TV",Siar
+https://zozotv.xyz:443/live/usez37/zxy921/1912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="MOVIES TV",Dunia Senima
+https://zozotv.xyz:443/live/usez37/zxy921/1909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="MOVIES TV",Degup
+https://zozotv.xyz:443/live/usez37/zxy921/1908.ts
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MOVIES TV",BOO (Malay)
+https://zozotv.xyz:443/live/usez37/zxy921/408.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES TV",HBO
+https://zozotv.xyz:443/live/usez37/zxy921/96.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES TV",HBO (ID)
+https://zozotv.xyz:443/live/usez37/zxy921/693.ts
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES TV",HBO Hits
+https://zozotv.xyz:443/live/usez37/zxy921/97.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES TV",HBO Family
+https://zozotv.xyz:443/live/usez37/zxy921/98.ts
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES TV",HBO Signature
+https://zozotv.xyz:443/live/usez37/zxy921/99.ts
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES TV",ShowCase Movies
+https://zozotv.xyz:443/live/usez37/zxy921/385.ts
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="MOVIES TV",Rock Action
+https://zozotv.xyz:443/live/usez37/zxy921/89.ts
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES TV",Galaxy
+https://zozotv.xyz:443/live/usez37/zxy921/108.ts
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="MOVIES TV",Galaxy Premium
+https://zozotv.xyz:443/live/usez37/zxy921/109.ts
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MOVIES TV",Cinemax
+https://zozotv.xyz:443/live/usez37/zxy921/107.ts
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="MOVIES TV",Cinemachi
+https://zozotv.xyz:443/live/usez37/zxy921/2000.ts
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="MOVIES TV",Cinemachi Action
+https://zozotv.xyz:443/live/usez37/zxy921/1999.ts
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="MOVIES TV",Cinemachi MAX
+https://zozotv.xyz:443/live/usez37/zxy921/1998.ts
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="MOVIES TV",Cinemachi Xtra
+https://zozotv.xyz:443/live/usez37/zxy921/1997.ts
+#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="MOVIES TV",Cinemachi Kids
+https://zozotv.xyz:443/live/usez37/zxy921/1996.ts
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="MOVIES TV",CinemaWorld
+https://zozotv.xyz:443/live/usez37/zxy921/111.ts
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="MOVIES TV",My Cinema
+https://zozotv.xyz:443/live/usez37/zxy921/394.ts
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="MOVIES TV",My Cinema Asia
+https://zozotv.xyz:443/live/usez37/zxy921/395.ts
+#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MOVIES TV",My Family
+https://zozotv.xyz:443/live/usez37/zxy921/396.ts
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="MOVIES TV",&Prive HD
+https://zozotv.xyz:443/live/usez37/zxy921/105.ts
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="MOVIES TV",&Flix HD
+https://zozotv.xyz:443/live/usez37/zxy921/104.ts
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MOVIES TV",Sony PIX
+https://zozotv.xyz:443/live/usez37/zxy921/298.ts
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MOVIES TV",Star Movies
+https://zozotv.xyz:443/live/usez37/zxy921/299.ts
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="MOVIES TV",Star Movies Select
+https://zozotv.xyz:443/live/usez37/zxy921/300.ts
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES TV",HITS Movies
+https://zozotv.xyz:443/live/usez37/zxy921/110.ts
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES TV",Thrill
+https://zozotv.xyz:443/live/usez37/zxy921/112.ts
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="MOVIES TV",IMC
+https://zozotv.xyz:443/live/usez37/zxy921/113.ts
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES TV",Flik
+https://zozotv.xyz:443/live/usez37/zxy921/114.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/wNHRNJg/1691448706318.png" group-title="KIDS TV",Moonbug
 https://zozotv.xyz:443/live/usez37/zxy921/1025.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (INDO)" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIDS",Cartoon Network (INDO)
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (INDO)" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIDS TV",Cartoon Network (INDO)
 https://zozotv.xyz:443/live/usez37/zxy921/342.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="KIDS TV",Cartoon Network
 https://zozotv.xyz:443/live/usez37/zxy921/132.ts
-#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon (INDO)" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS",Nickelodeon (INDO)
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon (INDO)" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS TV",Nickelodeon (INDO)
 https://zozotv.xyz:443/live/usez37/zxy921/344.ts
-#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="KIDS TV",Nickelodeon
 https://zozotv.xyz:443/live/usez37/zxy921/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (INDO)" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS",Nick Jr (INDO)
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (INDO)" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS TV",Nick Jr (INDO)
 https://zozotv.xyz:443/live/usez37/zxy921/343.ts
-#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS",Nick Jr
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="KIDS TV",Nick Jr
 https://zozotv.xyz:443/live/usez37/zxy921/137.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks (INDO)" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="KIDS",Dreamworks (INDO)
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks (INDO)" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="KIDS TV",Dreamworks (INDO)
 https://zozotv.xyz:443/live/usez37/zxy921/350.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="KIDS",Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="KIDS TV",Dreamworks
 https://zozotv.xyz:443/live/usez37/zxy921/134.ts
-#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="KIDS",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="KIDS TV",Boomerang
 https://zozotv.xyz:443/live/usez37/zxy921/135.ts
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="KIDS",BabyFirst
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="KIDS TV",BabyFirst
 https://zozotv.xyz:443/live/usez37/zxy921/141.ts
 #EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="https://i.ibb.co/SmMjGyq/zcaa.png" group-title="NEWS",SEA Today
 https://zozotv.xyz:443/live/usez37/zxy921/145.ts
@@ -530,13 +565,13 @@ https://zozotv.xyz:443/live/usez37/zxy921/170.ts
 https://zozotv.xyz:443/live/usez37/zxy921/171.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://i.ibb.co/gzJKj9R/TW.png" group-title="OTHERS",Tawaf TV
 https://zozotv.xyz:443/live/usez37/zxy921/172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS",Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS TV",Cbeebies
 https://zozotv.xyz:443/live/usez37/zxy921/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="KIDS",Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="KIDS TV",Baby TV
 https://zozotv.xyz:443/live/usez37/zxy921/694.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="NEWS",CNN International
 https://zozotv.xyz:443/live/usez37/zxy921/842.ts
-#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAINMENT",HITS
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="ENTERTAIN&KNOWLEDGE TV",HITS
 https://zozotv.xyz:443/live/usez37/zxy921/843.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbJade.png" group-title="REP CHINESE",TVB Jade
 https://zozotv.xyz:443/live/usez37/zxy921/2118.ts
@@ -4187,726 +4222,725 @@ https://stream.hownetwork.xyz/xxx/unlocked-2023-webdl/11/480.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KOREAN_MOVIES",Jung_E (2023)
 https://stream.hownetwork.xyz/xxx/junge-2023-webdl/7/480.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",JOHN_WICK_CHAPTER_4(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",JOHN_WICK_CHAPTER_4(2023)
 https://data01.mv21.cc/b/4/%5B480p%5DJohn.Wick.Chapter.4.2023.Blu-Ray-melongmovie.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",JOY_RIDE_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",JOY_RIDE_(2023)
 https://data01.mv21.cc/b/5/melongmovie.joy.ride.2023.web.480-muxed.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",THE_FLASH_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",THE_FLASH_(2023)
 https://data01.mv21.cc/b/6/D21.FUN-The-Flash-2023-1692681512.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",LEO_(2023)_ANIME
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",LEO_(2023)_ANIME
 https://www.nonton168.com/movies/desember2022/DSI.Leo.2023.WEB.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Badland Hunters (2024)_korea
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Badland Hunters (2024)_korea
 https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",The Roundup: No Way Out (2023)_korea
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Roundup: No Way Out (2023)_korea
 https://www.dropbox.com/scl/fi/bemyvuf3w25iff6es5r6v/D21.FUN-The-Roundup-No-Way-Out-2023-1080p.mp4?rlkey=mc4vr2wv8cic9hj3dsuql5k2t&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Wrath of Man (2021)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Wrath of Man (2021)
 https://www.dropbox.com/scl/fi/ns03moa226d2tno619bg1/D21.FUN-Wrath-of-Man-2021-1080p.mp4?rlkey=8t9e0l1lp33d3hgxrk22yhzsw&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Unthinkable (2010)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Unthinkable (2010)
 https://www.dropbox.com/scl/fi/aky0tvk5x0d5rg5skhv0r/D21.FUN-Unthinkable-2010-720p.mp4?rlkey=ctfs3q2nb9edtb6t5l72ke4mx&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Godzilla (2014)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Godzilla (2014)
 https://www.dropbox.com/scl/fi/b8cv84cyyql0xtdrq5ghi/D21.FUN-Godzilla-2014-1080p.mp4?rlkey=592qhbyn7owvrvb5rhlldhv3y&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Godzilla: King of the Monsters (2019)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Godzilla: King of the Monsters (2019)
 https://www.dropbox.com/scl/fi/2yzfvzpws6hug458jf4qn/D21.FUN-Godzilla-King-of-the-Monsters-2019-1080p.mp4?rlkey=3c0ohpn33zqdt3rr5y89wjjhc&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Godzilla vs. Kong (2021)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Godzilla vs. Kong (2021)
 https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2021-1080p.mp4?rlkey=jr3pvv4klxrmk16kvayzyuuu7&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Angry Pursuit (2023)_cHina
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Angry Pursuit (2023)_cHina
 https://www.dropbox.com/scl/fi/r44ytdik5zq1uqh5m9xup/D21.FUN-Angry-Pursuit-2023-1080p.mp4?rlkey=qkwxro9pa3s5t5ms4q89gaxd2&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Orion and the Dark (2024)_aniMe
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Orion and the Dark (2024)_aniMe
 https://www.dropbox.com/scl/fi/obah9ysk9dx2058lrz055/D21.FUN-Orion-and-the-Dark-2024-1080p.mp4?rlkey=tvb97jq04tqkocn9yz09e097p&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Migration (2023)_anime
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Migration (2023)_anime
 https://www.dropbox.com/scl/fi/ih3oka2a9fh9prz19uabe/D21.FUN-Migration-2023-1080p.mp4?rlkey=g7r3i8tgsuwrzza0qbjpgbob8&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Raya and the Last Dragon (2021)_anime
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Raya and the Last Dragon (2021)_anime
 https://www.dropbox.com/scl/fi/olehu6co4ku5orrq80hhl/D21.FUN-Raya-and-the-Last-Dragon-2021-1080p.mp4?rlkey=bvuf95qiv0cslqie7uqt302xj&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Transformers: Rise of the Beasts (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Transformers: Rise of the Beasts (2023)
 https://www.dropbox.com/scl/fi/87xs8cu5f8mk5zlbx905t/2.-Transformers-Rise-of-the-Beasts-2023-720p.mp4?rlkey=n3udlhyq3ounsffalsutdmcp4&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Society of the Snow (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Society of the Snow (2023)
 https://www.dropbox.com/scl/fi/2jecdwc9nrgnetpvq1j1h/D21.FUN-Society-of-the-Snow-2023-1080p.mp4?rlkey=gph3i8obwu2o9sopfwcsvhjli&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Operation Fortune: Ruse de guerre (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Operation Fortune: Ruse de guerre (2023)
 https://www.dropbox.com/scl/fi/vx0kiev7szzs0xc5i59og/D21.FUN-Operation-Fortune-Ruse-de-guerre-2023-1080p.mp4?rlkey=3br5rhpfucdvyw0khvkmxbgww&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Life and Death Confrontation (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Life and Death Confrontation (2023)
 https://www.dropbox.com/scl/fi/jj5anslrzj3gjooga761w/D21.FUN-Life-and-Death-Confrontation-2023-1080p.mp4?rlkey=d5cd997wfvo9p3reh1fe02uu5&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",The Beekeeper (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Beekeeper (2024)
 https://www.dropbox.com/scl/fi/q9c4f4qhevwdksi4gm939/D21.FUN-The-Beekeeper-2024-1080p.mp4?rlkey=82qn0t38lzyctjxi350vm0ejv&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Lift (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Lift (2024)
 https://www.dropbox.com/scl/fi/y3gsnyp96qifj74i0mcn9/D21.FUN-Lift-2024-1080p.mp4?rlkey=b1dbqvs5r2gvtb4uz493l104c&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",I.S.S. (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",I.S.S. (2024)
 https://www.dropbox.com/scl/fi/r1ft909dwgaj3br1zec15/D21.FUN-I.S.S.-2024-1080p.mp4?rlkey=iusuj72iyx20cyv5hxe3gb9n1&raw=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",House Party (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",House Party (2023)
 https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",Jung-E (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",Jung-E (2023)
 https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",Gangnam Zombie (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",Gangnam Zombie (2023)
 https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",Consecration (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",Consecration (2023)
 https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Night Train (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Night Train (2023)
 https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",Supercell (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Supercell (2023)
 https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",The Devil Conspiracy (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Devil Conspiracy (2023)
 https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",Panther Swat (2023)-HK
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",Panther Swat (2023)-HK
 https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",The Ritual Killer (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",The Ritual Killer (2023)
 https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",The Super Mario Bross Movie (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Super Mario Bross Movie (2023)
 https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",MALUM_(2023)_USA
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",MALUM_(2023)_USA
 https://www.nonton168.com/movies/desember2022/DSI.Malum.2023.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",THE_SHEPHERD_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",THE_SHEPHERD_(2023)
 https://www.nonton168.com/movies/desember2022/DSI.The.Shepherd.2023.WEB.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",SMUGGLERS_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",SMUGGLERS_(2023)
 https://www.nonton168.com/movies/desember2022/DSI.Smugglers.2023.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",OBI_WAN_KENOBI_JEDIS_RETURN_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",OBI_WAN_KENOBI_JEDIS_RETURN_(2023)
 https://www.nonton168.com/movies/desember2022/DSI.Obi-Wan.Kenobi.A.Jedis.Return.2022.WEB.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",TROLLS_BAND_TOGETHER_(2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",TROLLS_BAND_TOGETHER_(2023)
 https://www.nonton168.com/movies/desember2022/DSI.Trolls.Band.Together.2023.WEBDL.mp4
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",Aquaman 2 (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",Aquaman 2 (2023)
 https://stream.hownetwork.xyz/xxx/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",SHAZAM 2 : FURY OF THE GODS (2023)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",SHAZAM 2 : FURY OF THE GODS (2023)
 https://stream.hownetwork.xyz/xxx/shazam-fury-of-the-gods-2023-bluray/9/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",ROAD HOUSE (2024)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",ROAD HOUSE (2024)
 https://stream.hownetwork.xyz/xxx/road-house-2024-webdl_X_64e75f3f/1000/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",BEAUTY AND TEH BEAST(2017)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",BEAUTY AND TEH BEAST(2017)
 https://stream.hownetwork.xyz/xxx/beauty-beast-2017-bluray/3/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",ALADDIN(2019)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",ALADDIN(2019)
 https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",CINDERELLA(2015)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",CINDERELLA(2015)
 https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",MALEFICENT 1(2013)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",MALEFICENT 1(2013)
 https://stream.hownetwork.xyz/xxx/maleficent-2013-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",MALEFICENT 2(2019
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",MALEFICENT 2(2019
 https://stream.hownetwork.xyz/xxx/maleficent-mistress-of-evil-2019-2-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",IP MAN 1(2008)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",IP MAN 1(2008)
 https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",IP MAN 2(2010)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",IP MAN 2(2010)
 https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",IP MAN 3(2015)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",IP MAN 3(2015)
 https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",IP MAN 4(2019)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",IP MAN 4(2019)
 https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",NARNIA LION WITCH WARDROBE 1
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",NARNIA LION WITCH WARDROBE 1
 https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
 https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-bluray/11/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",NARNIA THE CHRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER 3 (2010)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",NARNIA THE CHRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER 3 (2010)
 https://stream.hownetwork.xyz/xxx/chronicles-narnia-voyage-dawn-treader-2010-bluray/6/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",AVATAR 1 (2009)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",AVATAR 1 (2009)
 https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",AVATAR : THE WAY OF WATER 2 (2022)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",AVATAR : THE WAY OF WATER 2 (2022)
 https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",TWILIGHT 1 (2008)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",TWILIGHT 1 (2008)
 https://stream.hownetwork.xyz/xxx/twilight-2008-bluray/3/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",TWILIGHT 2 : NEW MOON (2009)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",TWILIGHT 2 : NEW MOON (2009)
 https://stream.hownetwork.xyz/xxx/twilight-saga-new-moon-2009-bluray/2/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",TWILIGHT 3 : ECLIPSE (2010)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",TWILIGHT 3 : ECLIPSE (2010)
 https://stream.hownetwork.xyz/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",TWILIGHT 4 : BREAKING DAWN PART 1 (2011)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",TWILIGHT 4 : BREAKING DAWN PART 1 (2011)
 https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-1-2011-bluray/11/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",TWILIGHT 5 : BREAKING DAWN PART 2 (2012)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",TWILIGHT 5 : BREAKING DAWN PART 2 (2012)
 https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-2-2012-bluray/11/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",JOHN CARTER (2012)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",JOHN CARTER (2012)
 https://stream.hownetwork.xyz/xxx/john-carter-2012-bluray/2/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",A LITTLE THING CALLED LOVE (2010)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",A LITTLE THING CALLED LOVE (2010)
 https://stream.hownetwork.xyz/xxx/a-little-thing-called-love-2010-bluray/3/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",MULAN (2020)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",MULAN (2020)
 https://stream.hownetwork.xyz/xxx/mulan-2020-bluray/7/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",ALICE IN THE WONDERLAND (2010)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",ALICE IN THE WONDERLAND (2010)
 https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VOD|MOVIES[168]",ALIVE (2020)
+#EXTINF:0 tvg-id="ext" group-title="MOVIES ACTION",ALIVE (2020)
 https://stream.hownetwork.xyz/xxx/alive-saraitda-2020-bluray/10/480.m3u8
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",MONKEY.MAN.2024.Indie
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",MONKEY.MAN.2024.Indie
 https://nontoncdn.com/Monkey.Man.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",ARTHUR.THE.KING.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",ARTHUR.THE.KING.2024
 https://nontoncdn.com/Arthur.The.King.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",THE.DJINNS.CURSE.2023.Thai
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",THE.DJINNS.CURSE.2023.Thai
 https://nontoncdn.com/The.Djinns.Curse.2023.WEB-DL-IDFL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",BLOOD.FOR.DUST.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",BLOOD.FOR.DUST.2023
 https://nontoncdn.com/Blood.For.Dust.2023.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DEATH.WHISPERER.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DEATH.WHISPERER.2023
 https://nontoncdn.com/[oppa.biz]Death.Whisperer.2023.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",RESIDENT.EVIL.DEATH.ISLAND.2023.
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",RESIDENT.EVIL.DEATH.ISLAND.2023.
 https://nontoncdn.com/resident.evil.death.island.2023.480p.bluray.x264.rmteam.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",BADARAWUHI.DIDESA.PENARI.2024.ID.HD CAM
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",BADARAWUHI.DIDESA.PENARI.2024.ID.HD CAM
 https://nontoncdn.com/Badarawuhi.Di.Desa.Penari.Hd.Cam.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",PAMALI.DUSUN.POCONG.2023.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",PAMALI.DUSUN.POCONG.2023.ID
 https://nontoncdn.com/Pamali.Dusun.Pocong.2023.IDSUBBED.720p.NF.WEBRip.AAC.x26.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",GODZILLA.X.KONG.T.NEW.EMPIRE.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",GODZILLA.X.KONG.T.NEW.EMPIRE.2024
 https://nontoncdn.com/G.X.K.T.N.E.2024.1080p.V2.Cam.New.Audio.X264-COLLECTIVE.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",KUNGFU.PANDA.4.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",KUNGFU.PANDA.4.2024
 https://nontoncdn.com/Kung.Fu.Panda.4.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DUNE.PART.2.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DUNE.PART.2.2024
 https://nontoncdn.com/Dune.Part.Two.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",WRONG.PLACES.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",WRONG.PLACES.2024
 https://nontoncdn.com/Wrong.Places.2024.WEB.h264-RBB.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",STOLEN.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",STOLEN.2024
 https://nontoncdn.com/Stolen.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",THE.LONG.GAME.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",THE.LONG.GAME.2023
 https://nontoncdn.com/The.Long.Game.2023.720p.HDCAM-C1NEM4.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DAMAGED.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DAMAGED.2024
 https://nontoncdn.com/Damaged.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",BRAIN.TUMOR.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",BRAIN.TUMOR.2024
 https://nontoncdn.com/Brain.Tumor.2024.WEB.H264-RBB.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",CIVIL.WAR.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",CIVIL.WAR.2024
 https://nontoncdn.com/Civil.War.2024.720p.HDCAM-C1NEM4.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",THE.FIRST.OMEN.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",THE.FIRST.OMEN.2024
 https://nontoncdn.com/The.First.Omen.2024.720p.HDCAM.X264-C1NEM4.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",STRICTLY.CONFIDENTIAL.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",STRICTLY.CONFIDENTIAL.2024
 https://nontoncdn.com/Strictly.Confidential.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",FUKS.2.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",FUKS.2.2024
 https://nontoncdn.com/Fuks.2.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",A.WITH.T.GODS.2 WORLD.2017.HK
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",A.WITH.T.GODS.2 WORLD.2017.HK
 https://nontoncdn.com/[oppa.biz]Along.with.the.Gods.The.Two.Worlds.2017.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",A.WITH.T.GODS.T.LAST.DAYS.2018
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",A.WITH.T.GODS.T.LAST.DAYS.2018
 https://nontoncdn.com/[oppa.biz]Along.with.the.Gods.The.Last.49.Days.2018.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",SLEEPING.DOGS.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",SLEEPING.DOGS.2024
 https://nontoncdn.com/Sleeping.Dogs.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",SIKSA.KUBUR.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",SIKSA.KUBUR.2024
 https://nontoncdn.com/Siksa.Kubur.2024.Cam.No.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",RONGGENG.KEMATIAN.2024.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",RONGGENG.KEMATIAN.2024.ID
 https://nontoncdn.com/IND-Ronggeng%20Kematian%20(2024).mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",MUNKAR.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",MUNKAR.2024
 https://nontoncdn.com/Munkar%202024%20-%20CAMHD.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",PEMANDI.JENAZAH.2024.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",PEMANDI.JENAZAH.2024.ID
 https://nontoncdn.com/Pemandi%20Jenazah%20(2024).mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",LAMPIR.2024.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",LAMPIR.2024.ID
 https://nontoncdn.com/LAMPIR%20(2024)%20-%20CAM.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",KERETA.BERDARAH.2024.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",KERETA.BERDARAH.2024.ID
 https://nontoncdn.com/Kereta%20Berdarah%20(2024).mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",AGAK.LAEN.2024.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",AGAK.LAEN.2024.ID
 https://nontoncdn.com/Agak%20Laen.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DIAMBANG.KEMATIAN.2023.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DIAMBANG.KEMATIAN.2023.ID
 https://nontoncdn.com/Di.Ambang.Kematian.2023.720p.AMZN.WEB-DL.Sub.Eng.Ind.x264.AAC.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",WAKAF.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",WAKAF.2023
 https://nontoncdn.com/Wakaf_2023.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",EYE.FOR.N.EYE.2.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",EYE.FOR.N.EYE.2.2024
 https://nontoncdn.com/[oppa.biz]Eye.for.an.Eye.2.2024.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",ON.FIRE.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",ON.FIRE.2023
 https://nontoncdn.com/On.Fire.2023.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",ROAD.HOUSE.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",ROAD.HOUSE.2024
 https://nontoncdn.com/Road.House.2024.1080p.WEBRip.x264-YIFY.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",T.BROTHERHOOD.OF.REBEL.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",T.BROTHERHOOD.OF.REBEL.2023
 https://nontoncdn.com/DSI.The.Brotherhood.of.Rebel.2023.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",EAGLE.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",EAGLE.2024
 https://nontoncdn.com/DSI.Eagle.2024.WEBRip.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",EARWORM.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",EARWORM.2024
 https://nontoncdn.com/DSI.Earworm.2024.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",NO.WAY.UP.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",NO.WAY.UP.2024
 https://www.nonton168.com/movies/desember2022/DSI.No.Way.Up.2024.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",PETUALANGAN.SHERINA
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",PETUALANGAN.SHERINA
 https://nontoncdn.com/Petualangan%20Sherina%202.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",CAT.N.DOG.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",CAT.N.DOG.2024
 https://nontoncdn.com/[oppa.biz]Cat.And.Dog.2024.WEBRip.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",GHOSTBUSTERS.FROZEN.EMPIRE.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",GHOSTBUSTERS.FROZEN.EMPIRE.2024
 https://nontoncdn.com/Ghostbusters.Frozen.Empire.2024.720P.Hdts.X264.Idfl-forum.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",ALIENOID.RETURN.TO.T.FUTURE.2024
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",ALIENOID.RETURN.TO.T.FUTURE.2024
 https://nontoncdn.com/DSI.Alienoid.Return.to.the.Future.2024.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",SARANJANA
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",SARANJANA
 https://www.nonton168.com/movies/desember2022/saranjana.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",T.ANIMAL.KINGDOM.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",T.ANIMAL.KINGDOM.2023
 https://www.nonton168.com/movies/desember2022/DSI.The.Animal.Kingdom.2023.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",JOHN.WICK.CHAPTER.4.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",JOHN.WICK.CHAPTER.4.2023
 https://www.nonton168.com/movies/desember2022/John.Wick.Chapter.4.2023.720p.WEBRip.x264.AAC-YTS.MX.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",EXHUMA.2024.KOREA
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",EXHUMA.2024.KOREA
 https://nontoncdn.com/Exhuma.WEB-DL.iTunes.2024.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DSI.KULTUS.IBLIS.2023.ID
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DSI.KULTUS.IBLIS.2023.ID
 https://nontoncdn.com/DSI.Kultus.Iblis.2023.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",T.DEVIL.CONSPIRACY.2022
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",T.DEVIL.CONSPIRACY.2022
 https://www.nonton168.com/movies/desember2022/The.Devil.Conspiracy.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",3.BLIND.MICE.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",3.BLIND.MICE.2023
 https://www.nonton168.com/movies/desember2022/DSI.Three.Blind.Mice.2023.BluRay.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",SWEET.MY.HOME.2023.KOREA
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",SWEET.MY.HOME.2023.KOREA
 https://www.nonton168.com/movies/desember2022/DSI.Sweet.My.Home.2023.WEBDL.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD|MOVIES[168]",DO.OR.DIE.2023
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",DO.OR.DIE.2023
 https://nontoncdn.com/Mr-9.Do.Or.Die.2023.720p.WEBRip.x264.AAC-YTS.MX.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Action",The Wages of Fear (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Wages of Fear (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11455.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Road House (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Road House (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11458.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Damsel (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Damsel (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11460.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Heart of the Hunter (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Heart of the Hunter (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11467.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Lights Out (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Lights Out (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11474.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Night Shift (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Night Shift (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11477.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Code 8 Part II (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Code 8 Part II (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11480.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Badland Hunters (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Badland Hunters (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11494.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Madame Web (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Madame Web (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11498.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Air Force One Down (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Air Force One Down (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11501.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sixty Minutes (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sixty Minutes (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11505.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Argylle (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Argylle (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11507.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Wanted Man (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Wanted Man (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11511.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Lift (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Lift (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11516.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Roadkill (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Roadkill (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11517.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Alienoid: Return to the Future (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Alienoid: Return to the Future (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11520.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Beekeeper (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Beekeeper (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11530.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Prey (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Prey (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11466.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",No Way Up (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",No Way Up (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11483.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Red Right Hand (2024)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Red Right Hand (2024)
 https://play.gachor99.my.id:443/movie/vod/495837/11485.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Dogman (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Dogman (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11486.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Trunk - Locked In (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Trunk - Locked In (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11522.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Shazam! Fury of the Gods (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Shazam! Fury of the Gods (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11332.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Teen Wolf: The Movie (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Teen Wolf: The Movie (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11399.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Role Play (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Role Play (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11512.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Kitchen (2019)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Kitchen (2019)
 https://play.gachor99.my.id:443/movie/vod/495837/11528.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Bricklayer (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Bricklayer (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11533.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Fast Charlie (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Fast Charlie (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10945.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Hunger Games: The Ballad of Songbirds & Snakes (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Hunger Games: The Ballad of Songbirds & Snakes (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10977.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Retirement Plan (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Retirement Plan (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11035.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ride On (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ride On (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11282.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Righteous Thieves (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Righteous Thieves (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11329.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Pathaan (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Pathaan (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11429.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Price We Pay (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Price We Pay (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11431.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sakra (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sakra (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11432.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sniper: Vengeance (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sniper: Vengeance (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11433.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Family Plan (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Family Plan (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10930.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Malbatt: Misi Bakara (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Malbatt: Misi Bakara (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10933.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Shepherd (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Shepherd (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10953.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Silent Night (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Silent Night (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10954.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Squad (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Squad (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10959.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hard Days (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hard Days (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10962.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Rumble Through the Dark (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Rumble Through the Dark (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10975.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Freelance (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Freelance (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10994.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Knuckle Girl (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Knuckle Girl (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10997.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Jigen Daisuke (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Jigen Daisuke (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11001.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Wingwomen (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Wingwomen (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11006.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Brave Citizen (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Brave Citizen (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11008.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ballerina (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ballerina (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11015.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Desperation Road (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Desperation Road (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11017.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Dark Asset (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Dark Asset (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11020.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Head Count (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Head Count (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11043.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Creator (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Creator (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11051.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Overhaul (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Overhaul (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11052.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Muzzle (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Muzzle (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11053.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Under the Light (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Under the Light (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11056.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Jawan (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Jawan (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11064.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Freestyle (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Freestyle (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11069.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Expend4bles (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Expend4bles (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11073.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",King of Killers (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",King of Killers (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11075.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Gran Turismo (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Gran Turismo (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11077.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Blue Beetle (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Blue Beetle (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11081.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Bad Blood (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Bad Blood (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11089.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Engineer (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Engineer (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11094.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Kill Shot (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Kill Shot (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11104.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Meg 2: The Trench (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Meg 2: The Trench (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11107.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sympathy for the Devil (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sympathy for the Devil (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11111.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Shrapnel (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Shrapnel (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11113.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mob Land (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mob Land (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11114.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Soulcatcher (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Soulcatcher (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11115.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Baker (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Baker (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11117.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Heart of Stone (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Heart of Stone (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11120.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Head to Head (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Head to Head (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11123.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The White Storm 3: Heaven or Hell (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The White Storm 3: Heaven or Hell (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11126.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mission: Impossible - Dead Reckoning Part One (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mission: Impossible - Dead Reckoning Part One (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11127.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hidden Strike (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hidden Strike (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11139.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sons of Summer (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sons of Summer (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11144.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sound of Freedom (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sound of Freedom (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11145.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Smugglers (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Smugglers (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11147.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Channel (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Channel (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11148.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Out-Laws (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Out-Laws (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11155.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Island (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Island (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11163.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Surrounded (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Surrounded (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11172.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",iNumber Number: Jozi Gold (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",iNumber Number: Jozi Gold (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11173.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Flash (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Flash (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11181.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Confidential Informant (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Confidential Informant (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11184.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Transformers: Rise of the Beasts (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Transformers: Rise of the Beasts (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11188.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",God Is a Bullet (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",God Is a Bullet (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11190.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Childe (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Childe (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11196.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Kandahar (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Kandahar (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11197.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Medellin (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Medellin (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11208.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mojave Diamonds (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mojave Diamonds (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11211.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Born to Fly (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Born to Fly (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11212.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Machine (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Machine (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11214.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Polite Society (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Polite Society (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11216.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Roundup: No Way Out (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Roundup: No Way Out (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11220.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Wild (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Wild (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11222.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Crater (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Crater (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11223.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",AKA (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",AKA (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11224.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Fast X (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Fast X (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11228.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Mother (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Mother (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11234.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",One Ranger (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",One Ranger (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11235.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mercy (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mercy (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11236.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hypnotic (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hypnotic (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11237.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Peter Pan & Wendy (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Peter Pan & Wendy (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11239.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Crossfire (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Crossfire (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11243.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Knights of the Zodiac (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Knights of the Zodiac (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11246.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Best Man (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Best Man (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11255.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Snag (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Snag (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11256.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mighty Morphin Power Rangers: Once & Always (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mighty Morphin Power Rangers: Once & Always (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11261.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Tokyo Revengers 2 Part 1: Bloody Halloween - Destiny (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Tokyo Revengers 2 Part 1: Bloody Halloween - Destiny (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11262.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Black Lotus (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Black Lotus (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11265.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ghosted (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ghosted (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11268.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Supercell (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Supercell (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11272.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Darkland: The Return (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Darkland: The Return (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11274.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Breakout (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Breakout (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11284.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Fist of the Condor (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Fist of the Condor (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11291.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Mafia Mamma (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Mafia Mamma (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11299.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",One Day as a Lion (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",One Day as a Lion (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11302.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Assassin (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Assassin (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11306.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Kill Boksoon (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Kill Boksoon (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11307.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Siege (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Siege (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11318.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Creed III (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Creed III (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11335.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hustler vs Scammer (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hustler vs Scammer (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11336.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",65 (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",65 (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11338.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Operation Fortune: Ruse de Guerre (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Operation Fortune: Ruse de Guerre (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11339.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Ritual Killer (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Ritual Killer (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11340.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Assassin (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Assassin (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11349.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sayen (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sayen (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11360.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ant-Man and the Wasp: Quantumania (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ant-Man and the Wasp: Quantumania (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11374.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Assassin Club (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Assassin Club (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11381.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Locksmith (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Locksmith (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11386.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Marry My Dead Body (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Marry My Dead Body (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11387.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Little Dixie (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Little Dixie (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11390.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Teen Wolf: The Movie (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Teen Wolf: The Movie (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11398.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Transfusion (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Transfusion (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11402.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Gunfight at Rio Bravo (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Gunfight at Rio Bravo (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11406.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Point Men (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Point Men (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11408.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective Knight: Independence (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective Knight: Independence (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11414.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Night Train (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Night Train (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11420.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Plane (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Plane (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11423.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",A Man of Reason (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",A Man of Reason (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/11425.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Flashover (2023)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Flashover (2023)
 https://play.gachor99.my.id:443/movie/vod/495837/10605.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Asking For It (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Asking For It (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10061.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",All the Old Knives (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",All the Old Knives (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10065.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Shotgun Wedding (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Shotgun Wedding (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10073.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Gold (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Gold (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10099.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Commando (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Commando (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10120.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Rusty Blade (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Rusty Blade (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10147.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Emergency Declaration (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Emergency Declaration (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10195.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Pure Japanese (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Pure Japanese (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10196.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",A Man Called Hero (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",A Man Called Hero (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10197.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Tai Chi Master (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Tai Chi Master (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10198.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Too Cool to Kill (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Too Cool to Kill (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10203.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Spy Who Never Dies (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Spy Who Never Dies (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10207.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Looop Lapeta (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Looop Lapeta (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10224.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Mystic Nine: Begonia from Qingshan (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Mystic Nine: Begonia from Qingshan (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10243.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Blacklight (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Blacklight (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10249.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Boxing Champion Mother (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Boxing Champion Mother (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10259.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Run & Gun (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Run & Gun (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10267.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Red Sparrow (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Red Sparrow (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10274.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Prototype (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Prototype (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10276.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Pursuit (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Pursuit (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10281.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Restless (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Restless (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10283.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Last Mark (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Last Mark (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10287.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",A Day to Die (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",A Day to Die (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10292.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Mystery of Lop Nur (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Mystery of Lop Nur (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10296.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",After the Pandemic (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",After the Pandemic (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10301.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Gasoline Alley (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Gasoline Alley (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10303.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Invincible (2020)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Invincible (2020)
 https://play.gachor99.my.id:443/movie/vod/495837/10314.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Death Hunt (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Death Hunt (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10317.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Black Crab (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Black Crab (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10324.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Kung-Fu Zohra (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Kung-Fu Zohra (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10326.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Eraser: Reborn (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Eraser: Reborn (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10328.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",RRR (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",RRR (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10347.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Legend of Kunlun (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Legend of Kunlun (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10357.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Boon (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Boon (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10387.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Yaksha: Ruthless Operations (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Yaksha: Ruthless Operations (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10393.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Lost City (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Lost City (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10397.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Contractor (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Contractor (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10398.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Morbius (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Morbius (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10400.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Reign of Chaos (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Reign of Chaos (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10401.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hunting Ava Bravo (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hunting Ava Bravo (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10402.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ambulance (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ambulance (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10410.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Maoshan Heavenly Master (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Maoshan Heavenly Master (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10431.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Agent Game (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Agent Game (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10446.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Curious Case of Tianjin (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Curious Case of Tianjin (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10456.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Takedown (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Takedown (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10468.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Thar (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Thar (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10471.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Memory (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Memory (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10477.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Lockdown (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Lockdown (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10494.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Roundup (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Roundup (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10503.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Song of the Assassins (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Song of the Assassins (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10507.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective Dee and Deadly Fragrance (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective Dee and Deadly Fragrance (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10516.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Centauro (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Centauro (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10549.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Terror on the Prairie (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Terror on the Prairie (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10551.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Blowback (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Blowback (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10570.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Code Name Banshee (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Code Name Banshee (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10597.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Biyak (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Biyak (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10608.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Thor: Love and Thunder (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Thor: Love and Thunder (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10617.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective vs. Sleuths (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective vs. Sleuths (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10619.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Hidden Fox (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Hidden Fox (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10621.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Alienoid (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Alienoid (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10628.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Prodigal Son (1981)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Prodigal Son (1981)
 https://play.gachor99.my.id:443/movie/vod/495837/10645.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective Dee and Nine Dragon Coffin (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective Dee and Nine Dragon Coffin (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10671.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective Dee and Resurrection from the Dead (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective Dee and Resurrection from the Dead (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10676.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Stowaway (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Stowaway (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10691.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Prey (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Prey (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10692.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Bullet Train (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Bullet Train (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10699.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",No Way Out (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",No Way Out (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10707.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Hunt (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Hunt (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10711.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",We're Mad (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",We're Mad (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10720.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Ten Tigers of Guangdong: Invincible Iron Fist (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Ten Tigers of Guangdong: Invincible Iron Fist (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10728.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Samaritan (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Samaritan (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10740.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Seoul Vibe (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Seoul Vibe (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10742.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Up Rank (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Up Rank (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10746.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Medieval (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Medieval (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10760.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Battlefield: Fall of The World (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Battlefield: Fall of The World (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10761.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Wire Room (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Wire Room (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10766.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Athena (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Athena (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10802.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Sanctioning Evil (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Sanctioning Evil (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10816.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Accident Man: Hitman's Holiday (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Accident Man: Hitman's Holiday (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10842.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Detective Knight: Rogue (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Detective Knight: Rogue (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10847.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Takeover (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Takeover (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10862.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Remember (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Remember (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10870.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Robbing Mussolini (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Robbing Mussolini (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10873.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Shadow Master (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Shadow Master (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10885.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Blackout (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Blackout (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10886.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Overdose (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Overdose (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10888.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The System (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The System (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10894.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",R.I.P.D. 2: Rise of the Damned (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",R.I.P.D. 2: Rise of the Damned (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10901.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Violence Action (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Violence Action (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10909.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Decibel (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Decibel (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10913.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Black Panther: Wakanda Forever (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Black Panther: Wakanda Forever (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10916.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The 355 (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The 355 (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10119.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Blasted (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Blasted (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10581.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Gray Man (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Gray Man (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10651.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Typhoon (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Typhoon (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10775.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Bad City (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Bad City (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/11427.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",La Soga: Salvation (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",La Soga: Salvation (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10002.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Survivor (2022)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Survivor (2022)
 https://play.gachor99.my.id:443/movie/vod/495837/10050.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Supercool (2021)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Supercool (2021)
 https://play.gachor99.my.id:443/movie/vod/495837/9995.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",The Burning Sea (2021)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",The Burning Sea (2021)
 https://play.gachor99.my.id:443/movie/vod/495837/10017.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Action",Attack on Finland (2021)
+#EXTINF:0 tvg-id="avi" group-title="MOVIES ACTION",Attack on Finland (2021)
 https://play.gachor99.my.id:443/movie/vod/495837/10058.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="Adventure",Spaceman (2024)
@@ -11256,5 +11290,4 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/06/14/task1/76f
 #EXTINF:-1, " group-title="PINOY",Ssis014
 
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/06/14/task1/c02b6857504491e6e4f276faba36d502/360p/index.m3u8
-
 
