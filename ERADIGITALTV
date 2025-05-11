@@ -1,5 +1,7 @@
 #EXTM3U
 =======================================INDONESIA VIP==========================================================
+#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI VIP
+http://ktpremium.site:2095/live/110420220445/abcd1234/73606.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI PLUS
 https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI PLUS
@@ -100,8 +102,6 @@ http://ktpremium.site:2095/live/110420220445/abcd1234/947917.ts
 http://ktpremium.site:2095/live/110420220445/abcd1234/947784.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",INEWS
 http://ktpremium.site:2095/live/110420220445/abcd1234/73605.ts
-#EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",RCTI HD
-http://ktpremium.site:2095/live/110420220445/abcd1234/73606.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",SCTV HD
 http://ktpremium.site:2095/live/110420220445/abcd1234/73607.ts
 #EXTINF:-1 ,tvg-id="" tvg-name="INDONESIA VIP TV" group-title="INDONESIA VIP",TVRI SPORT
