@@ -104,9 +104,9 @@ http://ktpremium.online:2095/A5010/4499/923599
 http://ktpremium.online:2095/A5010/4499/923600
 #EXTINF:-1 tvg-id="" tvg-name="[ID] Biznet Kids" tvg-logo="https://wapfever.com/upload/Posters%20800/Biznet.png" group-title=" [VIP] Indonesia",[ID] Biznet Kids
 http://ktpremium.online:2095/A5010/4499/923601
-#EXTINF:-1 tvg-id="antv.id" tvg-name="[ID] ANTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title=" [VIP] Indonesia",[ID] TVRI SPORT
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" [VIP] Indonesia",[ID] TVRI SPORT
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
-#EXTINF:-1 tvg-id="antv.id" tvg-name="[ID] ANTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title=" [VIP] Indonesia",[ID] TVRI WORLD
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" [VIP] Indonesia",[ID] TVRI WORLD
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/295291
 #EXTINF:-1 tvg-id="" tvg-name="ONE MUSIC" tvg-logo="https://www.onemusic.my/img/ONEMUSIC-LOGO.PNG" group-title="[BACKUP] Indonesia",ONE MUSIC
 http://ktpremium.online:2095/A5010/4499/34723
