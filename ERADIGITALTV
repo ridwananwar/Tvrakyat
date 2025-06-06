@@ -108,7 +108,7 @@ http://ktpremium.online:2095/A5010/4499/923601
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
 #EXTINF:-1 tvg-id="tvri.id" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" [VIP] Indonesia",[ID] TVRI WORLD
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/295291
-#EXTINF:-1 tvg-id="" tvg-name="ONE MUSIC" tvg-logo="https://www.onemusic.my/img/ONEMUSIC-LOGO.PNG" group-title="[BACKUP] Indonesia",ONE MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="ONE MUSIC" tvg-logo="https://www.onemusic.my/img/ONEMUSIC-LOGO.PNG" group-title="[ALWAYS MUSIC ON]",ONE MUSIC
 http://ktpremium.online:2095/A5010/4499/34723
 #EXTINF:-1 tvg-id="" tvg-name="TVRI " tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="[BACKUP] Indonesia",TVRI 
 http://ktpremium.online:2095/A5010/4499/34728
@@ -2751,8 +2751,6 @@ http://ktpremium.online:2095/A5010/4499/26276
 http://ktpremium.online:2095/A5010/4499/26277
 #EXTINF:-1 tvg-id="AXN" tvg-name="[MY] AXN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="[VIP] MALAYSIA",[MY] AXN HD
 http://ktpremium.online:2095/A5010/4499/26282
-#EXTINF:-1 tvg-id="primetime.my" tvg-name="[MY] Prime time" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="[VIP] Movie影视",[MY] Prime time
-http://ktpremium.online:2095/A5010/4499/901198
 #EXTINF:-1 tvg-id="HITS" tvg-name="[MY] HITS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="[VIP] MALAYSIA",[MY] HITS HD
 http://ktpremium.online:2095/A5010/4499/26284
 #EXTINF:-1 tvg-id="TLC" tvg-name="[MY] TLC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="[VIP] MALAYSIA",[MY] TLC HD
@@ -2843,8 +2841,6 @@ http://ktpremium.online:2095/A5010/4499/694449
 http://ktpremium.online:2095/A5010/4499/694473
 #EXTINF:-1 tvg-id="cgtn.documentary.id" tvg-name="[MY] CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="[VIP] MALAYSIA",[MY] CGTN Documentary
 http://ktpremium.online:2095/A5010/4499/694497
-#EXTINF:-1 tvg-id="" tvg-name="Fly FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YsF2M3hKtx.png" group-title="[FM] MALAYSIA",Fly FM
-http://ktpremium.online:2095/A5010/4499/838206
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="[MY] KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="[VIP] MALAYSIA",[MY] KBS World
 http://ktpremium.online:2095/A5010/4499/870506
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="[MY] Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="[VIP]  Sport体育",[MY] Premier Sports
