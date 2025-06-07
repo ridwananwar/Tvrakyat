@@ -2885,4 +2885,35 @@ http://ktpremium.online:2095/A5010/4499/694497
 http://ktpremium.online:2095/A5010/4499/870506
 #EXTINF:-1 tvg-id="PremierSports" tvg-name="[MY] Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="[VIP]  Sport体育",[MY] Premier Sports
 http://ktpremium.online:2095/A5010/4499/916970
+=========================================================================[VIP2]  TV Indonesia=============================================================
+
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Indosiar HD
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5117.ts
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Citra Drama
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5118.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Citra Dangdut
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5120.ts
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="[VIP2]  TV Indonesia",ID: ANTV
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5124.ts
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: GTV
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5127.ts
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="[VIP2]  TV Indonesia",ID: Berita Satu
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5131.ts
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="[VIP2]  TV Indonesia",ID: CNN Indonesia
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5135.ts
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: MNC TV HD
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5139.ts
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: RCTI HD
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5144
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="[VIP2]  TV Indonesia",ID: SCTV
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5147
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="[VIP2]  TV Indonesia",ID: Trans 7
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5149
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="[VIP2]  TV Indonesia",ID: TransTV
+http://tvking.xyz:8080/live/Pecijay952/abc12345/5151
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="[VIP2]  TV Indonesia",TVRI NASIONAL
+http://tvking.xyz:8080/live/Pecijay952/abc12345/25416
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="[VIP2]  TV Indonesia",TVRI SPORT
+http://tvking.xyz:8080/live/Pecijay952/abc12345/25417 
 
