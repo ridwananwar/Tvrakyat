@@ -3658,29 +3658,30 @@ http://opplex.tv:8080/22101110/2910191921/167578
 http://opplex.tv:8080/22101110/2910191921/167579
 #EXTINF:-1 tvg-id="dsport.in" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",IN: EUROSPORT HD
 http://opplex.tv:8080/22101110/2910191921/167585
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS (VIP)",PT: DAZN 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS",PT: DAZN 1 HD
 http://opplex.tv:8080/22101110/2910191921/233072
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS (VIP)",PT: DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS",PT: DAZN 2 HD
 http://opplex.tv:8080/22101110/2910191921/233075
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS (VIP)",PT: DAZN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="DAZN SPORTS",PT: DAZN 3 HD
 http://opplex.tv:8080/22101110/2910191921/233078
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS (VIP)",Event DAZN CA 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS",Event DAZN CA 1 HD
 http://opplex.tv:8080/22101110/2910191921/371136
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS (VIP)",Event DAZN CA 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS",Event DAZN CA 2 HD
 http://opplex.tv:8080/22101110/2910191921/371137
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS (VIP)",Event DAZN CA 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="DAZN SPORTS",Event DAZN CA 3 HD
 http://opplex.tv:8080/22101110/2910191921/371138
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports (VIP)",NZ: SparkSports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports",NZ: SparkSports 1
 http://opplex.tv:8080/22101110/2910191921/223077
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports (VIP)",NZ: SparkSports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports",NZ: SparkSports 2
 http://opplex.tv:8080/22101110/2910191921/223078
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports (VIP)",NZ: SparkSports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.heathcotes.co.nz/pages/assets/74/for_page/Spark-Sport-Heathcotes2.jpg" group-title="NZ | Spark Sports",NZ: SparkSports 3
 http://opplex.tv:8080/22101110/2910191921/223079
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK (VIP)",PL: Eleven Sports 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK",PL: Eleven Sports 1 FHD
 http://opplex.tv:8080/22101110/2910191921/233068
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK (VIP)",PL: Eleven Sports 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK",PL: Eleven Sports 2 FHD
 http://opplex.tv:8080/22101110/2910191921/233069
-#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK (VIP)",PL: Eleven Sports 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="ELEVEN SPORTS PACK",PL: Eleven Sports 3 FHD
 http://opplex.tv:8080/22101110/2910191921/233070
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: TNT Sport 1
 http://opplex.tv:8080/22101110/2910191921/346373
