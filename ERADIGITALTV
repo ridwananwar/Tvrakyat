@@ -3722,34 +3722,34 @@ http://opplex.tv:8080/22101110/2910191921/346392
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/5196c0518ef345342db396a5a5af2f91.svg" group-title="UK ➾ Sports",UK: Viaplay Xtra
 http://opplex.tv:8080/22101110/2910191921/346393
 =========================================================================[VIP2]  TV Indonesia=============================================================
-#EXTINF:-1 tvg-id="ccm.my" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Indosiar HD
+#EXTINF:-1 tvg-id="ccm.my" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="TV INDONESIA",ID: Indosiar HD
 http://tvking.xyz:8080/live/haidii/0135244551/5117.ts
-#EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Citra Drama
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="TV INDONESIA",ID: Citra Drama
 http://tvking.xyz:8080/live/haidii/0135244551/5118.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: Citra Dangdut
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title="TV INDONESIA",ID: Citra Dangdut
 http://tvking.xyz:8080/live/haidii/0135244551/5120.ts
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="[VIP2]  TV Indonesia",ID: ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="TV INDONESIA",ID: ANTV
 http://tvking.xyz:8080/live/haidii/0135244551/5124.ts
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title="TV INDONESIA",ID: GTV
 http://tvking.xyz:8080/live/haidii/0135244551/5127.ts
-#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="[VIP2]  TV Indonesia",ID: Berita Satu
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="TV INDONESIA",ID: Berita Satu
 http://tvking.xyz:8080/live/haidii/0135244551/5131.ts
-#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="[VIP2]  TV Indonesia",ID: CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title="TV INDONESIA",ID: CNN Indonesia
 http://tvking.xyz:8080/live/haidii/0135244551/5135.ts
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: MNC TV HD
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="TV INDONESIA",ID: MNC TV HD
 http://tvking.xyz:8080/live/haidii/0135244551/5139.ts
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="[VIP2]  TV Indonesia",ID: RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="TV INDONESIA",ID: RCTI HD
 http://tvking.xyz:8080/live/haidii/0135244551/5144.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="[VIP2]  TV Indonesia",ID: SCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="TV INDONESIA",ID: SCTV
 http://tvking.xyz:8080/live/haidii/0135244551/5147.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="[VIP2]  TV Indonesia",ID: Trans 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="TV INDONESIA",ID: Trans 7
 http://tvking.xyz:8080/live/haidii/0135244551/5149.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="[VIP2]  TV Indonesia",ID: TransTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="TV INDONESIA",ID: TransTV
 http://tvking.xyz:8080/live/haidii/0135244551/5151.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="[VIP2]  TV Indonesia",TVRI NASIONAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="TV INDONESIA",TVRI NASIONAL
 http://tvking.xyz:8080/live/haidii/0135244551/25416.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="[VIP2]  TV Indonesia",TVRI SPORT
-http://tvking.xyz:8080/live/haidii/0135244551/25417.ts 
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/logo-tvri-2023-9.jpg" group-title="TV INDONESIA",TVRI SPORT
+http://tvking.xyz:8080/live/haidii/0135244551/25417.ts
 ====================================================================================================================================================================
 ============================================== FILM INDONESIA ====================================================================================
 
