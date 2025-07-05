@@ -3719,7 +3719,7 @@ http://opplex.tv:8080/22101110/2910191921/346391
 http://opplex.tv:8080/22101110/2910191921/346392
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/5196c0518ef345342db396a5a5af2f91.svg" group-title="UK ➾ Sports",UK: Viaplay Xtra
 http://opplex.tv:8080/22101110/2910191921/346393
-=========================================================================[VIP2]  TV Indonesia=============================================================
+=========================================================================[VIP2]  TV Indonesia  TVKING=============================================================
 #EXTINF:-1 tvg-id="ccm.my" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="TV INDONESIA",ID: Indosiar HD
 http://tvking.xyz:8080/live/haidii/0135244551/5117.ts
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="TV INDONESIA",ID: Citra Drama
@@ -8617,7 +8617,7 @@ http://tvking.xyz:8080/movie/haidii/0135244551/32549.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGz3wZ5xj2WM03l06NaNa0utWyd.jpg" group-title="VOD CARTOON",I Am What I Am (2021)
 http://tvking.xyz:8080/movie/haidii/0135244551/32768.mp4
 
-========================================================================INDOMALAY", ZO:=======================================================================================
+========================================================================INDOMALAY", ZOZO:=======================================================================================
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="INDOMALAY", ZO:",TV1-HD
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/13.ts
