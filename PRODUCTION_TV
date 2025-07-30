@@ -17,24 +17,7 @@
 #http://media.publit.io/file/lv-0-20250316200103.mp4
 #EXTINF:-1  tvg-name="PHE JAMBI MERANG" tvg-id="" tvg-logo="https://wae.serv00.net/logo/lebaran.png" group-title="🌟PHE JAMBI MERANG", 01. MOHON MAAF LAHIR BATHIN
 https://media.publit.io/file/lv-0-20250316200103.mp4
-#EXTINF:-1 ,tvg-id="" tvg-name="BAKUP BOLA" group-title="BAKUP BOLA",SCTV BAKUP BOLA HD
-http://ktpremium.online:2095/live/K6152/4432/73607.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="BAKUP BOLA",OP: SCTV BAKUP BOLA
-http://opplex.tv:8080/22101110/2910191921/351030
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="BAKUP BOLA",ID: SCTV BAKUP BOLA
-http://tvking.xyz:8080/live/haidii/0135244551/5147.ts
-#EXTINF:-1 tvg-id="SCTV BAKUP BOLA.MACAN" tvg-name="SCTV BAKUP BOLA" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="BAKUP BOLA", ZO:",SCTV BAKUP BOLA
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/46.ts
-#EXTINF:-1 tvg-id="sctv.id" tvg-name="[ID] SCTV BAKUP BOLA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="BAKUP BOLA",[ID] SCTV BAKUP BOLA		
-http://ktpremium.online:2095/live/party888999/tuasnid0812/73607.ts
-#EXTINF:-1 tvg-id="indosiar.id" tvg-name="[ID] Indosiar BAKUP BOLA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="BAKUP BOLA",[ID] Indosiar BAKUP BOLA		
-http://ktpremium.online:2095/live/party888999/tuasnid0812/73617.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="BAKUP BOLA",BAKUP BOLA
-http://opplex.tv:8080/22101110/2910191921/350972
-#EXTINF:-1 tvg-id="ccm.my" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="BAKUP BOLA",ID: Indosiar BAKUP BOLA HD
-http://tvking.xyz:8080/live/haidii/0135244551/5117.ts
-#EXTINF:-1 tvg-id="Indosiar BAKUP BOLA.MACAN" tvg-name="BAKUP BOLA" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="BAKUP BOLA", ZO:",BAKUP BOLA
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/45.ts
+
 =================================================================================================================================================
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/13.ts
