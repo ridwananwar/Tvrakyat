@@ -1,5 +1,10 @@
 
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar HD
 http://tvking.xyz:8080/rohani5004/king1234/5117
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Drama
