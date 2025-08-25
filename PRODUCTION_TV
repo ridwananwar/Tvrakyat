@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SING",✦●✦ LCS VS HOU ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3Dbe3026fe45f7ef7072c4845f3225503baf59a275cdae1727e9c40c6407f3bd90cd2d359189342b803d00a45f66f46784c476785520cc9ae882b24672af2ff393ef77c30a156854620d66b834b36513a5cc294027e665c14f9f72d5782f7bf98d1a74cec55dca24a25fbbc093bbf1ca70c85a036bdb528e23a7c9835f99286e50bc23fb254ef698d876f4eb6a04bf03555e93703b28787429027503774349cf3f%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3D5LR4LK%26_vis%3Dc1d60ae9e10b6cc6fb22aa5af842febf7b57509d5e464f0e10c76be030e19430%26_vvs%3De9aa244cdb2d93567a893732bb67d0412f27c82bc583eee63506d3a74aad931e/app/c366835.m3u8
+
 #EXTINF:-1  tvg-name="PHE JAMBI MERANG" tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQGBlDPZlOj4KQ/company-logo_200_200/company-logo_200_200/0/1630605472475?e=2147483647&v=beta&t=YC8qcj0VI-yP9T8GAkMAVPiyeDpqTY3402ULc3uaVpQ" group-title="🌟PHE JAMBI MERANG", PERTAMINA
 https://ridwananwar.publit.io/file/PERTAMINA-HULU-ENERGI-PT.-PHE-Jambi-Merang-1.mp4
 #EXTINF:-1  tvg-name="PHE JAMBI MERANG" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXH6XlFuwvgzJE1QcbqozDQOyYgBQn6cmVQ&s" group-title="🌟PHE JAMBI MERANG", PERTAMINA
