@@ -4,7 +4,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SING",✦●✦ IND VS ARG ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ IND VS ARG ✦●✦
 https://twnx2-cf.boblcfwudz421.com/auth%3Db86bc733ea0e8841f0e91e37efb1e72a9552ff4c35ab037d8615aac6bfe225f1d1c6f44ca5d414f5a95d04daa7926627fa0e797eabd8ddc1473887da1f147fefad49837887ab22417e75adc7a6b58683f946f83fde1b268564cbeb7ce9356020605ebbc78c920d4a5b520843b0657b0ebbebe20bb4ce959d1b6bfabfdae2f39dcb2fab842d64726cc376db9c590d3898c432f03a000471449ea512312e899a39%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DDWtYg0%26_vis%3Dbac84aa8eea7c9a4b3e8ffab10649fe848d6410955cddaacb24f8819437deebd%26_vvs
 =======================================INDONESIA VIP========================================================================================================================
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV		
@@ -8712,6 +8712,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
