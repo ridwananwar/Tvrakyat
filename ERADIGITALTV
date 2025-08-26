@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ FRC VS UKR ✦●✦
 https://bf.jlbflive.cc/live/322806_hd01.m3u8?txSecret=85b3ad805e5cc6f70f5ab79ecf0b3b07&txTime=68ad97a6
 
@@ -8728,6 +8723,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
