@@ -4,24 +4,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ FRC VS UKR ✦●✦
-https://twnx1-cf.boblcfwudz421.com/auth%3D815a99e8c0d008f4f39a129a3538c8e3a0d3527406b8efc06b9d6cbd1e1bd856608b294ee8c7a4dcb87ad0c2cf8d9d4f79fa95f98007799abd8f1d8b533e12e014525f03951bf2cc955a4b04537e0418466cdd023450ac91955527ea499fec4315f5eb5eff9ee223b8a5fd48d7c813c53cc7a487afa81b5cab672ece3d3cdb277edc7d1b217eaaaf6ba02353f622f1160f943b8ce286c812826c0f36c7f5c7ac%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DxeinPI%26_vis%3D0a24bc7816438773fdfd2a0d08e6d0344b094e83ccad613ccef2e9bb7a08c53a%26_vvs%3Da3491388f5b04aab72191e6b38122fc4fe166683e204fd005e3c928c32f9a006/app/c367147.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ EGIPTH VS CUBA ✦●✦
-https://twnx3-cf.boblcfwudz421.com/auth%3D1f25dc21d1cac2d4b60da203d076c2c676cb23cb6c56ac4dc58cfc00569b867830029bce33c6f34a60bf7b412d66855a22d84a1a8d4c44d11cc07fc6b516ec305720c95996e3a552233177709b11d777bb9f4e58e6e14024bc6ff42823355e486206075317f1fbd962182369ec5bff0353ef70d0d0046d6e47bedd623308f73aed52bf9d81814282ed06f1b8682553a9222bf56fd611627d99b5ba816a3f4f3a%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DHXEbnn%26_vis%3D3305147701b95d3428b991c1339991f8c7b6f564f07a9d48ca002b2f7d88b69c%26_vvs%3D6cfea46a51d49b38e1eeb2c50eebbbe3b4d06cf99ed3c50ec92f2b07ad953db7/app/c367148.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ FRC VS UKR ✦●✦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-https://twnx2-cf.boblcfwudz421.com/auth%3Daceb45a73dff6fcaadcb818da2ec757f187e36e6e5c5b6f1291bcba86491f0d31096acbbea9501eed2d73e616b057768821b90e903905dd02795f0a260444d7e444215518b52e143fe6bd3e0080b54de1599a784ca8aaf3c83d1d0fdc17192e44e5951ec8890987e5bc32acd82fd52359d842aee88e848b7fa2c978e9138d60e761a2498eede216e282977b5115f736423732cd30ddaec9a06d42c0580f3d02a%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3D7GCfwB%26_vis%3D5323cc5579f07965bfaa1a9016476eae64c944852b08d7edcc1cec232d7d0949%26_vvs%3Dbdcf4d87f56f0d8838b67717517c945f907ff7af3e111729b123a2f8af2a9463/app/c367146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ IND VS AUS ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D38f10af5b3ba9b7b237bd9587f445559d9543c6f4cdbc12829d8d6b6ea8ff21a13195bfe1a018bd8024bcff41c5205e48ab4562a0ff01c693e43e9f3a1403790b38885d0daf99a77d62a459b29fe3887b657617fe6445cf7b8d470ee3b0f6af86008ef14927254b86cde69b123bc1b9d6020861a9aa614caf7b6ca1cef3febcd3fab59ed713ff91656e136870b549bf5be08926f4a74893c21626cfaad4fc657%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DMHbI8C%26_vis%3Df9cb406ec781248df17226bcd5f0ebefb128e7903e003205955feda66949b378%26_vvs%3Ddcc62862c320ec3fb6930394a801e3b2d34ad7c4e5289d225d9e7434937fddaf/transcode/c367207_480p.m3u8
 
 =======================================INDONESIA VIP========================================================================================================================
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV		
@@ -8729,6 +8713,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
