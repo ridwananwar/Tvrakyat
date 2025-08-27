@@ -7,6 +7,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ IND VS AUS ✦●✦
 https://twnx1-cf.boblcfwudz421.com/auth%3D38f10af5b3ba9b7b237bd9587f445559d9543c6f4cdbc12829d8d6b6ea8ff21a13195bfe1a018bd8024bcff41c5205e48ab4562a0ff01c693e43e9f3a1403790b38885d0daf99a77d62a459b29fe3887b657617fe6445cf7b8d470ee3b0f6af86008ef14927254b86cde69b123bc1b9d6020861a9aa614caf7b6ca1cef3febcd3fab59ed713ff91656e136870b549bf5be08926f4a74893c21626cfaad4fc657%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DMHbI8C%26_vis%3Df9cb406ec781248df17226bcd5f0ebefb128e7903e003205955feda66949b378%26_vvs%3Ddcc62862c320ec3fb6930394a801e3b2d34ad7c4e5289d225d9e7434937fddaf/transcode/c367207_480p.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ KLC VS PDRM ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D38f10af5b3ba9b7b237bd9587f445559d9543c6f4cdbc12829d8d6b6ea8ff21a13195bfe1a018bd8024bcff41c5205e48ab4562a0ff01c693e43e9f3a1403790b38885d0daf99a77d62a459b29fe3887b657617fe6445cf7b8d470ee3b0f6af86008ef14927254b86cde69b123bc1b9d6020861a9aa614caf7b6ca1cef3febcd3fab59ed713ff91656e136870b549bf5be08926f4a74893c21626cfaad4fc657%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DMHbI8C%26_vis%3Df9cb406ec781248df17226bcd5f0ebefb128e7903e003205955feda66949b378%26_vvs%3Ddcc62862c320ec3fb6930394a801e3b2d34ad7c4e5289d225d9e7434937fddaf/transcode/c367207_480p.m3u8
 =======================================INDONESIA VIP========================================================================================================================
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV		
 http://ktpremium.online:2095/live/kt2389/89009844/73605.ts		
@@ -8713,6 +8720,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
