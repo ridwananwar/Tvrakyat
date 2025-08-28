@@ -1,6 +1,10 @@
-#EXTM3U
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | SOCCER",✦●✦ IRAN VS ARG ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D549fce6a6962963107110ff220c6d4aad28b4ac1be1dea83890630ba5a18bb50c2d71165403afafb8149bc66111d8f53a906ff664f44621bc38176ebcec4fb3b867f855c6bacdbf4248c7b213f5ca2c58f8510a3740e2db7246ddb774d2c683ecb105210a190df1e8c5ab3930bcd636009b9fa96cd0e739d41e1e3615ec962407af3a5f10119e268d1a92c4d0bc69d8cfa42609291ba7a3962590639a6172983%26cid%3Dz9hrVLJwNAMHT9mmV4Vtx250824%26_v%3D2%26_r%3DgbOeDa%26_vis%3Dab8b2c62377a3af14ca3e90334f4be955f1ce4688f9ad47b6bfb52dfce499ba7%26_vvs%3D72d8c16254f514d9f460c898cad2667c699c6394f8523edc33f85db34d68099b/app/c367147.m3u8
 
 ==================================================================================================================================================================================================================
 
