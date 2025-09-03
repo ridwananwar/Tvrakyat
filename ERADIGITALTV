@@ -4,8 +4,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | Meksiko: Liga MX",✦●✦ Los Angeles Sparks VS Indiana Fever ✦●✦
-https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=8e81231ee90092b7577561a1ceda98cb&txTime=68b2621e
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | Meksiko: Liga MX",✦●✦ Urawa Reds VS KAWASAKI ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D4500eedc4cf21452e40c928d9601dcc371da2608b3590e21ad45ab1e58677be92662afa8364a977d68800233bb019d2b5676fafb31f47e3dfc2cd5bb0179d89b003bf763bb1930469dd9d8240379641b4dc631479cef9ec6cc0bf7ed0f84a1a8a647c142bb3c808316ed08a2f1c2b97c1366f5e62b23d8dfcdf6d10dbe79a96879622ded644be2a53fa36077cbeeb8fd56b9841398faab789f1c706c99994bdf%26cid%3DDS1MrJmvCXjNNetqeujwH250903%26_v%3D2%26_r%3D2d6pzv%26_vis%3D886c9250795730e5e89b4bc9060a109a28598450ee12a47852c3a80dd0c8ddcb%26_vvs%3D52a0adbb9d1b0c4404a9f6de82dfe627cbfe09376892bbc26c3af7ee065994bf/app/c368518.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
@@ -8730,6 +8730,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
