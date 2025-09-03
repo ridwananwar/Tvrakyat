@@ -20,7 +20,7 @@ https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=bfd2a3e9988e541c9cdc580c4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | Kolombia: Primera A",✦●✦ Atletico San Luis VS Toluca ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | Asian CUP U23",✦●✦ INDONESIA  VS LAOS ✦●✦
 https://bf.jlbflive.cc/live/322722_hd01.m3u8?txSecret=1aef3f7b6a834610bf5f4162a72d177b&txTime=68b262c1
 
 
@@ -8730,6 +8730,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
