@@ -4,7 +4,17 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | U23",✦●✦ INDONESIA VS LAOS ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ MALAYSIA VS PALESTINE ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D59630e8776b0440f0f61d8734c14abf82d81157d7501505ff339a59a0034f59a880eff2e7221b84f66e87a181d113cb37ebff23993083c40590e9d1ca31372547e13fd93a4b1974d84022234519a909b7c54f18fa751e5d6ae27437118d81cde4e74b21bd39ca68a06905461dc570b3f6cb735c5a8f8434eeacca8a7732722a39bc589ff3904b6350bd288ff10567711051fa03165368f8960e00247399139db%26cid%3DDS1MrJmvCXjNNetqeujwH250903%26_v%3D2%26_r%3DdEJHX_%26_vis%3D9317cf9ae3d94d0878af77d4a48078196a9e2c1e2b6a5660fdba180e6a4b6dbb%26_vvs%3D64c3c815217e7d8f8afe25f9c928cfd1fa1e27a22ce54ffaa56cfbfb8af836e4/app/c369292.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ INDONESIA VS LEBANON ✦●✦
+https://twnx1-cf.boblcfwudz421.com/auth%3D4feb7114ab5453c754a4de6660baec62ad6120fc46d759b976e756d4f0c3d3995333ddf4cf22331ea6856b28c1e75b1fe99fe0cbe9bfcc789cc15b14cf26d5d23194014f465d5c05f9e6c7d87c20bf42585df1a8969a1debe486faeb9b1c2b0b701a6bdeb124f97693d8fca5f8ce19aaee975c28934be5814deb6232a51d1909feedaf910bbde6e7e0c921e927fcd3ce733e5391aed2618ef4005657fa5035e2160f2cbe9d548960778836c50cc2473158d5868890c02bfb60a32e99eeeef359%26cid%3DDS1MrJmvCXjNNetqeujwH250903%26_v%3D2%26_r%3DW2V8ti%26_vis%3Ddcb20952d07ba364897cb309531dc924915315276f29bc7d1435690575509166%26_vvs%3D07bf57cd2fdf715464c9b33c818e7e506bdc5f14c114df904aac20b954bd1a32/app/c369292.m3u8
 
 
 
@@ -8716,6 +8726,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/51.ts
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDOMALAY", ZO:",Rtv
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/364.ts
+
 
 
 
