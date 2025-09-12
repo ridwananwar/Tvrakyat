@@ -1,8 +1,13 @@
 
-
-
-
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ INDONESIA VS LEBANON ✦●✦
+https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/45.ts
+
 =======================================INDONESIA VIP========================================================================================================================
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV		
 http://ktpremium.online:2095/live/Halim8781/Halim8781/73605.ts		
@@ -3824,4 +3829,5 @@ https://my.bhianesse.xyz/A1/kontol29/1853393054683807744/pl/-KsSJO6azO0o1qg9.m3u
 #REFRESH="1"
 #EXTINF:-10.0 group-title="40.🏡3X1= XXX3🏡VIP🏡" tvg-url="https://my.bianet.es/epg/id.xml" tvg-logo="https://img3.JAV HD ONEmost.com/images/HMN-625-UNCENSORED-LEAK.webp",🏡🌠 HMN-625   香水じゅん   Jun Kasui
 https://my.bhianesse.xyz/A1/kontol29/1847215345184182272/pl/MrGgvROmbhiIw_EZ.m3u8
+
 
