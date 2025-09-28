@@ -8,6 +8,20 @@
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ INDONESIA VS LEBANON ✦●✦
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/45.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | NATIONAL FRIENDLY",✦●✦ LIGA BRI INDO ✦●✦
+http://vipvfcb.xyz:8080/VIP016173282936924/61747936621282/34327
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | NATIONAL FRIENDLY",✦●✦ LIGA BRI INDO ✦●✦
+http://vipboacnn.top:8080/VIP0199169358094917/21693580949/34327
 ==================================================================================================================================================================================================================
 
 #EXTINF:-1  tvg-name="PHE JAMBI MERANG" tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQGBlDPZlOj4KQ/company-logo_200_200/company-logo_200_200/0/1630605472475?e=2147483647&v=beta&t=YC8qcj0VI-yP9T8GAkMAVPiyeDpqTY3402ULc3uaVpQ" group-title="🌟PHE JAMBI MERANG", PERTAMINA
