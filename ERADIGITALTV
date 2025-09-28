@@ -7,6 +7,13 @@
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ INDONESIA VS LEBANON ✦●✦
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/45.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | NATIONAL FRIENDLY",✦●✦ LIGA BRI INDO ✦●✦
+http://vipvfcb.xyz:8080/VIP016173282936924/61747936621282/34327
 
 =======================================INDONESIA VIP========================================================================================================================
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV		
@@ -3971,5 +3978,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Salitan.202
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Takas.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HOTSTARTDISNEYMOVIE",Salawahan.2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Salawahan.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
