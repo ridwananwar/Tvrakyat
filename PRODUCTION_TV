@@ -4,6 +4,14 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | NATIONAL FRIENDLY",✦●✦ LIGA BRI INDO ✦●✦
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="LIVE ONLY | INTERNATIONAL FRIENDLY",✦●✦ KAIRAT VS REALMADRID ✦●✦
 https://t2nt1-cf.boblcfwudz421.com/auth%3D1e979ecc036f02b97dd68b0d2e29bd429e01f81ce26ae059c21c6f141cf25e23197a41d55ed7cf74f85de9a8d41ed6cda44dfbcae97f9c2f7c7edad1d1ebdfdfd62f6b7492fde506187e486d4f5ec71742e929a7b68834b578ed695e48a541ab370faf5ecdc849a6623c3d95548710e5b587d8458e626c26171f67be6afdc6393159483554e9340128439810403ea51cb34d8b9a542eccdc4bc7a2327c701dcf760a4eab9aef7f1f5de53f65a3b6f99bbe4fd54b5f3e2a98f968b6679869a44e6c7f1f67e715c93f987890b1e38db8e4%26cid%3D1Mxma2OXvMgIbof9bK7_p250930%26_v%3D2%26_r%3DFElcwd%26_vis%3Db2d5196ac07ede2991a488962df0b546ffd1b39195146b0cfa555575577bfa7b%26_vvs%3D946b229a6a0aca8145bc0c97e9158233b12f70afe34e55d488caece9d4a41796/transcode/c373804_480p.m3u8
 
