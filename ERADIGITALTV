@@ -5,7 +5,7 @@
 http://filex.tv:8080/live/vc/1234/302297.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="KUALIFIKASI PIALA DUNIA",ID: RCTI HD
-http://filex.tv:8080//live/000003/000003/302297.ts
+http://filex.tv:8080/live/000003/000003/302297.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="KUALIFIKASI PIALA DUNIA",ID: RCTI HD
 http://filex.tv:8080/live/Qasim1990/1990qasim/302297.ts
@@ -5919,6 +5919,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Salitan.202
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Takas.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HOTSTARTDISNEYMOVIE",Salawahan.2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Salawahan.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
 
