@@ -50,10 +50,7 @@ http://vipboacnn.top:8080/VIP013881744126742382/0fe680a860e7/34322
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="KUALIFIKASI PIALA DUNIA",RCTI 1 (AG)
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgRBypSfbLJ2ykK6R2o4C1mGsNw51QBV92y304QDOGdlAqLHdokmDRqBx&s=10" group-title="KUALIFIKASI PIALA DUNIA",GTV(+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="KUALIFIKASI PIALA DUNIA",RCTI 3 ON (+)
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
@@ -5919,6 +5916,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Salitan.202
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Takas.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HOTSTARTDISNEYMOVIE",Salawahan.2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Salawahan.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
 
