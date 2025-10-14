@@ -1480,6 +1480,330 @@ http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302742.ts
 http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302743.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/157a5877321833c9699a238fb977f428.png" group-title="Thailand",TH: Channel 8 HD
 http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7f0d9f00d2d5be5fb14c755ae92d0d4d.png" group-title=" AU | AUSTRALIA 1",Wonder
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819615.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 [vip]" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",beIN Sports 1 [vip]
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819570.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d54cc07e45e6147851f02b6eaf4904a2.png" group-title=" AU | AUSTRALIA 1",ABC TV Plus
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819564.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV QLD" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC TV QLD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819565.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV SA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC TV SA
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819566.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV VIC" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC TV VIC
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819567.ts
+#EXTINF:-1 tvg-id="" tvg-name="ausbiz TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c717fb19df352e049ffd0a60a2239be1.png" group-title=" AU | AUSTRALIA 1",ausbiz TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819568.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" group-title=" AU | AUSTRALIA 1",beIN Sports 1
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819569.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png" group-title=" AU | AUSTRALIA 1",beIN Sports 2
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819571.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e869d37f03deb7bbbd0346dfeb62ab7b.png" group-title=" AU | AUSTRALIA 1",ABC TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819562.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title=" AU | AUSTRALIA 1",beIN Sports 3
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/046b2aecb1e36f6971daaf52345c30c9.png" group-title=" AU | AUSTRALIA 1",Bloomberg TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Asia Live Event" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",Bloomberg TV Asia Live Event
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 31" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2af5220e3523765e99f77e08d8a2628b.jpg" group-title=" AU | AUSTRALIA 1",Channel 31
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 44" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",Channel 44
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 Sydney" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/57460d67be4046982518f5cb781a002c.png" group-title=" AU | AUSTRALIA 1",Channel 9 Sydney
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819577.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV NSW" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC TV NSW
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819563.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News 480" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC News 480
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819561.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title=" AU | AUSTRALIA 1",ESPN 2
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819579.ts
+#EXTINF:-1 tvg-id="" tvg-name="7 Two" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5409b12884b9c0f0cfac52ba87ccbc36.png" group-title=" AU | AUSTRALIA 1",7 Two
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819552.ts
+#EXTINF:-1 tvg-id="" tvg-name="10 Peach Sydney" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/91363410300db41eea6d72291171e58b.png" group-title=" AU | AUSTRALIA 1",10 Peach Sydney
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819546.ts
+#EXTINF:-1 tvg-id="" tvg-name="10 Sydney" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dbc661084a4d28ecdd9d5cc53a759ad1.png" group-title=" AU | AUSTRALIA 1",10 Sydney
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819547.ts
+#EXTINF:-1 tvg-id="" tvg-name="3AW" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",3AW
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819548.ts
+#EXTINF:-1 tvg-id="" tvg-name="7 Flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9d47406a4b05f897d9ed770d1aaee54b.png" group-title=" AU | AUSTRALIA 1",7 Flix
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819549.ts
+#EXTINF:-1 tvg-id="" tvg-name="7 mate" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03823a774132df4ec9dbb4890b56f654.png" group-title=" AU | AUSTRALIA 1",7 mate
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819550.ts
+#EXTINF:-1 tvg-id="" tvg-name="7 MATE Sydney" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",7 MATE Sydney
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819551.ts
+#EXTINF:-1 tvg-id="" tvg-name="9 GEM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f2f635ba6c5683dead33a46255ef5935.png" group-title=" AU | AUSTRALIA 1",9 GEM
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819553.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ce0e8752bbde0e8305d33835ba1e7284.png" group-title=" AU | AUSTRALIA 1",ABC News
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819560.ts
+#EXTINF:-1 tvg-id="" tvg-name="9 Go!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/283c7b13cd99a47b5cec3c408ec87c39.png" group-title=" AU | AUSTRALIA 1",9 Go!
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819554.ts
+#EXTINF:-1 tvg-id="" tvg-name="9 Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/828262cc7574b1bfb306f8fe2d4cba52.png" group-title=" AU | AUSTRALIA 1",9 Life
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819555.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fdc77def32585225712391390909832e.png" group-title=" AU | AUSTRALIA 1",ABC Australia
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819556.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC Kids NT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6862a171918ae41555c180cae7b290c3.png" group-title=" AU | AUSTRALIA 1",ABC Kids NT
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819557.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC Me" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",ABC Me
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819558.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC Me NT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fe2dae1c26dc501dc1e2dd3e186f7470.png" group-title=" AU | AUSTRALIA 1",ABC Me NT
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819559.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title=" AU | AUSTRALIA 1",ESPN
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Expo Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ee4ab7a21a7ca24efabffdc9b6504332.png" group-title=" AU | AUSTRALIA 1",Expo Channel
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819580.ts
+#EXTINF:-1 tvg-id="" tvg-name="(New Zealand) Firstlight TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/65d5da18cec66c66e93ae773e2fc5f4f.png" group-title=" AU | AUSTRALIA 1",(New Zealand) Firstlight TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title=" AU | AUSTRALIA 1",Sky Sport 6
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Racing 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fce7f3667c95105f6577e0455e619724.png" group-title=" AU | AUSTRALIA 1",Sky Racing 2
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title=" AU | AUSTRALIA 1",Sky Sport 1
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819602.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title=" AU | AUSTRALIA 1",Sky Sport 2
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819603.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title=" AU | AUSTRALIA 1",Sky Sport 3
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title=" AU | AUSTRALIA 1",Sky Sport 4
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title=" AU | AUSTRALIA 1",Sky Sport 5
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title=" AU | AUSTRALIA 1",Sky Sport 7
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819608.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1884f300c5c4c9794b49cbd74800de73.svg" group-title=" AU | AUSTRALIA 1",Sky News
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title=" AU | AUSTRALIA 1",Sky Sport 8
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",Sky Sport 9
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title=" AU | AUSTRALIA 1",Sky Sport Select
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/260faf55709f9e5f93ec10c6f741314d.png" group-title=" AU | AUSTRALIA 1",Smithsonian Channel
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Time Line Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/38fa954f7c84c2a3de25629c74f4cee7.png" group-title=" AU | AUSTRALIA 1",Time Line Australia
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819613.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVSN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/160020a5ce258f3a3fdbbdf699dcabdf.png" group-title=" AU | AUSTRALIA 1",TVSN
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Racing 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4e83942572ad754a569a7626d7c3a3a5.png" group-title=" AU | AUSTRALIA 1",Sky Racing 1
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819600.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBS World Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f4f1c70099d00a880f13a9ca5818f4ce.png" group-title=" AU | AUSTRALIA 1",SBS World Movies
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title=" AU | AUSTRALIA 1",Fox Sports 501
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819581.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title=" AU | AUSTRALIA 1",Fox Sports 507
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title=" AU | AUSTRALIA 1",Fox Sports 502
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title=" AU | AUSTRALIA 1",Fox Sports 503
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title=" AU | AUSTRALIA 1",Fox Sports 504
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504 AFL" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title=" AU | AUSTRALIA 1",Fox Sports 504 AFL
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title=" AU | AUSTRALIA 1",Fox Sports 505
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819586.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title=" AU | AUSTRALIA 1",Fox Sports 506
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title=" AU | AUSTRALIA 1",Fox Sports News
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819589.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBS Viceland" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/514e18cec177adff3881ee19f83812b3.png" group-title=" AU | AUSTRALIA 1",SBS Viceland
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gusto TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/9d6f4a12186af10f0b25601d0c27b119.jpg" group-title=" AU | AUSTRALIA 1",Gusto TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Juice TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/6de84acdc109d6d54d3420993847e1ed.jpg" group-title=" AU | AUSTRALIA 1",Juice TV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819591.ts
+#EXTINF:-1 tvg-id="" tvg-name="NITV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/7a75a2c8a691708c783ca1945f4ddc55.svg" group-title=" AU | AUSTRALIA 1",NITV
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0bc18a32ddd6c8a9f82f6f0d4fd30771.png" group-title=" AU | AUSTRALIA 1",Outdoor Channel
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Racing.com" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32a7f96ee728a01325c94298cac1cd77.png" group-title=" AU | AUSTRALIA 1",Racing.com
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9854dca0878fc85b2b6a2faa584c566f.svg" group-title=" AU | AUSTRALIA 1",Real Crime
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819595.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBS Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/839851ed442f2eaf74ef20955b55ab5d.png" group-title=" AU | AUSTRALIA 1",SBS Food Network
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819596.ts
+#EXTINF:-1 tvg-id="" tvg-name="10 Bold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0f547b7d6b6c61e631c39a414f10ae48.png" group-title=" AU | AUSTRALIA 1",10 Bold
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/819545.ts
+#EXTINF:-1 tvg-id="3264" tvg-name="AU | 9 LIFE HD" tvg-logo="" group-title="AU | AUSTRALIA",AU | 9 LIFE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499750.ts
+#EXTINF:-1 tvg-id="3474" tvg-name="AU | ABC NEWS HD" tvg-logo="" group-title="AU | AUSTRALIA",AU | ABC NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499751.ts
+#EXTINF:-1 tvg-id="447022" tvg-name="AU: Australia Channel HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Australia Channel HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499752.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: GOD TV Australia HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: GOD TV Australia HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499754.ts
+#EXTINF:-1 tvg-id="442913" tvg-name="AU: NITV HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: NITV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499755.ts
+#EXTINF:-1 tvg-id="442908" tvg-name="AU: SBS FOOD Melbourne HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SBS FOOD Melbourne HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499756.ts
+#EXTINF:-1 tvg-id="421431" tvg-name="AU: TVSN HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: TVSN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499757.ts
+#EXTINF:-1 tvg-id="40886" tvg-name="AU | Racing.com FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU | Racing.com FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU | Redbull TV FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU | Redbull TV FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499759.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 1 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499760.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 1 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499761.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 2 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499762.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 2 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499763.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 3 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499764.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN Sports 3 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: BEIN Sports 3 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499765.ts
+#EXTINF:-1 tvg-id="447026" tvg-name="AU: ESPN 1 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ESPN 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499766.ts
+#EXTINF:-1 tvg-id="447026" tvg-name="AU: ESPN 1 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ESPN 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499767.ts
+#EXTINF:-1 tvg-id="447026" tvg-name="AU: ESPN 2 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ESPN 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499768.ts
+#EXTINF:-1 tvg-id="447026" tvg-name="AU: ESPN 2 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ESPN 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499769.ts
+#EXTINF:-1 tvg-id="447006" tvg-name="AU: FOX Sports NEWS HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499770.ts
+#EXTINF:-1 tvg-id="447006" tvg-name="AU: FOX Sports NEWS FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports NEWS FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499771.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 501 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 501 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499772.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 501 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 501 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499773.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 502 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 502 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499774.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 502 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 502 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499775.ts
+#EXTINF:-1 tvg-id="447015" tvg-name="AU: FOX Sports 503 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 503 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499776.ts
+#EXTINF:-1 tvg-id="447015" tvg-name="AU: FOX Sports 503 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 503 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499777.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 504 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 504 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499778.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 504 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 504 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499779.ts
+#EXTINF:-1 tvg-id="447007" tvg-name="AU: FOX Sports 505 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 505 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499780.ts
+#EXTINF:-1 tvg-id="447007" tvg-name="AU: FOX Sports 505 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 505 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499781.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 506 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 506 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499782.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 506 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 506 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499783.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 507 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 507 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499784.ts
+#EXTINF:-1 tvg-id="446961" tvg-name="AU: FOX Sports 507 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FOX Sports 507 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499785.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Redbull TV HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Redbull TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499786.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: UFC Fight PASS UHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: UFC Fight PASS UHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499787.ts
+#EXTINF:-1 tvg-id="40886" tvg-name="AU: Racing.com HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Racing.com HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499788.ts
+#EXTINF:-1 tvg-id="446957" tvg-name="AU: SKY Racing 1 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY Racing 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499789.ts
+#EXTINF:-1 tvg-id="446957" tvg-name="AU: SKY Racing 1 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY Racing 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499790.ts
+#EXTINF:-1 tvg-id="446958" tvg-name="AU: SKY Racing 2 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY Racing 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499791.ts
+#EXTINF:-1 tvg-id="446958" tvg-name="AU: SKY Racing 2 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY Racing 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499792.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY Greyhound (watcHDog)" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY Greyhound (watcHDog)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499793.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: PAC 12 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: PAC 12 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499794.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: PAC 12 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: PAC 12 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499795.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Outdoor FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499796.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: FUEL TV FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FUEL TV FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499797.ts
+#EXTINF:-1 tvg-id="446960" tvg-name="AU: Ausbiz FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Ausbiz FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499798.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 1 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499799.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 2 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499800.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 3 FHD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 3 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499801.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 1 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499802.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 2 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499803.ts
+#EXTINF:-1 tvg-id="446992" tvg-name="AU: SKY NEWS Extra 3 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SKY NEWS Extra 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499804.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 7 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499805.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 7 TWO HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 7 TWO HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499806.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Channel 7 FLIX HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 7 FLIX HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499807.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Channel 7 MATE HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 7 MATE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499808.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 9 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499809.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 9 GEM HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 9 GEM HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499810.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 9 GO HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 9 GO HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499811.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 9 LIFE HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 9 LIFE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499812.ts
+#EXTINF:-1 tvg-id="3501" tvg-name="AU: Channel 10 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499813.ts
+#EXTINF:-1 tvg-id="3433" tvg-name="AU: Channel 10 Peach HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 10 Peach HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499814.ts
+#EXTINF:-1 tvg-id="3556" tvg-name="AU: Channel 10 BOLD HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Channel 10 BOLD HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499815.ts
+#EXTINF:-1 tvg-id="3474" tvg-name="AU: ABC NEWS HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ABC NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499816.ts
+#EXTINF:-1 tvg-id="3357" tvg-name="AU: ABC HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ABC HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499817.ts
+#EXTINF:-1 tvg-id="3269" tvg-name="AU: ABC ME HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ABC ME HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499818.ts
+#EXTINF:-1 tvg-id="3357" tvg-name="AU: ABC Comedy HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ABC Comedy HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499819.ts
+#EXTINF:-1 tvg-id="3386" tvg-name="AU: ABC KIDS HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: ABC KIDS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499820.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: FUEL TV HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: FUEL TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499821.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Outdoor HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499822.ts
+#EXTINF:-1 tvg-id="442912" tvg-name="AU: SBS HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SBS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499823.ts
+#EXTINF:-1 tvg-id="442908" tvg-name="AU: SBS FOOD Network HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SBS FOOD Network HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499824.ts
+#EXTINF:-1 tvg-id="442910" tvg-name="AU: SBS World Movies HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: SBS World Movies HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499825.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: OPEN SHOP HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: OPEN SHOP HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499826.ts
+#EXTINF:-1 tvg-id="446960" tvg-name="AU: Ausbiz HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Ausbiz HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499827.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU | Optus 1 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU | Optus 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499828.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU | Optus 2 HD" tvg-logo="" group-title="AU | AUSTRALIA",AU | Optus 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 3 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499830.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 4 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499831.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 5 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499832.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 6 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499833.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 7 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499834.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 8 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499835.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 9 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499836.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 10 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499837.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 11 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 11 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499838.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPtus 12 HD" tvg-logo="" group-title="AU | AUSTRALIA",OPtus 12 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499839.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Bloomberg TV Australia HD" tvg-logo="" group-title="AU | AUSTRALIA",AU: Bloomberg TV Australia HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/499753.ts
 
 By Ridwan Anwar
 
