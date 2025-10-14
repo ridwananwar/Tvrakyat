@@ -519,6 +519,967 @@ http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303538.ts
 http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303493.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Awani HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia",MY: Astro Awani HD
 http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303498.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/dbdc2509d6a47f3f52661d02f2f989b9.jfif" group-title="Vietnam",VN: AIR TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302763.ts
+#EXTINF:-1 tvg-id="Tây.Ninh.HD.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/171cfee003cb96de14dfaf62e85d85e3.png" group-title="Vietnam",VN: AN NINH TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302764.ts
+#EXTINF:-1 tvg-id="ANTV.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/31d6d3bd05a08b424812855ceddb745d.png" group-title="Vietnam",VN: Brian TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302765.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Vietnam",VN: BRT HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302766.ts
+#EXTINF:-1 tvg-id="Đà.Nẵng.1.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/95dae3bffb2fb5d2e1880c5fa3b24282.jpg" group-title="Vietnam",VN: DA NANG TV 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302767.ts
+#EXTINF:-1 tvg-id="Đà.Nẵng.2.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1e246e32cba2a29a5f9a6f414f5fc7ad.webp" group-title="Vietnam",VN: DA NANG TV 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302768.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c13c546808eb7578d993bef21fea30c3.jfif" group-title="Vietnam",VN: DAO LANE XANG HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302769.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fdb0296fffdbc911a42d1ebe596135f9.jfif" group-title="Vietnam",VN: Dhammasapha TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302770.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/e9a37239d88b729277c8ded0dfb5349e.png" group-title="Vietnam",VN: GOOD IDEA TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302771.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/103f499bf2d28429a51425761961d831.jfif" group-title="Vietnam",VN: Hmong STAR TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302772.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/cc0926397b35e4ab10fa9a02df604cbe.jfif" group-title="Vietnam",VN: Hmong TV Network HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302773.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5f4321c7dc573c2cd11a2d0de5585ca5.jfif" group-title="Vietnam",VN: Hmong USA TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302774.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-05/45fa613c2f9c394155264ea7d035f63c.png" group-title="Vietnam",VN: HOA BINH TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302775.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/edd00e16d7e6cf220cbd760d2700a907.jfif" group-title="Vietnam",VN: Houng FA HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302776.ts
+#EXTINF:-1 tvg-id="HTV2.HD.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/2ebce6cdfe8dc265ba805c60ec7e6edf.png" group-title="Vietnam",VN: HTV 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302777.ts
+#EXTINF:-1 tvg-id="HTV3.HD.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/56016c42f0a02a297cef2825b13d1d36.png" group-title="Vietnam",VN: HTV 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302778.ts
+#EXTINF:-1 tvg-id="HTV7.HD.vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/cdef5887200c78162b96805aef3857cb.jpg" group-title="Vietnam",VN: HTV 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302779.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2db6eaef115fbdda8aa186d1074bde81.jpg" group-title="Vietnam",VN: ISTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302780.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/a020166f50a1974e39e3aa0d811404be.png" group-title="Vietnam",VN: Khmer TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302781.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0438de733929bc67bcece8221cf28133.jfif" group-title="Vietnam",VN: Khomsanh TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302782.ts
+#EXTINF:-1 tvg-id="Kien Giang (HD).vn" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/67d2c42aa95589a3d192dfd85179bcab.png" group-title="Vietnam",VN: KIEN Giang HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302783.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/34a4fb1c78d9a872c0a44de51fec46a0.jfif" group-title="Vietnam",VN: LAO Champa TV 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302784.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fb28cf49e870998e1a1b3de90684f160.jfif" group-title="Vietnam",VN: LAO Champa TV 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302785.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/623c8203e871438f821f6a69bb7f903c.jfif" group-title="Vietnam",VN: LAO Heritage Foundation TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302786.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/7ddf88dd765a2bcbef12846993c6c365.jfif" group-title="Vietnam",VN: LAO NET TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302787.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/71368a33daf5d951cdcbf940184a4bcf.jfif" group-title="Vietnam",VN: LAO Planet TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302788.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/63331cc2755c22828288f040132a5c43.jfif" group-title="Vietnam",VN: LAO SV TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302789.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/71ef1659696da2daf2d8886b8a513313.png" group-title="Vietnam",VN: LAO THAI US TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302790.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/099ff20fdb95f11b5304af5d37418098.jfif" group-title="Vietnam",VN: LOOK Thoong TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302791.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0aea65fbd6adb4d4162d23432ff30810.jfif" group-title="Vietnam",VN: LS TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302792.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b32730b712c8bf20a5b34c069ef0e60f.png" group-title="Vietnam",VN: NAT TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302793.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/12ecafc1f286098b95d0cee4c7d2f829.jfif" group-title="Vietnam",VN: NING TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302794.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/39d6ff699a4057b12feede14effb7909.jfif" group-title="Vietnam",VN: OH Muang LAO TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302795.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/357cfb646f695f3a1d54bd75ce5fa79b.jpg" group-title="Vietnam",VN: PNTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302796.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8608732fa148198dffa0523984782dea.png" group-title="Vietnam",VN: Quang NAM TV (qrt) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302797.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/dd7242411215b501cc1b7651b9413cd9.jpg" group-title="Vietnam",VN: TEA TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302798.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/08e06e16acc654ed5f0e9e85ec4b8fee.jpg" group-title="Vietnam",VN: TEA TV 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302799.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/090f20205b435f9309bbe6c3e26ecc0b.png" group-title="Vietnam",VN: TIEN Giang TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302800.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/7f02775a16c83f8e8c7d1e1cb816c43c.png" group-title="Vietnam",VN: TRUE Visions HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302801.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/bd9f977d9ed6ad3fe7af6b1c605ec3a9.jfif" group-title="Vietnam",VN: Uniquely THAI HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302802.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/07821d0fa9b3ddfe5e7e5fbc6b0e644e.jfif" group-title="Vietnam",VN: Vanphenh TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302803.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5776b0e152814bc872f49e274b7162fc.jfif" group-title="Vietnam",VN: VATI LAO TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302804.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Vietnam",VN: VIET MTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302805.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7fbf15ad668dc2ec1d532915071d713.png" group-title="EX-YU",EX-YU: AMC HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302969.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a307ea73419705a97901cd9a5aac657d.png" group-title="EX-YU",EX-YU: AXN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302971.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/d31f2ea47e25729760f6008b1a536233.png" group-title="EX-YU",EX-YU: AXN SPIN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302972.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b59db50e5f0ec9676d0a330641d0ddab.png" group-title="EX-YU",EX-YU: Cinestar TV 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302977.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/092da98c4ddecd1cef2f5c7b332938f1.png" group-title="EX-YU",EX-YU: DA Vinci HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302984.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/d8373c48c836734cfa50a4297b244808.png" group-title="EX-YU",EX-YU: DIVA HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302987.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302988.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Crnogorska HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302989.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Exclusive HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302990.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Hrvatska HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302991.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Islamska HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302992.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Muzicka HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302993.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Dobra Sevdah HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302994.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/05ca966f4fb49e37f0b4f88403e30487.png" group-title="EX-YU",EX-YU: E! HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302996.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EX-YU",EX-YU: Elita7 LIVE 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302997.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EX-YU",EX-YU: Elita7 LIVE 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302998.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EX-YU",EX-YU: Elita7 LIVE 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302999.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EX-YU",EX-YU: Elita7 LIVE 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303000.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d7d94b3c75f21569ce4c905a26dbb9da.png" group-title="EX-YU",EX-YU: LOV I Ribolov HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303020.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e40dab14fc6b942993047beca01aeff0.png" group-title="EX-YU",EX-YU: Minimax HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303021.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EX-YU",EX-YU: MOJA TV Premijer LIGA HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303022.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7b6be9418889f252f185ee7d8eb38026.png" group-title="EX-YU",EX-YU: NOVA Series HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303027.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6d501cfee93b507c966f126995c65a92.png" group-title="EX-YU",EX-YU: RTL HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303028.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/8ca70871fba540aca814f52e8dee23bb.png" group-title="EX-YU",EX-YU: RTL 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303029.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0ce82322d549d89f57c3b82bcee47584.png" group-title="EX-YU",EX-YU: RTL Adria HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303030.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/9dd5bb39c2126b7f6090eebe6978cc5f.png" group-title="EX-YU",EX-YU: RTL Crime HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303031.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/26617aa16e3e8cc62527b7c528c4a991.png" group-title="EX-YU",EX-YU: RTL Kockica HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303032.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/97e4959158709ec29fd8c882a53e416c.png" group-title="EX-YU",EX-YU: RTL Living HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303033.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/bc095e83e1b90d8d762aa0154611a489.png" group-title="EX-YU",EX-YU: RTL Passion HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303034.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: RTL PLUS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303035.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec13ed833b82c75fe5400badb674b03a.png" group-title="EX-YU",EX-YU: TV 1000 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303044.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7317750c89b11156dbda7cd51b7f789c.jpg" group-title="EX-YU",EX-YU: TV Istok HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303045.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f2bfdc7a7d51d835fd49eea308a3d302.png" group-title="EX-YU",EX-YU: Viasat Explore HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303046.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/659c11816d46f52fd2068d3ebc5b25aa.png" group-title="EX-YU",EX-YU: Viasat Nature HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/303047.ts
+===================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8697f68b3c2bb7262c3e042b8e61355a.png" group-title="Qatar ➾ Sports",QA: AL KASS FIVE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332924.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b2665cf50ba59a4078dae3d96975e6ae.png" group-title="Qatar ➾ Sports",QA: AL KASS FOUR HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332925.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0447c1a605551cb1ca34d9622617f17f.png" group-title="Qatar ➾ Sports",QA: AL KASS ONE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332926.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d7c6ec59a8423fdc8f35e00ecbab7264.png" group-title="Qatar ➾ Sports",QA: AL KASS Three HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332927.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/02f766a4f55d02c06bb3387e90100c8c.png" group-title="Qatar ➾ Sports",QA: AL KASS TWO HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332928.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Qatar ➾ Sports",QA: BEIN Afcon 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332929.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Qatar ➾ Sports",QA: BEIN Afcon 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332930.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8aff9f98a00e5859162fd8e3f8e13ff3.jpg" group-title="Qatar ➾ Sports",QA: BEIN Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332931.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332932.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332933.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332934.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332935.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332936.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332937.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332938.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332939.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Qatar ➾ Sports",QA: BEIN Sports 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332940.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Qatar ➾ Sports",QA: BEIN Sports English 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332941.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="Qatar ➾ Sports",QA: BEIN Sports English 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332942.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="Qatar ➾ Sports",QA: BEIN Sports English 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332943.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Qatar ➾ Sports",QA: BEIN Sports Global HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332944.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="Qatar ➾ Sports",QA: BEIN Sports NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332945.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="Qatar ➾ Sports",QA: BEIN Sports Premium 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332946.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Qatar ➾ Sports",QA: BEIN Sports XTRA 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332947.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Qatar ➾ Sports",QA: BEIN Sports XTRA 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/332948.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯ 4K",PTV Sports 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247170.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="✯CRICKET✯ 4K",A Sports 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247168.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="✯CRICKET✯ 4K",GEO Super 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247167.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="✯CRICKET✯ 4K",TEN Sports 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247171.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports 1 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247159.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports 2 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247160.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports Select 1 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247161.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="✯CRICKET✯ 4K",IN | STAR Sports Select 2 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247162.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 1 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247155.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 2 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247156.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 3 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247157.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="✯CRICKET✯ 4K",IN | SONY Sports 5 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247158.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="✯CRICKET✯ 4K",FAST Sports 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247169.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯ 4K",AFG WATAN 4K
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/516699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯WWE✯",WWE HD (1)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/509258.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯WWE✯",WWE HD (2)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/509259.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯WWE✯",WWE HD (3)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/509260.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="✯WWE✯",FITE 24/7 (1080p)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/834779.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" group-title="✯WWE✯",Persiana Fight
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/834858.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/250211.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="✯CRICKET✯",PK | PTV Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/453434.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="✯CRICKET✯",PK | ARY Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/190767.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="✯CRICKET✯",PK | ARY Sports FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/62393.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="✯CRICKET✯",IN | TEN Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52106.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",IN | THE CRICKET
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/658436.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="✯CRICKET✯",PK | GEO Super HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52080.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="✯CRICKET✯",IN | STAR Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52094.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="✯CRICKET✯",IN | STAR Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52096.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-logo="" group-title="✯CRICKET✯",IN | STAR Sports 1 Hindi HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/90342.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="✯CRICKET✯",IN | STAR Sports Select 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52098.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.in" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="✯CRICKET✯",IN | STAR Sports Select 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52100.ts
+#EXTINF:-1 tvg-id="Sony.Ten.1.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="✯CRICKET✯",IN | SONY TEN 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52083.ts
+#EXTINF:-1 tvg-id="Sony.Ten.2.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="✯CRICKET✯",IN | SONY TEN 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52085.ts
+#EXTINF:-1 tvg-id="Sony.Ten.5.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="✯CRICKET✯",IN | SONY TEN 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52086.ts
+#EXTINF:-1 tvg-id="Sony.Ten.5.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="✯CRICKET✯",IN | SONY TEN 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/453435.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="✯CRICKET✯",IN | Willow Cricket HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/52109.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="✯CRICKET✯",AF | Super Sports Cricket  HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/53044.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGblnHUtV4s3-_Xsa4X3AUO3pKnjfoFoZRxA&usqp=CAU" group-title="✯CRICKET✯",NZ | SKY Sports Cricket FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/250199.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",IN | Astro Cricket HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/451415.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",AU | FOX Cricket 501 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/247166.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="✯CRICKET✯",BD | T Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/111409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="✯CRICKET✯",IN | FAST Sports  HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/277207.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",FAncode Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/509503.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://filex.vip:443/images/_HmHo_P7L3IdYO67j5S70HslD6BC0k2Qu3MvF_Z5NnMpGtOkRH9y6nHeUNQPJ4hBYp97V9EwNXSBxlnUbmxOiw.png" group-title="✯CRICKET✯",IN | EURO Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/297577.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯CRICKET✯",TNT Spots 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/529243.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯CRICKET✯",TNT Spots 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/529247.ts
+#EXTINF:-1 tvg-id="STAR.SPORTS.3.in" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯CRICKET✯",TNT Spots 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/529251.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",BEIN SPORTS (1)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/683620.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",BEIN SPORTS (2)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/683623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✯CRICKET✯",BEIN SPORTS (3)
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/683626.ts
+==================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (1) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/500846.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (2) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/500847.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (3) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/500848.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (4) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/500849.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (5) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/683629.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbQxUv6xtWtTHXmMPwQ_bKC6oOiM5cTR32A&s" group-title="✯WOMENS✯ CRICKET (2025) ICC CUP",ASIA CUP (6) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/683632.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="✯UK✯ SPORTS",UK: Eurosport 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495242.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="✯UK✯ SPORTS",UK: Eurosport 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495243.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ SPORTS",UK: Fight Network HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495244.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/87cb20f28b235bb09f9492fbca90e6ba.png" group-title="✯UK✯ SPORTS",UK: FUEL TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495245.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/1dccb185ae350240e14ca4e8c397ba85.png" group-title="✯UK✯ SPORTS",UK: Horse & Country TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495246.ts
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="✯UK✯ SPORTS",UK: Motorracing HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495247.ts
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="✯UK✯ SPORTS",UK: Racing TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495248.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="✯UK✯ SPORTS",UK: Redbull TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495249.ts
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8a5887a41cf5319261bf4dfc921260b1.png" group-title="✯UK✯ SPORTS",UK: Setanta Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495250.ts
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="✯UK✯ SPORTS",UK: SKY Sports Action HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495251.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="✯UK✯ SPORTS",UK: SKY Sports Arena HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495252.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="✯UK✯ SPORTS",UK: SKY Sports F1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495253.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="✯UK✯ SPORTS",UK: SKY Sports MAIN Event HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495254.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="✯UK✯ SPORTS",UK: SKY Sports MIX HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495255.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="✯UK✯ SPORTS",UK: SKY Sports NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495256.ts
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="✯UK✯ SPORTS",UK: SKY Sports Racing HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495257.ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495259.ts
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495261.ts
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495262.ts
+#EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495263.ts
+#EXTINF:-1 tvg-id="TNT.Sports.7.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495264.ts
+#EXTINF:-1 tvg-id="TNT.Sports.8.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495265.ts
+#EXTINF:-1 tvg-id="TNT.Sports.9.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495266.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="✯UK✯ SPORTS",UK: UFC Fight PASS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495267.ts
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495260.ts
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="✯UK✯ SPORTS",UK: TNT Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495258.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="✯UK✯ SPORTS",UK: EDGE Sport HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495241.ts
+=====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495230.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495231.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495232.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495234.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495235.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="✯UK✯ FOOTBALL",UK: HUB Premier 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495236.ts
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="✯UK✯ FOOTBALL",UK: MUTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495237.ts
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="✯UK✯ FOOTBALL",UK: Premier Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495238.ts
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="✯UK✯ FOOTBALL",UK: Premier Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495239.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="✯UK✯ FOOTBALL",UK: SKY Sports Premier League HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/495240.ts
+
+========================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301950.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301951.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301952.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301953.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301954.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301955.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301956.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Football",FR: Amazon Prime 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301957.ts
+#EXTINF:-1 tvg-id="55982" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301881.ts
+#EXTINF:-1 tvg-id="55920" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301882.ts
+#EXTINF:-1 tvg-id="443213" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301883.ts
+#EXTINF:-1 tvg-id="55983" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="France ➾ Sports",FR: BEIN Sports MAX 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301884.ts
+#EXTINF:-1 tvg-id="459188" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/d49d78f77d93aa02508cbc68083a7be2.png" group-title="France ➾ Sports",FR: Canal+ FOOT HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301885.ts
+#EXTINF:-1 tvg-id="459189" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="France ➾ Sports",FR: Canal+ Formula 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="France ➾ Sports",FR: Canal+ Motogp HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301887.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="France ➾ Sports",FR: Canal+ Sport HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301888.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="France ➾ Sports",FR: Canal+ Sport 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301889.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/029a2c0a9c97cefb93ac13e272cba959.png" group-title="France ➾ Sports",FR: Canal+ Sport 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301890.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/ccdd67e3afbdfaa1fabdc29c99820433.png" group-title="France ➾ Sports",FR: Canal+ Sport 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301891.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/f389c3a9b79953394fda84bdc4044658.png" group-title="France ➾ Sports",FR: Canal+ Sport 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301892.ts
+#EXTINF:-1 tvg-id="459266" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d61d1906b88792e013fb83f7dab08ab1.png" group-title="France ➾ Sports",FR: Canal+ Sport 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301893.ts
+#EXTINF:-1 tvg-id="459182" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/c5e0963b89951b3efa29b9cda6103926.png" group-title="France ➾ Sports",FR: Canal+ Sport 360 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301894.ts
+#EXTINF:-1 tvg-id="459189" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Sports",FR: Canal+ TOP 14 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301895.ts
+#EXTINF:-1 tvg-id="55906" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1ddef849a00352201b3b798d282e198d.png" group-title="France ➾ Sports",FR: Equidia HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301896.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/55d057e54d3083b43b4239162e04e567.png" group-title="France ➾ Sports",FR: Equidia PRO HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301897.ts
+#EXTINF:-1 tvg-id="444724" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: Eurosport 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301898.ts
+#EXTINF:-1 tvg-id="444725" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/bcd6a910facfc361db274a32e5207ffd.png" group-title="France ➾ Sports",FR: Eurosport 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301899.ts
+#EXTINF:-1 tvg-id="459178" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7df8da393b3d045034a8e69b0d696339.png" group-title="France ➾ Sports",FR: Infosport+ HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301902.ts
+#EXTINF:-1 tvg-id="459179" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/178f928a62f52d799267bd28e414af94.png" group-title="France ➾ Sports",FR: L Equipe HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301903.ts
+#EXTINF:-1 tvg-id="459179" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a6cb9c4244301ece4e4e18c6ad4e35b9.png" group-title="France ➾ Sports",FR: L Equipe LIVE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301904.ts
+#EXTINF:-1 tvg-id="55026" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/84de9c0ac6b931b87595aed3fb80cd66.png" group-title="France ➾ Sports",FR: Multisports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301905.ts
+#EXTINF:-1 tvg-id="459234" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/489f142fa47ea1909373affb54180a0a.png" group-title="France ➾ Sports",FR: Multisports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301906.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1bb9978331110c5eca84b888d1940060.png" group-title="France ➾ Sports",FR: Multisports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301907.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/00989d90769039fc4dc0081729a5e739.png" group-title="France ➾ Sports",FR: Multisports 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301908.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b0861ab46e7db92591dd1d97c6ae5d19.png" group-title="France ➾ Sports",FR: Multisports 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301909.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/34cce8b18ca8ce555e930f499fd61f36.png" group-title="France ➾ Sports",FR: Multisports 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301910.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/294ed601157952e90910e317ad5d1d9e.png" group-title="France ➾ Sports",FR: Olympia TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301911.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="France ➾ Sports",FR: RMC Sport 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301912.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="France ➾ Sports",FR: RMC Sport 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301913.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="France ➾ Sports",FR: RMC Sport 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301914.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="France ➾ Sports",FR: RMC Sport 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301915.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="France ➾ Sports",FR: RMC Sport 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301916.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/eff690c2ea262f51dc20359a6a5d2dab.jpg" group-title="France ➾ Sports",FR: RMC Sport 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301917.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7ba3def00bf7bcf5dc60c53248dc5280.jpg" group-title="France ➾ Sports",FR: RMC Sport 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301918.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a883723670d7bc644176d7aba669cabc.jpg" group-title="France ➾ Sports",FR: RMC Sport 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301919.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d40f3d8995bcc19f0e66081362a2b8e5.png" group-title="France ➾ Sports",FR: RMC Sport 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301920.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c8e0e790aa04235207798f3be7025794.jpg" group-title="France ➾ Sports",FR: RMC Sport 12 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301921.ts
+#EXTINF:-1 tvg-id="54815" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/713b9ca02caa88867392d859344d62bf.png" group-title="France ➾ Sports",FR: RMC Sport 13 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301922.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8fc45d7ab0d5401b97b5485e558e0fa3.png" group-title="France ➾ Sports",FR: Trace Sport Stars HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/301923.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil ➾ Football",BR: Premiere FC 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="Brazil ➾ Football",BR: Premiere FC 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304358.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="Brazil ➾ Football",BR: Premiere FC 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="Brazil ➾ Football",BR: Premiere FC 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304360.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304361.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil ➾ Football",BR: Premiere FC 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/304362.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain ➾ Football",ES: DAZN 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292976.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292977.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="Spain ➾ Football",ES: DAZN 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292978.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292979.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain ➾ Football",ES: DAZN Laliga HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292980.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN Laliga 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292981.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292982.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292983.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292984.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292985.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f17a72afc795aeb69406238055a55c0d.jpg" group-title="Spain ➾ Football",ES: Laliga TV BAR HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292986.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292987.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292988.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/74600f9d2e3f5255b425f5b19f1bac1a.png" group-title="Spain ➾ Football",ES: Laliga TV Hypermotion 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292989.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Spain ➾ Football",ES: M+ Laliga HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292990.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: Movistar Laliga HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292991.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: Movistar Laliga 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292992.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: Movistar Laliga 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292993.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: Movistar Laliga 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292994.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: Movistar Laliga 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292995.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2d066efd0a3ae54514a638b6341b09dc.jpg" group-title="Spain ➾ Football",ES: Movistar Laliga 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292996.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292997.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/058dabf82e072bd3c9b5a2d603e2663e.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292998.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/944d8f3affc4901d79cc5addcfbc5b86.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/292999.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/bb9c0cf21e8c72c3fdc6fba26405de05.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293000.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/fb5581c15168c69f0660a6be9b302ea9.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293001.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/efb329770364ccd273dc14ccee47998f.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293002.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/d8c95cea30b8bbefcc1612c74d888dd1.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293003.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/315d617ba9268669a8578865fde1cc9a.png" group-title="Spain ➾ Football",ES: Movistar LIGA DE Campeones 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293004.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/79148067187f8eb5943300648df7176c.jpg" group-title="Spain ➾ Football",ES: Movistar Supercopa HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293005.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cfb4cf2213b836f2ca4595db71e35496.png" group-title="Spain ➾ Football",ES: REAL Madrid TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293007.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/73579e6630ae02dc4c7316ee65e09a50.png" group-title="Spain ➾ Football",ES: REAL Madrid TV 480 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/293008.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal ➾ Football",PT: Eleven Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316811.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal ➾ Football",PT: Eleven Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316812.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal ➾ Football",PT: Eleven Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316813.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal ➾ Football",PT: Eleven Sports 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316814.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal ➾ Football",PT: Eleven Sports 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316815.ts
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal ➾ Football",PT: Eleven Sports 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316816.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal ➾ Football",PT: Benfica TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/316810.ts
+
+===================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69698514771.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 1 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833371.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN SPORTS 1 HEVC
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833372.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/96772938541.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports Premium 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833413.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63467181091.png" group-title="ARABE ➾ BEIN SPORTS",UK : BEIN Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833426.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22767561871.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 6 4K PURE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833432.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10879109221.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 5 4K PURE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833431.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66425173441.png" group-title="ARABE ➾ BEIN SPORTS",BS: BEIN Sports 5 4K HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833430.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91736550761.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 4 4K PURE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833429.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52115362531.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 3 Premium 4K PURE HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833428.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22192559271.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 4 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833427.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19857905761.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 3 Premium FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833425.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/45793729681.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 7 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833434.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/141612a5e10cc843074330323410b7a5.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 3 English FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833424.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86737262241.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 3 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/42341481131.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sports 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833422.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81444924761.png" group-title="ARABE ➾ BEIN SPORTS",EN: BEIN Sports 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833421.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/49840119461.png" group-title="ARABE ➾ BEIN SPORTS",AR-VIP: Bein Sports Premium 1 FHD/H265
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833411.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22435015491.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833419.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/768537e153954a85413550f441fa18e5.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 1 English FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833418.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/45332586001.png" group-title="ARABE ➾ BEIN SPORTS",EN: BEIN Sports 5 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833433.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19726475411.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 7 4K  HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833435.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31853366731.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports XTRA 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833415.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16372716111.png" group-title="ARABE ➾ BEIN SPORTS",BEIN Sports Premium 2 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98778944611.png" group-title="ARABE ➾ BEIN SPORTS",FR: Bein Sport Max 6 ᴴᴰ
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833448.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35188838571.png" group-title="ARABE ➾ BEIN SPORTS",beIN Sports Max 5
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833447.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73909491001.png" group-title="ARABE ➾ BEIN SPORTS",|FR| BEIN SPORT MAX 4
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833446.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/f0551b9dcdb8ac253f6be74dee2cb83b.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport MAX 3 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833445.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81428742891.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports Premium 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833410.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/77321208931.png" group-title="ARABE ➾ BEIN SPORTS",|TR.SPOR| beIN SPORT MAX 2 HD.
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833444.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61220083201.png" group-title="ARABE ➾ BEIN SPORTS",FR | BeIN SPORTS MAX 10
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833443.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39806553211.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 10 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833436.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/18876629091.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833442.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66022462131.png" group-title="ARABE ➾ BEIN SPORTS",BEIN Sports XTRA 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833441.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55676974411.png" group-title="ARABE ➾ BEIN SPORTS",AR: Union BEIN Sports 1 Premium SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71468674371.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 2 Premium HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833440.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79542237451.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 1 Premium FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833439.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99716395641.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 1 Premium FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833438.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59510875651.png" group-title="ARABE ➾ BEIN SPORTS",EN: BEIN Sport 12 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833437.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92778324151.png" group-title="ARABE ➾ BEIN SPORTS",EN: BEIN Sports 1 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833417.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81658991291.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 2 English FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833420.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31254129131.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN MAX 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833408.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28714264671.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 4 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833381.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/90045981471.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 6 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833387.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/93929559641.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833386.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/70737990441.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sport MAX 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833407.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84891170391.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833384.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76324708471.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833383.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/58443302111.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833382.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97601028691.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833380.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99471025131.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports Premium 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833414.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79505812141.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833379.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82458133391.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833378.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN SPORTS 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833377.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/53396148581.png" group-title="ARABE ➾ BEIN SPORTS",TR: BEIN Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833376.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63674873011.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833375.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52684362631.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 2 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833374.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69162360981.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sport 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833373.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29370912971.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport HD 6
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833388.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41550855361.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sport 5 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833385.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99018154131.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833389.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16823931741.png" group-title="ARABE ➾ BEIN SPORTS",beIN Sports 11
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833399.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17625347121.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sports MAX 5 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833406.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69578797431.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sports MAX 5 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66119205071.png" group-title="ARABE ➾ BEIN SPORTS",AR: Bein Sports 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833390.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56983770671.png" group-title="ARABE ➾ BEIN SPORTS",FR: BEIN Sports MAX 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833403.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51373715101.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports MAX 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833402.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81312869621.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports NEWS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833401.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51990117331.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports EN Espanyol HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833400.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/40074466121.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN MAX 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833404.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/45469240011.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 11 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833398.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31963047111.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833397.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/38086560661.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 10 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833396.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/47313066651.png" group-title="ARABE ➾ BEIN SPORTS",AR: VIP BEIN Sports 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833395.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17293656281.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 9 SD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833394.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/20103588961.png" group-title="ARABE ➾ BEIN SPORTS",AR.bein| BEIN Sports 8 FHD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833393.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54945492311.png" group-title="ARABE ➾ BEIN SPORTS",BEIN Sports 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833392.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/42252951371.png" group-title="ARABE ➾ BEIN SPORTS",AR: BEIN Sports 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/833391.ts
+=================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296340.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8a35d5aa933df9c7198e9bcaf798352e.png" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296341.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0f1186a29a5653ebd5d98c898a15d642.png" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports ASIA 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296342.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/11de46a27a87cc4bc92a6e54fbe9e94e.png" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports ASIA 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296343.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/fdc98038cef740d81b17b6d939bb9e1f.jpeg" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports Premium 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296344.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0052adee9541d5e80b7a12d30d92e50c.png" group-title="UAE ➾ Sports",AE: ABU Dhabi Sports Premium 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296345.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/20a2d5d9109e385232b268e365b0521e.png" group-title="UAE ➾ Sports",AE: Dubai Racing HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296346.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fda96054c8d62788105af65c1c5bf6c2.png" group-title="UAE ➾ Sports",AE: Dubai Racing 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296347.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/69ccaa509a44ba6a838b3764afe30a3b.png" group-title="UAE ➾ Sports",AE: Dubai Racing 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296348.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3516ee44cc079a5c4a690fc5209ec1d0.png" group-title="UAE ➾ Sports",AE: Dubai Sports HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296349.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/bb40583054de3e5f72a05ec225cd01b4.png" group-title="UAE ➾ Sports",AE: Dubai Sports 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/44eb5bdc864ad1abbc323c8cfa7be6d2.png" group-title="UAE ➾ Sports",AE: Dubai Sports 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3b1c866c0f331e63458d52f79b1f1c6.jpg" group-title="UAE ➾ Sports",AE: Sharjah Sports TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296352.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="UAE ➾ Sports",AE: Starzplay Criclife 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="UAE ➾ Sports",AE: Starzplay Criclife 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="UAE ➾ Sports",AE: Starzplay Criclife 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png" group-title="UAE ➾ Sports",AE: YAS TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/296356.ts
+====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="South Korea",KR: Arirang HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302523.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/46602ef7549d0788e992684ff772e5e3.jpg" group-title="South Korea",KR: BBS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302524.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1b15161f49eaca4a237e3bf519201d5d.png" group-title="South Korea",KR: CGN TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302525.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/fc5c69b056764a7e5fa484f6091fb973.png" group-title="South Korea",KR: CTS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302526.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d483d641f5c5f3bfc42c5e67664c9c48.png" group-title="South Korea",KR: EBS 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302527.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e4f53be79d81a7e6440cb68baeabc13.png" group-title="South Korea",KR: EBS 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302528.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e331ca70f48633775cb0c37420c02f26.jfif" group-title="South Korea",KR: EBS E HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302529.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7ec49e6b70caad2eafeeefc980bec974.png" group-title="South Korea",KR: EBS KIDS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302530.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/3aa3181d37867940eb8ed2861db6c2b1.png" group-title="South Korea",KR: EBS PLUS 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302531.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0efaa79acdfa5b0749256a5d2a24d067.png" group-title="South Korea",KR: EBS PLUS 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302532.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea",KR: EBS Transmissions HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302533.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/270ef93c6f56965e8563661eec41e8e1.jfif" group-title="South Korea",KR: FGTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302534.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/20c1fd47ba6a03aec940aed24375bb98.png" group-title="South Korea",KR: GCN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302535.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c870ad5e3347bfa505ee738825678a9f.png" group-title="South Korea",KR: GS SHOP HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302536.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a873a039b078d7856a0f8a0a0e5ea951.jpg" group-title="South Korea",KR: Gugak FM (국악방송) HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302537.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/17054534f6e7b678cbe5d21f76ad8def.png" group-title="South Korea",KR: HOME & Shopping HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302538.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2fe7d82ef30a1a6e437639e4adae08be.png" group-title="South Korea",KR: Hyundai HOME Shopping HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302539.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ad2ca4b8f6250da0e1a24b802b3e2323.jpg" group-title="South Korea",KR: IFM 90.7 MHZ HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302540.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/405dc8d455972dfc4ce0934eec517d21.png" group-title="South Korea",KR: KBC HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302541.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/8b6212aa05d4af12ef100ccac51eb932.png" group-title="South Korea",KR: KBS LIVE Dokdo HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302542.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/bba062dc58f6eea5230447581f362846.png" group-title="South Korea",KR: KBS World HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302543.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/aec9a1e6e1aa512b520832f06f8a3a99.png" group-title="South Korea",KR: KCTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302544.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e8e2af693b88299ae96330bb138d5418.png" group-title="South Korea",KR: KFN TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302545.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c225d1d803382469023328e117bea5e3.png" group-title="South Korea",KR: Kplus HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302546.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/c9a663041b4245ea7be8e0e3b6c2403d.png" group-title="South Korea",KR: MBC Yeosu HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302547.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1d37778517cde4c15a89a8dd98824537.png" group-title="South Korea",KR: NBS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302548.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/81b69c57380a34515fa3990bcd72485d.png" group-title="South Korea",KR: NHTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302549.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/dea1c123bbb509c9479d92ee584ae90f.png" group-title="South Korea",KR: NS HOME Shopping HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302550.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/58c714d3a97d1dc6676328aaa79db8df.png" group-title="South Korea",KR: RTV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302551.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/edf85c25d91c33f8e9c607bced9bb6f7.jpg" group-title="South Korea",KR: SBS JIBS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="South Korea",KR: SBS PLUS HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea",KR: Shinsegae TV Shopping HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302554.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/4d0dd399c2a9bbe9a51479c31aad0ad8.png" group-title="South Korea",KR: TV WORK NET HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c6a5e644fa00bde3ddf02f78b8ca44b9.png" group-title="South Korea",KR: TVN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302556.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9f981ae25467aa645e1cde4f95eed4fe.png" group-title="South Korea",KR: TVN Movies HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302557.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b1e4ac6a64d2df4967396d755b80913f.png" group-title="South Korea",KR: YTN HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302558.ts
+=====================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1d6f3e53d95ce8af4dc7e73ce2f844dc.png" group-title="Thailand",TH: 13 SIAM THAI HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302691.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" group-title="Thailand",TH: ALTV 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302692.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="Thailand",TH: Amarin 34 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302693.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="Thailand",TH: BBTV Channel 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302694.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="Thailand",TH: Cartoon Network HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302695.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" group-title="Thailand",TH: Channel 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302696.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/78cc11f16cb517d5f98a124aba17ec73.png" group-title="Thailand",TH: CNBC HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="Thailand",TH: Discovery ASIA HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5aedbb90378d997c50b0a3c2f66bed7d.png" group-title="Thailand",TH: DL TV 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" group-title="Thailand",TH: DL TV 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302701.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" group-title="Thailand",TH: DL TV 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" group-title="Thailand",TH: DL TV 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" group-title="Thailand",TH: DL TV 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302704.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" group-title="Thailand",TH: DL TV 6 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302705.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" group-title="Thailand",TH: DL TV 7 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302706.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" group-title="Thailand",TH: DL TV 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302707.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" group-title="Thailand",TH: DL TV 9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302708.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/701b5c419138fabf0bc71282abead28f.png" group-title="Thailand",TH: DL TV 10 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302709.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" group-title="Thailand",TH: DL TV 11 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302710.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7db860b802219750cac31a45910f9982.png" group-title="Thailand",TH: DL TV 12 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302711.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" group-title="Thailand",TH: DL TV 13 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302712.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ae7da1a6848ba39405fa468a5482ff68.png" group-title="Thailand",TH: DL TV 14 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302713.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a5ece1f2633cf02e4f282b4580330aa2.png" group-title="Thailand",TH: DL TV 15 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302714.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",TH: DMC TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302715.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="Thailand",TH: Global Buddhist Network HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302716.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7ef529237f7d99c737aab51df40ae283.png" group-title="Thailand",TH: GMM 25 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302717.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" group-title="Thailand",TH: GOOD IDEA TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302718.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8a5b1a79a678728a6de2acee804062ed.png" group-title="Thailand",TH: Greenwave HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302719.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/59c32359b36af431a2ddf6b459d8b00b.png" group-title="Thailand",TH: Major Channel MIX HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302720.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" group-title="Thailand",TH: MCOT HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302721.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" group-title="Thailand",TH: MONO 29 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302722.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="Thailand",TH: NEW 18 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302723.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="Thailand",TH: NEWS 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302724.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/491ca32875193d61a9de5c5b04651e08.png" group-title="Thailand",TH: ONE 31 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302725.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" group-title="Thailand",TH: PPTV HD 36
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302726.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",TH: SBT TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302727.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" group-title="Thailand",TH: THAI Channel 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302728.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="Thailand",TH: THAI Parliament TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302729.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="Thailand",TH: THAI PBS 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302730.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="Thailand",TH: THAI TV 5 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302731.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="Thailand",TH: Thairath TV 32 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302732.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="Thailand",TH: TRUE Premiere Football 1 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302733.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="Thailand",TH: TRUE Premiere Football 2 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302734.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/43648065b507b5ddf80627c4074eec0c.png" group-title="Thailand",TH: TRUE Sport 3 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302735.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="Thailand",TH: TRUE Sport 4 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302736.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/50acfdca2c374a6bee214aac68d558e7.png" group-title="Thailand",TH: Truevisions HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302737.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="Thailand",TH: UMM TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302738.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/3cd16ddfdcc168170588d816a5645088.png" group-title="Thailand",TH: V2H9 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="Thailand",TH: White Channel HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/feb6a0a6045bfde171e1292fb7fd86c1.png" group-title="Thailand",TH: Workpoint 23 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302741.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" group-title="Thailand",TH: Yateem TV HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302742.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1b2c5cc0bebe058f8aacc2f6b95f262.png" group-title="Thailand",TH: ZABB Channel HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302743.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/157a5877321833c9699a238fb977f428.png" group-title="Thailand",TH: Channel 8 HD
+http://filex.tv:8080//live/0300511616RGB/0300511616RGB/302697.ts
 
 By Ridwan Anwar
 
