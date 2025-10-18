@@ -3047,9 +3047,9 @@ http://filex.tv:8080//live/rajaamir/002921/303498.ts
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIAKING",ID: Indosiar HD
-http://tvking.xyz:8080/live/Azman7/3890096/5117
+http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIAKING",ID: Citra Drama
-http://tvking.xyz:8080/live/Azman7/3890096/5118
+http://tvking.xyz:8080/live/Azman7/3890096/5118.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="INDONESIAKING",ID: Citra Dangdut
 http://tvking.xyz:8080/live/Azman7/3890096/5120
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIAKING",ID: ANTV
