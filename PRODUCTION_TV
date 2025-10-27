@@ -5094,204 +5094,22 @@ http://apk-es.dinott.com:80/play/movie.php?mac=00:1A:79:94:1D:B1&stream=651717.m
 ====================================================================CCTV=====================================================================================
 
 
-#EXTM3U 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",JALAN KEMBAR
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RANCAMANYAR
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/MLhHQFNqih/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SP PEMDA
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/kRTdYHeHLZ/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CIPARAY
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/s0BPNnOcMS/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",MAJALAYA
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/BdBowldl4p/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",GADING TUTUKA
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/68Z9P3bRmK/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",DESA SOREANG
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/Z1yMOD012l/s.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KOPOSAYATI
+https://cctv.bandungkab.go.id/23d724efaf8b884035e1b81192ee4f13/hls/dishub/Xv2ERL1yXY/s.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TERUSAN JALAN BUAH BATU
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ALUN ALUN ASIA AFRIKA
-https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",JEMBATAN CIMINDI
-https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SURAPATI JALAPARANG
-https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SIMPANG DAGO
-https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangempat.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN SARI UNISBA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisbaa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN SARI PASUPATI 2
-https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatidua.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN SKETPARK
-https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparktiga.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CHAMPELAS 3
-https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TALAGA BODAS
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadinn.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PALASARI
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Palasari.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",MARTANEGARA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PASAR KIARACONDONG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PEREMPATAN BINONG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KAUM PEDESTRIAN
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PENDOPO 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN PERS BAR
-https://pelindung.bandung.go.id:3443/video/DPKP3/tmpers3.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN UNISBA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisbaa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PASTEUR PASOPATI
-https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ASIA AFRIKA BRI TOWER 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ASIA AFRIKA BRI TOWER 3
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",MARTANEGARA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CITEPARK
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpetpark.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEBON KA
-https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PEREMPATAN LASWI
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlaswi.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TB CIKUTRA
-https://pelindung.bandung.go.id:3443/video/DPU/cikutra.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BALKOT
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/balkot.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",MERJAW
-https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaww.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BRAGA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PASAR CIROYOM
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyomm.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SUDIRMAN
-https://pelindung.bandung.go.id:3443/video/DPU/sudirman.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PERINTIS KEMERDEKAAN
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemerdekaan.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PERINTIS KEMERDEKAAN 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemer.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BRAGA - SIMPANG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",HUSEIN 01 - ST HALTE
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",HUSEIN 02 - ST HALTE
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SURY
-https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CIKUT
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIKUT.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",GERLONG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlonggg.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",GERLOOONG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlong.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SETIABUDI BUNGUR
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TB ISMAIL
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/TubagusIsmail.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN FORES
-https://pelindung.bandung.go.id:3443/video/DPKP3/tmforesttujuh.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",DIPAUNIK
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RUMUJUKBER
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujungber.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMBLONG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/tamblong.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",LENGKONG BESAR
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesarr.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BURANGRANG DEPAN BPI
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PEREMPATAN KORDON
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BUBAT KORDON
-https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PASAR SEDERHANA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhana.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SUKAJADI PVJ
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJdua.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PASAR SEDERHANA 2
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhanaa.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RIAU-BANDA-02
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/banda.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RIAU DEPAN PN BANDUNG
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdg.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RIAUUASMTBB
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RIAURUASMTB
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtb.m3u8
-  
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",JL MARTADINATA
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Martadinata.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",JL AMBON SAPARUA GOR
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparua.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN KARTALIMA
-https://pelindung.bandung.go.id:3443/video/DPKP3/tamankartalima.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",RIAU SISTER CITY PARK
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CIMINDI
-https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",CIMINDI REL KERETA
-https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEBON KOPI CIMAHI
-https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEBON KOPI BANDUNG
-https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
 
 
 
