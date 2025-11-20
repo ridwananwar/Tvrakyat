@@ -6418,29 +6418,6 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEBON KOPI BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
 ====================================================================CCTVPADANG=====================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 TERMINAL LAMA
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv15/a15.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 CITY MALL
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG PDAM
-https://cctv-stream.bandaacehkota.info/memfs/f42b9a56-5593-407d-af6e-f9396bc12ed0.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG JUMBO TAPE
-https://cctv-stream.bandaacehkota.info/memfs/1cc83753-c1ab-4b85-a5d7-e78a93f55fcc.m3u8
-
-
-#TINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",
-https://stream.rpd.my.id:8080/cctv/hls/bjb_simpang_empat_bjb_a3_ptz.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV BATU MALANG",PINTU MASUK BALAIKOTA AMONG TANI
-https://stream.batukota.go.id/WebRTCApp/streams/IKUU2Yp597KtINle1705636058212.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PSIMPANG BOROBUDUR
@@ -6689,8 +6666,6 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTVKAB GN KIDUL",KODIM
 https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KODIM_GUNUNGKIDUL.stream/chunklist_w713124379.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BANTUL",KELURAHAN JAGALAN
-https://mam.jogjaprov.go.id:1937/cctv-bantul/KelurahanJagalan.stream/chunklist_w1797186683.m3u8
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV JOGJA",SIMPANG TERBAN BARAT V
