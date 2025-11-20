@@ -6419,32 +6419,7 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
 ====================================================================CCTVPADANG=====================================================================================
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG",PASAR NANGGALO
-http://streamcctv.padang.go.id:8083/stream/DKYYSz9I-TifQ-AMEx-ODQ0-SMnaxa25oFHu/channel/0/hlsll/live/index.m3u8?_HLS_msn=817&_HLS_part=11
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", UPDT PASAR NANGGALO
-http://streamcctv.padang.go.id:8083/stream/OjEAGH6L-kVMK-j6q8-UEde-Cmub6yVqBEio/channel/0/hlsll/live/index.m3u8?_HLS_msn=847&_HLS_part=16
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", DEPAN PASAR NANGGALO
-http://streamcctv.padang.go.id:8083/stream/YaGqI6yZ-shWQ-dcj4-Knxf-gpqNhH5664XL/channel/0/hlsll/live/index.m3u8?_HLS_msn=860&_HLS_part=19
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PANTAI PADANG LPC
-http://streamcctv.padang.go.id:8083/stream/C4f8oKDJ-Rqrn-CeYW-2Y30-ouSqdkBo5c55/channel/0/hlsll/live/index.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PANTAI PADANG TUGU MERPATI
-http://streamcctv.padang.go.id:8083/stream/oNAeQvbg-AAFz-exWO-bAjC-5SzU3XHbTXBA/channel/0/hlsll/live/index.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PANTAI PADANG PARKIR
-http://streamcctv.padang.go.id:8083/stream/IA6gwdzG-KImh-JbRt-8Q1i-bHwutYd9HVqv/channel/0/hlsll/live/index.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PANTAI PADANG IORA
-https://streamcctv.padang.go.id:3000/stream/IuGg2t6j-MpkU-2iSx-ysfs-EJFsNXJmCLph/channel/0/hlsll/live/index.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PANTAI PADANG JALAN
-https://streamcctv.padang.go.id:3000/stream/EkxXZHHp-cnNe-iHdQ-nTuJ-9gLkDScWQlis/channel/0/hlsll/live/index.m3u8?_HLS_msn=2053&_HLS_part=12
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", MPP PLAZA ANDALAS
-https://streamcctv.padang.go.id:3000/stream/EbjNcrLc-dwc7-nTcp-6BDo-21RlOefC33gs/channel/0/hlsll/live/index.m3u8?_HLS_msn=524&_HLS_part=6
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", MPP PLAZA ANDALAS 2
-https://streamcctv.padang.go.id:3000/stream/VRRT6WdZ-hPxA-cOE3-xnWd-0Ly6xYi3ImYX/channel/0/hlsll/live/index.m3u8?_HLS_msn=550&_HLS_part=8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PUSKESMAS KULAK KARANG
-https://streamcctv.padang.go.id:3000/stream/0JXgcFRx-ENG6-UkQd-CCbW-UzczFFKacXQM/channel/0/hlsll/live/index.m3u8?_HLS_msn=626&_HLS_part=3
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PPUSKESMAS KULAK KARANG
-https://streamcctv.padang.go.id:3000/stream/8PALYtgi-cVCR-1AWQ-ZC2a-8KegcoPUhxuH/channel/0/hlsll/live/index.m3u8?_HLS_msn=656&_HLS_part=6
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG", PPUSKESMAS KULAK KARANG PARKIR
-https://streamcctv.padang.go.id:3000/stream/5OfVdbV8-mhaS-yrUK-1jIT-Roo9sS5orkWC/channel/0/hlsll/live/index.m3u8?_HLS_msn=661&_HLS_part=5
+
 ====================================================================CCTVSOLOK=====================================================================================
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QjfNZpQmRFQYG-RYg1KyaKRdH7fxGAl3s0Y3wMJ5JCbNo6S1CMRWWTM&s" group-title="CCTV SOLOK",DEPAN BALAIKOTA SOLOK
