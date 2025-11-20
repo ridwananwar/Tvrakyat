@@ -6418,6 +6418,426 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEBON KOPI BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
 ====================================================================CCTVPADANG=====================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 TERMINAL LAMA
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv15/a15.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 CITY MALL
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG PDAM
+https://cctv-stream.bandaacehkota.info/memfs/f42b9a56-5593-407d-af6e-f9396bc12ed0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG JUMBO TAPE
+https://cctv-stream.bandaacehkota.info/memfs/1cc83753-c1ab-4b85-a5d7-e78a93f55fcc.m3u8
+
+
+#TINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",
+https://stream.rpd.my.id:8080/cctv/hls/bjb_simpang_empat_bjb_a3_ptz.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV BATU MALANG",PINTU MASUK BALAIKOTA AMONG TANI
+https://stream.batukota.go.id/WebRTCApp/streams/IKUU2Yp597KtINle1705636058212.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PSIMPANG BOROBUDUR
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/chunklist_w515433979.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PSIMPANG BAUSARAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_S4_Bausasran.stream/chunklist_w135734614.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV MALANG",JALAN BALEARJO
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/984300820927127330245429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV MALANG",POL LANTAS JALAN RADEN INTAN
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/300544351200121565371840.m3u8
+
+
+
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA MALANG",PTSP
+https://pakabmalang.cctvbadilag2.my.id/604730PAKABMALANG/streams/248293448033595709052963.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA MALANG",HALAMAN PARKIR
+https://pakabmalang.cctvbadilag2.my.id/604730PAKABMALANG/streams/439588144544299628806249.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA MALANG",RUANG TUNGGU SIDANG
+https://pakabmalang.cctvbadilag2.my.id/604730PAKABMALANG/streams/635154042551954612208724.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",EMBUNG NGLANGGERAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MANGUNAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",TUGU CAM ATAS
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",NOL KILO M KAMERA GERAK
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PANTAI SADENG
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSadeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",DEPAN GRAND LINA
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PANTAI PARANG TRITIS
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",BUKIT KLANGON
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",HALAMAN MEDIA CENTER
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanMediaCenter.stream/chunklist_w2130926623.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",ALUN ALUN BARAT
+https://mam.jogjaprov.go.id:1937/cctv-kp/LabKes.stream/chunklist_w461826622.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PERLINTASAN KA 
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegKulon.stream/chunklist_w888743909.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PERLINTASAN KA TIMUR
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegWetan.stream/chunklist_w529147386.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",POJOK TAMAN BERMAIN
+https://mam.jogjaprov.go.id:1937/cctv-kp/PojokTamanBermain.stream/chunklist_w347687750.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",DEPAN PEMDA PUTAR BALIK
+https://mam.jogjaprov.go.id:1937/cctv-kp/TamanPemda.stream/chunklist_w1632290624.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",HALAMAN PEMDA
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanPemda.stream/chunklist_w793275361.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",NYAI AGENG SERANG
+https://mam.jogjaprov.go.id:1937/cctv-kp/Karangnongko.stream/chunklist_w1289478575.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG JATI KENCANA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_JatiKencana.stream/chunklist_w2087588244.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",S3 SAGAN VIEW SELATAN
+https://cctvjss.jogjakota.go.id/terban/Terban-S3_Sagan_View_Selatan.stream/chunklist_w1450874943.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",S3 SAGAN VIEW TIMUR
+https://cctvjss.jogjakota.go.id/terban/Terban-S3_Sagan_View_Timur.stream/chunklist_w145471635.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG UKDW
+https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w1719047547.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEPATIHAN
+https://pelindung.bandung.go.id:3443/video/DAHUA/AL.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",GERBANG KEBON BINATANG
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbin.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ITB KEBON
+https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKeb.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ITB KEBON 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebu.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",ITB KEBON 3 
+https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebun.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",KEPATIHAN TENGAH
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengahh.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",MUSTAFA PUNDAI
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspusdai.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",TAMAN PRAMUKA
+https://pelindung.bandung.go.id:3443/video/DAHUA/TamanPri.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BATAS KOTA
+https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKo.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",BATAS KOTA 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/cibeurem.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",PAGAR SIH
+https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANDUNG",SUDIRMAN 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Sudikemenag.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG BPK
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w367961555.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",RTHP PAKUDAYA KUNCEN2
+https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_2.stream/chunklist_w331129965.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",RTHP PAKUDAYA KUNCEN1
+https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_1.stream/chunklist_w934333603.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",WIJAYA BARU TRAVEL
+https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/chunklist_w1123155119.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MALIOBORO - SELATAN TETEG
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MALIOBORO - SEBRANG RAMAYANA
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio12_Ramayana.stream/chunklist_w295035014.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",JALAN AHMAD JAZULI
+https://mam.jogjaprov.go.id:1937/atcs-kota/AhmadJazuli.stream/chunklist_w1546736601.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",JALAN YOS SUDARSO
+https://mam.jogjaprov.go.id:1937/atcs-kota/YosSudarso.stream/chunklist_w2123446629.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",JALAN WARDHANI
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wardhani.stream/chunklist_w1520012822.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PRAMBANAN 2
+https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/chunklist_w2132103748.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",BANDARA 2
+https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/chunklist_w1473110727.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",KENTUNGAN FIXED UTARA
+https://mam.jogjaprov.go.id:1937/atcs/KentunganUtara.stream/chunklist_w1701357783.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",KENTUNGAN FIXED BARAT
+https://mam.jogjaprov.go.id:1937/atcs/KentunganBarat.stream/chunklist_w182529457.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PELEM GURIH FIXED TIMUR
+https://mam.jogjaprov.go.id:1937/atcs/PelemGurihFixedTimur.stream/chunklist_w1866159114.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",UIN 1
+https://mam.jogjaprov.go.id:1937/atcs/UIN1.stream/chunklist_w1131370768.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",BANDARA 1
+https://mam.jogjaprov.go.id:1937/atcs/Bandara1.stream/chunklist_w950648294.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PRAMBANAN 2
+https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/chunklist_w2132103748.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",DRUWO
+https://mam.jogjaprov.go.id:1937/atcs/Druwo.stream/chunklist_w639950272.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CONDONG CATUR FIXED SELATAN
+https://mam.jogjaprov.go.id:1937/atcs/CondongcaturFixedSelatan.stream/chunklist_w623088714.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CONDONG CATUR FIXED UTARA
+https://mam.jogjaprov.go.id:1937/atcs/SeturanUtara.stream/chunklist_w2000085290.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PELEM GURIH FIXED UTARA
+https://mam.jogjaprov.go.id:1937/atcs/PelemGurihFixedUtara.stream/chunklist_w1962364337.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SETURAN FIXED SELATAN
+https://mam.jogjaprov.go.id:1937/atcs/SeturanSelatan.stream/chunklist_w1620142493.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MAGUWO2
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/chunklist_w714400594.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",UIN2
+https://mam.jogjaprov.go.id:1937/atcs/UIN2.stream/chunklist_w1305490436.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CONDONG CATUR FIXED TIMUR
+https://mam.jogjaprov.go.id:1937/atcs/CondongcaturFixedTimur.stream/chunklist_w357586355.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PROLIMAN BOGEM
+https://mam.jogjaprov.go.id:1937/atcs/ProlimanBogem.stream/chunklist_w559837394.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SELOKAN MATARAM
+https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/chunklist_w1881953972.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",ALUN ALUN UTARA
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w292300010.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SP3 TERMINAL WATES
+https://mam.jogjaprov.go.id:1937/cctv-kp/Terminal.stream/chunklist_w686073147.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",LAPANGAN BASKET
+https://mam.jogjaprov.go.id:1937/cctv-kp/LapanganBasket.stream/chunklist_w2123417370.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",DEPAN PLAZA MALIOBORO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w308264239.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CANDI PRAMBANAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1877697172.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CANDI RATU BOKO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w103317346.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",TEBING BREKSI
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w870274498.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MUSEUM GN MERAPI
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1260618601.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",MALIOBORO DEPAN PASAR BRINGHARJO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w2067964493.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",CANDI SAMBISARI
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w1703721545.m3u8
+  
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",EMBUNG TAMBAKBOYO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTambakboyo.stream/chunklist_w782093023.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",ALUN ALUN KIDUL
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w1115191717.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTVKAB GN KIDUL",KODIM
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/KODIM_GUNUNGKIDUL.stream/chunklist_w713124379.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BANTUL",KELURAHAN JAGALAN
+https://mam.jogjaprov.go.id:1937/cctv-bantul/KelurahanJagalan.stream/chunklist_w1797186683.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV JOGJA",SIMPANG TERBAN BARAT V
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanBarat.stream/chunklist_w1736872625.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PASAR PRAMBANAN
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Pertigaan_PasarPrambanan.stream/chunklist_w1621939742.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PEREMPATAN DEMAK IJO
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_DemakIjo3.stream/chunklist_w1086646352.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",RSUD SLEMAN 1
+https://src24jam.slemankab.go.id/8888/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",RSUD SLEMAN 2
+https://src24jam.slemankab.go.id/8889/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN PANGUKAN 1
+https://src24jam.slemankab.go.id/8908/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN PENGUKAN 3
+https://src24jam.slemankab.go.id/8907/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN PENGUKAN 2
+https://src24jam.slemankab.go.id/8906/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PEREMPATAN BAPENDA ARAH TIMUR
+https://src24jam.slemankab.go.id/8904/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",IP PTZ CAMERA
+https://src24jam.slemankab.go.id/8924/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",IP PTZ CAMERA 2
+https://src24jam.slemankab.go.id/8925/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PUSKESMAS MOYUDAN
+https://src24jam.slemankab.go.id/8920/hls/live.stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN UIN
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/032278190806133512572736.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN KINGROOD
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/209515763003164908293712.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PERTIGAAN MUNGGUR 2
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/231965990154440958917554.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",BUNDARAN UGM 3
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/743105388068956192102673.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PEREMPATAN BERAN
+https://ant.slemankab.go.id/LiveApp/streams/673398164784678070913580.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PEREMPATAN TEMPEL 1
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/996519156930814341104192.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",PEREMPATAN TEMPEL 2
+https://ant.slemankab.go.id/CCTVLUARPEMDA/streams/708022165175823387805038.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTVKAB GN KIDUL",S3 LALIN PASAR PLAYER
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG3_PASAR_PLAYEN.stream/chunklist_w1791256317.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTVKAB GN KIDUL",LAPANGAN KESATRIAN KODIM GN KIDUL
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/LAPANGAN_KESATRIAN.stream/chunklist_w519609603.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",GAYAM
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1124660989.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SENTUL
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w109375030.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",TUGU KERIS SIGINJAI
+https://103.141.238.108/stream/2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",TUGU KERIS 3
+https://103.141.238.108/stream/23/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",TUGU KERIS 4
+https://103.141.238.108/stream/24/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",TUGU KERIS PTZ
+https://103.141.238.108/stream/25/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",SIMPANG BI 1
+https://103.141.238.108/stream/26/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",SIMPANG BI 2
+https://103.141.238.108/stream/3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",SIMPANG BI 3
+https://103.141.238.108/stream/27/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PERSIJAM 1
+https://103.141.238.108/stream/28/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PERSIJAM 2
+https://103.141.238.108/stream/5/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PERSIJAM 3
+https://103.141.238.108/stream/6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PERSIJAM 4
+https://103.141.238.108/stream/29/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PERSIJAM PTZ
+https://103.141.238.108/stream/30/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",MAYANG 1
+https://103.141.238.108/stream/7/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",MAYANG 2
+https://103.141.238.108/stream/8/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",MAYANG PTZ
+https://103.141.238.108/stream/32/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PUNCAK 2
+https://103.141.238.108/stream/12/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",PUNCAK 3
+https://103.141.238.108/stream/11/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",KOTA BARU 1
+https://103.141.238.108/stream/17/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",KOTA BARU 2
+https://103.141.238.108/stream/18/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",NURDIN H 1
+https://103.141.238.108/stream/19/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",NURDIN H 2
+https://103.141.238.108/stream/20/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV JAMBI",NURDIN H 3
+https://103.141.238.108/stream/34/stream.m3u8
+
 
 
 ====================================================================CCTVSOLOK=====================================================================================
