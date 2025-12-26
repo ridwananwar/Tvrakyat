@@ -9342,7 +9342,67 @@ http://apk-es.dinott.com:80/play/movie.php?mac=00:1A:79:94:1D:B1&stream=651719.m
 http://apk-es.dinott.com:80/play/movie.php?mac=00:1A:79:94:1D:B1&stream=651718.mp4&play_token=9jw1HVUJjT&type=movie&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ DISNEYKIDS ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title=" DISNEYKIDS",✦●✦ Clao Alberto✦●✦
 http://apk-es.dinott.com:80/play/movie.php?mac=00:1A:79:94:1D:B1&stream=651717.mp4&play_token=Gd1F6tzkcP&type=movie&sn2=
-
+====================================================================CCTV PALEMBANG=================================================================================
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Benteng Kuto Besak
+https://streaming.palembang.go.id/live/cam1/index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Jembatan Ampera - Tengah
+https://streaming.palembang.go.id/live/cam2/index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Simpang Polda
+https://streaming.palembang.go.id/live/cam3index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Simpang Macan Lindungan
+https://streaming.palembang.go.id/live/cam4index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Simpang Angkatan 45
+https://streaming.palembang.go.id/live/cam5index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Cinde
+https://streaming.palembang.go.id/live/cam6index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV SP 5 DPRD Prov
+https://streaming.palembang.go.id/live/cam7index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV SP Charitas
+https://streaming.palembang.go.id/live/cam8index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Masjid Agung
+https://streaming.palembang.go.id/live/cam9index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV HERMINA
+https://streaming.palembang.go.id/live/cam10index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV TANGGA TAKAT
+https://streaming.palembang.go.id/live/cam11index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV SP SMA 10
+https://streaming.palembang.go.id/live/cam12index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV KM 12
+https://streaming.palembang.go.id/live/cam13index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Punti Kayu
+https://streaming.palembang.go.id/live/cam14index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV MUSI 6
+https://streaming.palembang.go.id/live/cam15index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Kebun Sayur - Arah Portal
+https://streaming.palembang.go.id/live/cam16index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Plaju Jembatan 1
+https://streaming.palembang.go.id/live/cam17index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV DEPAN BMKG KERTAPATI
+https://streaming.palembang.go.id/live/cam18index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Plaza 7 Ulu
+https://streaming.palembang.go.id/live/cam19index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Soekarno Hatta
+https://streaming.palembang.go.id/live/cam20index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV SP Samsat
+https://streaming.palembang.go.id/live/cam21index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Jembatan Ampera - Arah Ilir
+https://streaming.palembang.go.id/live/cam22index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Terminal Karyajaya Arah Jalan
+https://streaming.palembang.go.id/live/cam23index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Darma Agung
+https://streaming.palembang.go.id/live/cam24index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Lapangan Parkir Pasar 16
+https://streaming.palembang.go.id/live/cam25index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Kebun Sayur - Arah Bandara
+https://streaming.palembang.go.id/live/cam26index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV DEPAN DISDUKCAPIL
+https://streaming.palembang.go.id/live/cam27index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Jembatan Ampera - Arah Ulu
+https://streaming.palembang.go.id/live/cam28index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV Kambang Iwak
+https://streaming.palembang.go.id/live/cam29index.m3u8
+#EXTINF:0 tvg-country="CCTV" tvg-logo="" group-title="CCTV PALEMBANG",CCTV SP IP
+https://streaming.palembang.go.id/live/cam30index.m3u8
 ====================================================================CCTVBANDUNG=====================================================================================
 
 
