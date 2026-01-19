@@ -3234,7 +3234,7 @@ function toggleVisibility(id) {
   if (content.style.display === "none") {
     content.style.display = "none";
   } else {
-    content.style.display = "hidden";
+    content.style.display = "none";
   }
 }
 </script>
