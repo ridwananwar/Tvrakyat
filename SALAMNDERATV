@@ -1,10 +1,3 @@
-<div class="separator" style="clear: both;"><a href="https://i.ibb.co.com/8nDqS5Vc/Screenshot-2025-02-21-02-24-44-097-com-miui-gallery.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="2048" data-original-width="985" src="https://i.ibb.co.com/8nDqS5Vc/Screenshot-2025-02-21-02-24-44-097-com-miui-gallery.jpg"/></a></div>
-
-
-
-
-<div id="content-id" style="display:none;">
-
 #EXTM3U
 ======PLAYLIST INI DIPAKAI SENDIRI=======================
 ======TIDAK DI PERJUAL BELIKAN===========================
@@ -3227,14 +3220,3 @@ http://ktpremium.online:2095/live/jin365/365365365/901275.ts
 #EXTINF:0 tvg-id="ext" group-title=" [LIVE]  Korea",[KR] MNet
 http://ktpremium.online:2095/live/jin365/365365365/1048025.ts
 
-  </div>
-<script>
-function toggleVisibility(id) {
-  var content = document.getElementById(id);
-  if (content.style.display === "none") {
-    content.style.display = "none";
-  } else {
-    content.style.display = "none";
-  }
-}
-</script>
