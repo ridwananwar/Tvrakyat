@@ -3219,3 +3219,15 @@ http://ktpremium.online:2095/live/jin365/365365365/901254.ts
 http://ktpremium.online:2095/live/jin365/365365365/901275.ts
 #EXTINF:0 tvg-id="ext" group-title=" [LIVE]  Korea",[KR] MNet
 http://ktpremium.online:2095/live/jin365/365365365/1048025.ts
+
+  </div>
+<script>
+function toggleVisibility(id) {
+  var content = document.getElementById(id);
+  if (content.style.display === "none") {
+    content.style.display = "none";
+  } else {
+    content.style.display = "none";
+  }
+}
+</script>
