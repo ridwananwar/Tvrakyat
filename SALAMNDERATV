@@ -3231,8 +3231,8 @@ http://ktpremium.online:2095/live/jin365/365365365/1048025.ts
 <script>
 function toggleVisibility(id) {
   var content = document.getElementById(id);
-  if (content.style.display === "hidden") {
-    content.style.display = "hidden";
+  if (content.style.display === "none") {
+    content.style.display = "none";
   } else {
     content.style.display = "hidden";
   }
