@@ -9,20 +9,20 @@ https://ridwananwar.publit.io/file/PERTAMINA-HULU-ENERGI-PT.-PHE-Jambi-Merang-1.
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SCTV VIP
-http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
+http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
+http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
+http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SPORT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SPORT VIP
-http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34341.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV 2 VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI ID VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI ID VIP
-http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 1" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 2" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 2
@@ -33,23 +33,14 @@ http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34533.m3u8
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 5" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34532.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
-http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SCTV VIP
-http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SPORT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SPORT VIP
-http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34341.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV 2 VIP
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV VIP
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI ID VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI ID VIP
-http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 1" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 2" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 2
@@ -60,23 +51,14 @@ http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34533.m3u8
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 5" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
 http://vipbhbiss.top:8080/live/VIP014091743265964373/3a819842d77c/34532.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
-http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SCTV VIP
-http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SPORT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SPORT VIP
-http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34341.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV 2 VIP
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV VIP
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI ID VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI ID VIP
-http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 1" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 2" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 2
@@ -87,23 +69,14 @@ http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34533.m3u8
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 5" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
 http://vipbhbiss.top:8080/live/VIP017041733807760278/95c820f5193b/34532.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
-http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SCTV VIP
-http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
 http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
 http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SPORT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SPORT VIP
-http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34341.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV 2 VIP
 http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV VIP
 http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI ID VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI ID VIP
-http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 1" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 1
 http://vipbhbiss.top:8080/live/VIP019871740838333357/f761ea383a94/34535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 2" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 2
