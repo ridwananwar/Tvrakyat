@@ -8,6 +8,8 @@ https://ridwananwar.publit.io/file/PERTAMINA-HULU-ENERGI-PT.-PHE-Jambi-Merang-1.
 ==============================================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="IDS: ABC AUSTRALIA VIP" tvg-logo="" group-title="MAC TEST | INDONESIA VIP",IDS: ABC AUSTRALIA
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:BF:DF:62&stream=383010&extension=ts&play_token=6HMkVvRTAh
+#EXTINF:-1 tvg-id="" tvg-name="IDS: ABC AUSTRALIA VIP" tvg-logo="" group-title="MAC TEST | INDONESIA VIP",IDS: ABC AUSTRALIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:BF:DF:62&stream=382938&extension=ts&play_token=EWKLR4Iuu5
 ==============================================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34322.m3u8
