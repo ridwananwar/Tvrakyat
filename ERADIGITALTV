@@ -144,6 +144,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 ==================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="LIVE-EVENT", Indosiar FHD 1XTOVIP
+http://xtv.ooo:8080/ejaz3966/ejaz571/350972
+
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="LIVE-EVENT", Indosiar FHD 2XTOVIP
+http://xtv.ooo:8080/12296515/19216918/350972
 
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Indosiar.png" group-title="LIVE-EVENT", Indosiar FHD VIP
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -6781,6 +6786,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Salitan.202
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Takas.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HOTSTARTDISNEYMOVIE",Salawahan.2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Salawahan.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
 
