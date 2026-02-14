@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/w_1280/Juan-Reza-Pica-Pica-2.jpg" group-title="🔴REPORT TO TELEGRAM",Re-fresh
-https://ridwananwar.publit.io/file/h_480/Juan-Reza-Pica-Pica-2.mp4
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.jpg" group-title="🔴REPORT TO TELEGRAM",Re-fresh
+https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
 http://vipbhbiss.top:8080/live/VIP011601754002466528/c2470e005be5/34322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
@@ -7603,6 +7603,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Salitan.202
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Takas.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HOTSTARTDISNEYMOVIE",Salawahan.2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Salawahan.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
 
