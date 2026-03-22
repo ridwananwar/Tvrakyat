@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="Local",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local",▂ ▃ ▅ ▇ █ ▓ ▒ ░ INDONESIA TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg" group-title="Local",Magna Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" group-title="Local",Berita Satu
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" group-title="Local",BTV
@@ -77,8 +83,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png" group-title="Daerah",JTV
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg" group-title="Daerah",Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png" group-title="Daerah",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png" group-title="News",Al Jazeera Arabic
@@ -232,10 +236,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png" group-title="Religi",UChannel
 https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV",MAGNA
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA TV",▂ ▃ ▅ ▇ █ ▓ ▒ ░ INDONESIA TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
-https://mimipipi22.github.io/logo/offline.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="KNOWLEDGE",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23232/cgtn-global-biz/poster_20251105_004203.jpg" group-title="KNOWLEDGE",CGTN Global Biz
