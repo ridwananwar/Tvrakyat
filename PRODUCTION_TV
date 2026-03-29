@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
+
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.jpg" group-title="🔴REPORT TO TELEGRAM",Re-fresh
+https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.mp4
+========================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
 https://zozotv.xyz:443/live/rohaiza@4424/rohaiza@4424/13.ts
