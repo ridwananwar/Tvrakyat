@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.jpg" group-title="🔴REPORT TO TELEGRAM",Re-fresh
 https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.mp4
 ========================================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: RCTI VIP
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: RCTI VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34322
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SCTV VIP
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SCTV VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34323
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: TRANS TV VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34324
@@ -17,19 +17,23 @@ http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34326
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34327
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: INEWS VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34335
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: BEIN SPORT 2 VIP
-http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34337
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SPOTV 2 VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34405
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SPOTV VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34406
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 2
-http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34534
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 1
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34535
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: RCTI VIP
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 2
+http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34534
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport3.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 3
+http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34533
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 4
+http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34531
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
+http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34532
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: RCTI VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34322
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SCTV VIP
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SCTV VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34323
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: TRANS TV VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34324
@@ -41,16 +45,20 @@ http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34326
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34327
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: INEWS VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34335
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: BEIN SPORT 2 VIP
-http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34337
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SPOTV 2 VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34405
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: SPOTV VIP
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34406
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 2
-http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34534
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 1
 http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34535
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport2.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",MY: ASTRO SUPERSPORT 2
+http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34534
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport3.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 3
+http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34533
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 4
+http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34531
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
+http://vipnorseman.top:8080/VIP0199169358094917/21693580949/34532
 
 #EXTINF:-1 group-logo="https://i.imgur.com/momMGOk.jpeg",BOLA | KUALIFIKASI PIALA DUNIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
@@ -145,8 +153,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-
 ==================================================================================================================================================================
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="LIVE-EVENT",RCTI HD (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
