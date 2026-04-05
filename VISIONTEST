@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Nasional",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV (TRV) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
