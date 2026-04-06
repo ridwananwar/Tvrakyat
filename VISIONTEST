@@ -131,35 +131,9 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="IDX HD - [Channel 134].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/CpcWw4n2/IDX.png", IDX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/scc01.php?id=134
-#https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
-referrer=https://visionplus.id/
-
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="IDX HD - [Channel 134].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/CpcWw4n2/IDX.png", IDX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-
-
-
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/k2fPq4LF/MGN.png",METRO GLOBAL NETWORK
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co.com/7xb2sP7G/IMG-20250928-143516.png" group-title="NASIONAL" ,SINPO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
-
-
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/yFCPhMkq/INDONESIANA.png" group-title="NASIONAL",INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
