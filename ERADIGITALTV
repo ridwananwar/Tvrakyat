@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
 
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.jpg" group-title="🔴REPORT TO TELEGRAM",Re-fresh
-https://ridwananwar.publit.io/file/Skid-Row-18-And-Life-Official-Music-Video.mp4
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/TIDAK-DIHARGAI.jpg" group-title="🔴RE-FRESH & RELOAD",Re-fresh
+https://ridwananwar.publit.io/file/TIDAK-DIHARGAI.mp4
 ========================================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="BOLA | KUALIFIKASI PIALA DUNIA",IDS: RCTI VIP
 http://vipnorseman.top:8080/VIP018091762192339102/c17e05433f71/34322
