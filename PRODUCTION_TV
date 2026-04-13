@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
 
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/w_1280/Mr.-Big-Nothing-But-Love.jpg" group-title="🔴RE-FRESH & RELOAD",Re-fresh
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/w_1280/Mr.-Big-Nothing-But-Love.jpg" group-title="🔴RE-FRESH & RELOAD",RE-FRESH & RELOAD
 https://ridwananwar.publit.io/file/Mr.-Big-Nothing-But-Love.mp4
 
 
