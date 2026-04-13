@@ -72,3 +72,109 @@ https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.1:1234
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png" group-title="NATIONAL TV",TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" group-title="KNOWLEDGE",BBC Earth
+http://202.169.224.202:8800/udp/239.9.1.30:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="KNOWLEDGE",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="KNOWLEDGE",Discovery Channel
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="KNOWLEDGE",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+
+
+=======================================================================================
+
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",B4U MOVIES
+http://202.169.224.202:8800/udp/239.5.2.5:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="MOVIES",CCM
+http://202.169.224.202:8800/udp/239.9.1.22:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",CELESTIAL MOVIE
+http://202.169.224.202:8800/udp/239.9.1.23:1234
+#EXTINF:-1  tvg-logo="https://iili.io/Ju79znp.png" group-title="MOVIES",CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",CITRA BIOSKOP
+http://202.169.224.202:8800/udp/239.9.1.15:1234
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",CITRA DRAMA
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+#EXTINF:-1  tvg-logo="https://iili.io/Ju79f8g.png" group-title="MOVIES",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/Ju79otR.png" group-title="MOVIES",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/Ju79nwv.png" group-title="MOVIES",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/Ju79IMN.png" group-title="MOVIES",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="MOVIES",ROCK Action
+http://202.169.224.202:8800/udp/239.9.1.1:1234
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/ROCKACTION.png" group-title="MOVIES",ROCK Action
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MOVIES",THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="MOVIES",Z Bioskop
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
+
+=============================================================================================
+
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png" group-title="KIDS",CARTOONITO
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="KIDS",DREAMWORKS
+http://202.169.224.202:8800/udp/239.9.1.19:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png" group-title="KIDS",FUN PLANET
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="KIDS",HIP HIP HOREE
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="KIDS",HOREE!
+http://202.169.224.202:8800/udp/239.9.1.26:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png" group-title="KIDS",MKIDZ
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="KIDS",NICK JR
+http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.png" group-title="KIDS",NICKELODEON
+http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",NICKELODEON
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+
+===============================================================================================
+
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png" group-title="RELIGION",AlQuran Kareem
+https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="RELIGION",ASHIIL TV
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1  tvg-logo="https://mimipipi22.github.io/logo/religion/citramuslim.jpg" group-title="RELIGION",CITRA MUSLIM
+http://202.169.224.202:8800/udp/239.9.1.14:1234
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png" group-title="RELIGION",DMI TV
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/838/437838-SNAPSHOT-l.png" group-title="RELIGION",DMI TV
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="RELIGION",FATWA TV
+http://202.169.224.202:8800/udp/239.3.1.6:1234
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="RELIGION",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="RELIGION",MQ TV
+https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png" group-title="RELIGION",MUHAMMADIYAH TV
+https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="RELIGION",MUHAMMADIYAH TV
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png" group-title="RELIGION",MUI TV
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="RELIGION",RODJA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="RELIGION",RODJA TV
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="RELIGION",RODJA TV
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION",Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1" group-title="RELIGION",TV9 Nusantara
+https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="RELIGION",WESAL TV
+https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+
+
