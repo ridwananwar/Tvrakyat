@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://iili.io/JbtCoiu.png" group-title="NATIONAL TV",BN Channel
+http://202.169.224.202:8800/udp/239.1.3.2:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="NATIONAL TV",BTV
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/28yAlAN.png" group-title="NATIONAL TV",CNBC Indonesia
+http://202.169.224.202:8800/udp/239.4.1.4:1234
+#EXTINF:-1  tvg-logo="https://iili.io/JV3xSnt.png" group-title="NATIONAL TV",CNN Indonesia
+http://202.169.224.202:8800/udp/239.4.1.3:1234
+#EXTINF:-1  tvg-logo="https://iili.io/JbtnQjI.png" group-title="NATIONAL TV",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1  tvg-logo="https://iili.io/2rCEOZl.png" group-title="NATIONAL TV",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/IDX.png" group-title="NATIONAL TV",IDX CHANNEL
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="NATIONAL TV",INDOSIAR
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="NATIONAL TV",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="NATIONAL TV",iNEWS
+http://202.169.224.202:8800/udp/238.2.2.27:1234
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="NATIONAL TV",iNEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png" group-title="NATIONAL TV",JAK TV
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="NATIONAL TV",JAWAPOS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/JTV.png" group-title="NATIONAL TV",JTV
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="NATIONAL TV",KOMPAS TV
+http://202.169.224.202:8800/udp/239.1.4.2:1234
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/KOMPASTV.png" group-title="NATIONAL TV",KOMPAS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",MAGNA TV
+http://202.169.224.202:8800/udp/239.1.3.1:1234
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",MD TV
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1  tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="NATIONAL TV",METRO TV
+http://202.169.224.202:8800/udp/239.1.3.3:1234
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",MOJI TV
+http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",MOJI TV
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png" group-title="NATIONAL TV",NUSANTARA TV
+http://202.169.224.202:8800/udp/239.3.1.7:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png" group-title="NATIONAL TV",NUSANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="NATIONAL TV",RTV
+http://202.169.224.202:8800/udp/239.2.3.1:1234
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="NATIONAL TV",RTV
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="NATIONAL TV",SCTV
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="NATIONAL TV",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",SCTV
+https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/SINDONEWS.png" group-title="NATIONAL TV",SINDONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="NATIONAL TV",TRANS 7
+http://202.169.224.202:8800/udp/239.4.1.2:1234
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="NATIONAL TV",TRANS TV
+http://202.169.224.202:8800/udp/239.4.1.1:1234
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NATIONAL TV",TV ONE
+http://202.169.224.202:8800/udp/239.3.1.14:1234
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NATIONAL TV",TV ONE
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="NATIONAL TV",TV ONE
+https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="NATIONAL TV",TVRI
+http://202.169.224.202:8800/udp/239.1.2.1:1234
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png" group-title="NATIONAL TV",TVRI
+https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
