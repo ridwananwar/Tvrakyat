@@ -2539,15 +2539,30 @@ http://front-main.eagle-4k.me:80/jlllxqecvz/b4jfag2kkv/192212
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| TVRI Lampung ID" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TVRI Lampung ID
 http://front-main.eagle-4k.me:80/jlllxqecvz/b4jfag2kkv/192200
 ===================================================================================================================================================================
-#EXTINF:-1, tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/w_1280/Mr.-Big-Nothing-But-Love.jpg" group-title="🔴adminton
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton
 http://link.zozotv.xyz:8080/live/ali3/1234/155.ts
-#EXTINF:-1, tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/w_1280/Mr.-Big-Nothing-But-Love.jpg" group-title="🔴Badminton 2 ( Live only)
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton 2 ( Live only)
 http://link.zozotv.xyz:8080/live/ali3/1234/2342.ts
-
-
-
-
-
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
+http://link.zozotv.xyz:8080/live/ali3/1234/153.ts
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton
+https://zozotv.xyz:443/live/@NZM67/E423172/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton 2 ( Live only)
+https://zozotv.xyz:443/live/@NZM67/E423172/2342.ts
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
+https://zozotv.xyz:443/live/@NZM67/E423172/153.ts
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton
+https://zozotv.xyz:443/live/FR236/aH3FD/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton 2 ( Live only)
+https://zozotv.xyz:443/live/FR236/aH3FD/2342.ts
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
+https://zozotv.xyz:443/live/FR236/aH3FD/153.ts
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton
+https://zozotv.xyz:443/live/robert/zozotv613/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS",Badminton 2 ( Live only)
+https://zozotv.xyz:443/live/robert/zozotv613/2342.ts
+#EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
+https://zozotv.xyz:443/live/robert/zozotv613/153.ts
 
 
 
