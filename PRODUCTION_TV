@@ -2539,9 +2539,10 @@ http://front-main.eagle-4k.me:80/jlllxqecvz/b4jfag2kkv/192212
 #EXTINF:-1 tvg-ID="" tvg-name="|ID| TVRI Lampung ID" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA",|ID| TVRI Lampung ID
 http://front-main.eagle-4k.me:80/jlllxqecvz/b4jfag2kkv/192200
 ===================================================================================================================================================================
-
-
-
+#EXTINF:-1,Badminton
+http://link.zozotv.xyz:8080/live/ali3/1234/155.ts
+#EXTINF:-1,Badminton 2 ( Live only)
+http://link.zozotv.xyz:8080/live/ali3/1234/2342.ts
 
 
 
