@@ -2563,13 +2563,9 @@ https://zozotv.xyz:443/live/robert/zozotv613/155.ts
 https://zozotv.xyz:443/live/robert/zozotv613/2342.ts
 #EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="SPORTS",SUKAN RTM
 https://zozotv.xyz:443/live/robert/zozotv613/153.ts
-
-
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORTS",ID: MNC Sports
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350993
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORTS",ID: MNC Sports
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="SPORTS",ID: MNC Sports
 http://xtv.ooo:8080/12296515/19216918/350993
 
 
