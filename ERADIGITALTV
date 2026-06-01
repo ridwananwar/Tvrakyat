@@ -4,6 +4,16 @@
 https://ridwananwar.publit.io/file/TIDAK-DIHARGAI.mp4
 
 ======================================================VISIONPLUS=================================================================================================
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="🔴NASIONAL TV",SCTV RA
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴NASIONAL TV",INDOSIAR RA
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="🔴NASIONAL TV",SCTV RA
+http://opplextv.cyou:8080/nasir6160/nasir/351030
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴NASIONAL TV",INDOSIAR RA
+http://opplextv.cyou:8080/nasir6160/nasir/350972
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
