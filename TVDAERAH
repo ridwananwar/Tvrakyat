@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s" group-title="INDONESIA", Pembuka
+https://prodamdhdliveextra.akamaized.net/NBCU_Sports_Group_-_nbcsports/nbc_pst_groupofdeath_251205/1/abs/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s" group-title="INDONESIA", TVRI SPORT1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s" group-title="INDONESIA", TVRI SPORT2
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Aceh" ,TVRI DKI Jakata
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Aceh" ,TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Bali" ,TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@BangkaBelitung" ,TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Bengkulu" ,TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Gorontalo" ,TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Jambi" ,TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestJava" ,TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_500000=10007-mp4a_64000_eng=20003.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@CentralJava" ,TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@EastJava" ,TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestKalimantan" ,TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@SouthKalimantan" ,TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@CentralKalimantan" ,TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@EastKalimantan" ,TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Lampung" ,TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Maluku" ,TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@NorthSulawesi" ,TVRI North Sulawesi
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@NorthSumatra" ,TVRI North Sumatra
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_500000=10001-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestNusaTenggara" ,TVRI Nusa Tenggara Barat
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@EastNusaTenggara" ,TVRI Nusa Tenggara Timur
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Papua" ,TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Riau" ,TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestSulawesi" ,TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@SouthSulawesi" ,TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@CentralSulawesi" ,TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@SoutheastSulawesi" ,TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestSumatra" ,TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_500000=10001-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@SouthSumatra" ,TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_500000=10001-mp4a_64000=20002.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@WestPapua" ,TVRI West Papua
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_500000=10007-mp4a_64000=20001.m3u8
+#EXTINF:-1 group-title="TVRI DAERAH" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" tvg-id="TVRI.id@Yogyakarta" ,TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_500000=10007-mp4a_64000=20001.m3u8
