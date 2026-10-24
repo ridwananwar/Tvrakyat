@@ -1,6 +1,934 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Ikuti-Pak-Timo.jpg" group-title="🔴RE-FRESH & RELOAD",🔵Re-fresh🔵
 https://ridwananwar.publit.io/file/Ikuti-Pak-Timo.mp4
+==============================================================================================================================================================================
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Kompas TV
+http://royaltv.world:25461/live/R8010/8009/110.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",inewtv
+http://royaltv.world:25461/live/R8010/8009/99.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",RCTI
+http://royaltv.world:25461/live/R8010/8009/100.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",SCTV
+http://royaltv.world:25461/live/R8010/8009/101.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Trans TV
+http://royaltv.world:25461/live/R8010/8009/102.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Trans 7
+http://royaltv.world:25461/live/R8010/8009/103.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Indosiar
+http://royaltv.world:25461/live/R8010/8009/105.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",ANTV
+http://royaltv.world:25461/live/R8010/8009/106.ts
+#EXTINF:0 tvg-id="TVOne.uk" group-title="🔴Indonesia",TV One
+http://royaltv.world:25461/live/R8010/8009/107.ts
+#EXTINF:0 tvg-id="Metro.pl" group-title="🔴Indonesia",Metro TV
+http://royaltv.world:25461/live/R8010/8009/108.ts
+#EXTINF:0 tvg-id="gtv.il" group-title="🔴Indonesia",GTV
+http://royaltv.world:25461/live/R8010/8009/109.ts
+#EXTINF:0 tvg-id="TVRIworld.id" group-title="🔴Indonesia",TVRI
+http://royaltv.world:25461/live/R8010/8009/112.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MD TV
+http://royaltv.world:25461/live/R8010/8009/114.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Dhoho TV
+http://royaltv.world:25461/live/R8010/8009/120.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",JTV
+http://royaltv.world:25461/live/R8010/8009/121.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",TV9 NU
+http://royaltv.world:25461/live/R8010/8009/124.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",GARUDA TV
+http://royaltv.world:25461/live/R8010/8009/129.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",CNN Indonesia
+http://royaltv.world:25461/live/R8010/8009/139.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Makkah TV
+http://royaltv.world:25461/live/R8010/8009/140.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Nusantaratv
+http://royaltv.world:25461/live/R8010/8009/117.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MNC TV
+http://royaltv.world:25461/live/R8010/8009/23531.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Citra drama
+http://royaltv.world:25461/live/R8010/8009/23532.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Moji TV
+http://royaltv.world:25461/live/R8010/8009/23533.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",DAAI TV
+http://royaltv.world:25461/live/R8010/8009/23534.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Bandung TV
+http://royaltv.world:25461/live/R8010/8009/23535.ts
+#EXTINF:0 tvg-id="rtvint" group-title="🔴Indonesia",RTV
+http://royaltv.world:25461/live/R8010/8009/23536.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",My Cinema Europe
+http://royaltv.world:25461/live/R8010/8009/23537.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MQTV
+http://royaltv.world:25461/live/R8010/8009/23538.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",PONTV
+http://royaltv.world:25461/live/R8010/8009/111.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Kawanua TV
+http://royaltv.world:25461/live/R8010/8009/181.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",CNBC Indonesia
+http://royaltv.world:25461/live/R8010/8009/88816.ts
+=====================================================================
+
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Misi Kafe Biru (2022)
+http://royaltv.world:25461/movie/R8010/8009/12309.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kukira Kau Rumah (2022)
+http://royaltv.world:25461/movie/R8010/8009/12330.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kau & Dia 2 (2022)
+http://royaltv.world:25461/movie/R8010/8009/12333.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rasyah The Wonder Kid (2022)
+http://royaltv.world:25461/movie/R8010/8009/12340.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Inang (2022)
+http://royaltv.world:25461/movie/R8010/8009/12365.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kadet 1947 (2021)
+http://royaltv.world:25461/movie/R8010/8009/12373.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Teachers (2021)
+http://royaltv.world:25461/movie/R8010/8009/12374.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Yang Tak Tergantikan (2021)
+http://royaltv.world:25461/movie/R8010/8009/12375.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Last Prank (2022)
+http://royaltv.world:25461/movie/R8010/8009/12389.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",How Are You Really? (2022)
+http://royaltv.world:25461/movie/R8010/8009/12397.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Merindu Cahaya De Amstel (2022)
+http://royaltv.world:25461/movie/R8010/8009/12398.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Marley (2022)
+http://royaltv.world:25461/movie/R8010/8009/12406.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hayya 2: Hope Dream and Reality (2022)
+http://royaltv.world:25461/movie/R8010/8009/12429.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hayya: The Power of Love 2 (2019)
+http://royaltv.world:25461/movie/R8010/8009/12430.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Backstage (2021)
+http://royaltv.world:25461/movie/R8010/8009/12450.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sampai Jadi Debu (2021)
+http://royaltv.world:25461/movie/R8010/8009/12453.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Before Now and Then Nana (2022)
+http://royaltv.world:25461/movie/R8010/8009/12458.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sinar Untuk Genta (2022)
+http://royaltv.world:25461/movie/R8010/8009/12519.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Asih (2018)
+http://royaltv.world:25461/movie/R8010/8009/12520.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Berhenti Di Kamu (2021)
+http://royaltv.world:25461/movie/R8010/8009/12521.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Danau Hitam (2014)
+http://royaltv.world:25461/movie/R8010/8009/12522.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Doll (2016)
+http://royaltv.world:25461/movie/R8010/8009/12523.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Haji Backpacker (2014)
+http://royaltv.world:25461/movie/R8010/8009/12525.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kartini: Princess of Java (2017)
+http://royaltv.world:25461/movie/R8010/8009/12526.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Nyi Blorong (1982)
+http://royaltv.world:25461/movie/R8010/8009/12527.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Onrust(2021)
+http://royaltv.world:25461/movie/R8010/8009/12528.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pengabdi Setan (2017)
+http://royaltv.world:25461/movie/R8010/8009/12529.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Si Pandir (1992)
+http://royaltv.world:25461/movie/R8010/8009/12530.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Teluh (2022)
+http://royaltv.world:25461/movie/R8010/8009/12532.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tabu: Mengusik Gerbang Iblis (2019)
+http://royaltv.world:25461/movie/R8010/8009/12543.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tali Pocong Perawan (2008)
+http://royaltv.world:25461/movie/R8010/8009/12544.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tali Pocong Perawan 2 (2012)
+http://royaltv.world:25461/movie/R8010/8009/12545.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",13 Cara Memanggil Setan (2011)
+http://royaltv.world:25461/movie/R8010/8009/12547.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Returning (2018)
+http://royaltv.world:25461/movie/R8010/8009/12548.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tumbal: The Ritual (2018)
+http://royaltv.world:25461/movie/R8010/8009/12549.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Wewe (2015)
+http://royaltv.world:25461/movie/R8010/8009/12550.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",12:06 Rumah Kucing (2017)
+http://royaltv.world:25461/movie/R8010/8009/12551.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dendam Arwah Rel Bintaro (2013)
+http://royaltv.world:25461/movie/R8010/8009/12552.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bangkitnya Mayit: The Dark Soul (2021)
+http://royaltv.world:25461/movie/R8010/8009/12553.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bangkitnya Suster Gepeng (2012)
+http://royaltv.world:25461/movie/R8010/8009/12554.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bekas Rumah Sakit (2020)
+http://royaltv.world:25461/movie/R8010/8009/12555.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dongeng Mistis (2018)
+http://royaltv.world:25461/movie/R8010/8009/12556.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Gasing Tengkorak (2017)
+http://royaltv.world:25461/movie/R8010/8009/12557.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hangout (2016)
+http://royaltv.world:25461/movie/R8010/8009/12558.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hantu Cantik Kok Ngompol (2016)
+http://royaltv.world:25461/movie/R8010/8009/12559.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dejavu (2015)
+http://royaltv.world:25461/movie/R8010/8009/12560.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuntilanak (2006)
+http://royaltv.world:25461/movie/R8010/8009/12561.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuntilanak (2018)
+http://royaltv.world:25461/movie/R8010/8009/12562.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuntilanak 2 (2007)
+http://royaltv.world:25461/movie/R8010/8009/12563.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuntilanak 3 (2008)
+http://royaltv.world:25461/movie/R8010/8009/12564.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kutuk (2019)
+http://royaltv.world:25461/movie/R8010/8009/12565.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pocong Rumah Angker (2010)
+http://royaltv.world:25461/movie/R8010/8009/12569.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ritual (2019)
+http://royaltv.world:25461/movie/R8010/8009/12570.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rumah Belanda (2018)
+http://royaltv.world:25461/movie/R8010/8009/12571.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sebelum Iblis Menjemput (2018)
+http://royaltv.world:25461/movie/R8010/8009/12572.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sebelum Iblis Menjemput Ayat 2 (2020)
+http://royaltv.world:25461/movie/R8010/8009/12573.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Di Bawah Umur (2020)
+http://royaltv.world:25461/movie/R8010/8009/12589.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Garis Waktu (2022)
+http://royaltv.world:25461/movie/R8010/8009/12624.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mengejar Surga (2022)
+http://royaltv.world:25461/movie/R8010/8009/12625.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",KKN Curse Of The Dancing Village (2022)
+http://royaltv.world:25461/movie/R8010/8009/12669.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mertua vs. Menantu (2022)
+http://royaltv.world:25461/movie/R8010/8009/12709.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Gara-Gara Warisan (2022)
+http://royaltv.world:25461/movie/R8010/8009/12752.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",48 Jam Untuk Indah (2022)
+http://royaltv.world:25461/movie/R8010/8009/12757.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Preman Silent Fury (2022)
+http://royaltv.world:25461/movie/R8010/8009/12775.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Love in Game (2022)
+http://royaltv.world:25461/movie/R8010/8009/12776.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Doll 3 (2022)
+http://royaltv.world:25461/movie/R8010/8009/12781.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Cinta Subuh (2022)
+http://royaltv.world:25461/movie/R8010/8009/12785.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ngeri Ngeri Sedap (2022)
+http://royaltv.world:25461/movie/R8010/8009/12807.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuntilanak 3 (2022)
+http://royaltv.world:25461/movie/R8010/8009/12840.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Menjelang Magrib (2022)
+http://royaltv.world:25461/movie/R8010/8009/12841.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bucin (2020)
+http://royaltv.world:25461/movie/R8010/8009/12872.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rumah Kaliurang (2022)
+http://royaltv.world:25461/movie/R8010/8009/12876.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pengabdi Setan 2 Communion (2022)
+http://royaltv.world:25461/movie/R8010/8009/12888.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Before I Met You (2022)
+http://royaltv.world:25461/movie/R8010/8009/12911.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Satria Dewa: Gatotkaca (2022)
+http://royaltv.world:25461/movie/R8010/8009/12924.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Wannn Believe (2022)
+http://royaltv.world:25461/movie/R8010/8009/12972.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Anoksia (2022)
+http://royaltv.world:25461/movie/R8010/8009/12993.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Portrait of a Nightmare (2022)
+http://royaltv.world:25461/movie/R8010/8009/13001.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ivanna (2022)
+http://royaltv.world:25461/movie/R8010/8009/13004.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sayap Sayap Patah (2022)
+http://royaltv.world:25461/movie/R8010/8009/13034.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Marriage App (2022)
+http://royaltv.world:25461/movie/R8010/8009/13035.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Until Tomorrow (2022)
+http://royaltv.world:25461/movie/R8010/8009/13119.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ayo Putus (2022)
+http://royaltv.world:25461/movie/R8010/8009/13162.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perempuan Tanah Jahanam (2019)
+http://royaltv.world:25461/movie/R8010/8009/13177.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Generasi 90an: Melankolia (2020)
+http://royaltv.world:25461/movie/R8010/8009/13179.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Sacred Riana: Beginning (2019)
+http://royaltv.world:25461/movie/R8010/8009/13180.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Impetigore (2019)
+http://royaltv.world:25461/movie/R8010/8009/13182.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kampung Zombie (2015)
+http://royaltv.world:25461/movie/R8010/8009/13184.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Layla Majnun (2021)
+http://royaltv.world:25461/movie/R8010/8009/13187.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Cross the Line (2022)
+http://royaltv.world:25461/movie/R8010/8009/13338.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Asih 2 (2020)
+http://royaltv.world:25461/movie/R8010/8009/13405.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Noktah Merah Perkawinan (2022)
+http://royaltv.world:25461/movie/R8010/8009/13548.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kambodja (2022)
+http://royaltv.world:25461/movie/R8010/8009/13586.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Vidkill (2021)
+http://royaltv.world:25461/movie/R8010/8009/13589.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Scandal Makers (2023)
+http://royaltv.world:25461/movie/R8010/8009/13591.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Twelve Stories of Glen Anggara (2022)
+http://royaltv.world:25461/movie/R8010/8009/13638.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mendarat Darurat (2022)
+http://royaltv.world:25461/movie/R8010/8009/13710.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sang Kiai  (2013)
+http://royaltv.world:25461/movie/R8010/8009/13714.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Cherish & Ruelle (2023)
+http://royaltv.world:25461/movie/R8010/8009/13740.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Berbalas Kejam (2023)
+http://royaltv.world:25461/movie/R8010/8009/13750.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",De Toeng: Misteri Ayunan Nenek (2021)
+http://royaltv.world:25461/movie/R8010/8009/14147.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Zodiac: Apa Bintangmu(2023)
+http://royaltv.world:25461/movie/R8010/8009/14148.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Qodrat (2022)
+http://royaltv.world:25461/movie/R8010/8009/14178.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suka Duka Uni Unaa (2023)
+http://royaltv.world:25461/movie/R8010/8009/14195.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keramat 2 (2022)
+http://royaltv.world:25461/movie/R8010/8009/14209.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sri Asih (2022)
+http://royaltv.world:25461/movie/R8010/8009/14212.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Srimulat: Hil Yang Mustahal – Babak Pertama (2022)
+http://royaltv.world:25461/movie/R8010/8009/14242.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Zodiac: What's Your Sign? (2023)
+http://royaltv.world:25461/movie/R8010/8009/14341.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Autobiography (2022)
+http://royaltv.world:25461/movie/R8010/8009/14345.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Qorin (2022)
+http://royaltv.world:25461/movie/R8010/8009/14346.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Losmen Bu Broto (2021)
+http://royaltv.world:25461/movie/R8010/8009/14351.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Qodrat (2022)
+http://royaltv.world:25461/movie/R8010/8009/14366.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Miracle in Cell No. 7 (2022)
+http://royaltv.world:25461/movie/R8010/8009/14373.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Cek Toko Sebelah 2 (2022)
+http://royaltv.world:25461/movie/R8010/8009/14385.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hitmen (2023)
+http://royaltv.world:25461/movie/R8010/8009/14401.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",KKN di Desa Penari: Luwih Dowo Luwih Medeni (2022)
+http://royaltv.world:25461/movie/R8010/8009/14442.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Puisi Cinta yang Membunuh (2023)
+http://royaltv.world:25461/movie/R8010/8009/14458.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Madu Murni (2022)
+http://royaltv.world:25461/movie/R8010/8009/14459.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dalam Mihrab Cinta (2010)
+http://royaltv.world:25461/movie/R8010/8009/14507.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jagat Arwah (2022)
+http://royaltv.world:25461/movie/R8010/8009/14515.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Susi Susanti: Love All (2019)
+http://royaltv.world:25461/movie/R8010/8009/14520.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jalan yang Jauh Jangan Lupa Pulang (2023)
+http://royaltv.world:25461/movie/R8010/8009/15123.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Gita Cinta Dari SMA (2023)
+http://royaltv.world:25461/movie/R8010/8009/15126.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Balada Si Roy (2023)
+http://royaltv.world:25461/movie/R8010/8009/15230.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pelangi Tanpa Warna (2022)
+http://royaltv.world:25461/movie/R8010/8009/15231.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tutuge (2022)
+http://royaltv.world:25461/movie/R8010/8009/15287.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Argantara (2022)
+http://royaltv.world:25461/movie/R8010/8009/15848.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",200 Pounds Beauty (2023)
+http://royaltv.world:25461/movie/R8010/8009/15873.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Fireworks (2023)
+http://royaltv.world:25461/movie/R8010/8009/16429.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kun Ana Wa Anta (2023)
+http://royaltv.world:25461/movie/R8010/8009/16619.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Waktu Maghrib (2023)
+http://royaltv.world:25461/movie/R8010/8009/16679.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ranah 3 Warna (2022)
+http://royaltv.world:25461/movie/R8010/8009/16682.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bismillah Kunikahi Suamimu (2023)
+http://royaltv.world:25461/movie/R8010/8009/17050.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hidayah (2023)
+http://royaltv.world:25461/movie/R8010/8009/17051.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dunia Tanpa Suara (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/17322.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Losmen Melati (2023)
+http://royaltv.world:25461/movie/R8010/8009/17562.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Alena: Anak Ratu Iblis (2023)
+http://royaltv.world:25461/movie/R8010/8009/17604.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Buya Hamka Vol. 1 (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/17660.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Yang Patah Tumbuh Yang Hilang Berganti (2023)
+http://royaltv.world:25461/movie/R8010/8009/17680.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bukannya Aku Tidak Mau Nikah (2023)
+http://royaltv.world:25461/movie/R8010/8009/17735.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perjanjian Gaib (2023)
+http://royaltv.world:25461/movie/R8010/8009/17736.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tulah 6/13 (2023)
+http://royaltv.world:25461/movie/R8010/8009/17757.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Khanzab (2023)
+http://royaltv.world:25461/movie/R8010/8009/17804.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suzzanna: Malam Jumat Kliwon (2023) cam
+http://royaltv.world:25461/movie/R8010/8009/17893.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hidayah (2023)
+http://royaltv.world:25461/movie/R8010/8009/18506.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Aku Tahu Kapan Kamu Mati Desa Bunuh Diri (2023) cam
+http://royaltv.world:25461/movie/R8010/8009/18735.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jin Qorin (2023)
+http://royaltv.world:25461/movie/R8010/8009/18736.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hati Suhita (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/18765.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Invalidite (2023)
+http://royaltv.world:25461/movie/R8010/8009/18769.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Spirit Doll (2023)
+http://royaltv.world:25461/movie/R8010/8009/19121.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mangkujiwo 2 (2023)
+http://royaltv.world:25461/movie/R8010/8009/19194.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sewu Dino (2023)
+http://royaltv.world:25461/movie/R8010/8009/19293.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sewu Dino (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/19329.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Boss With Love (2023)
+http://royaltv.world:25461/movie/R8010/8009/19358.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sewu Dino (2023)
+http://royaltv.world:25461/movie/R8010/8009/19359.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Wayang Puaka (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/19429.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ganjil Genap (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/19812.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Detektif Jaga Jarak (2023)
+http://royaltv.world:25461/movie/R8010/8009/19950.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suzzanna: Kliwon Friday Night (2023)
+http://royaltv.world:25461/movie/R8010/8009/20022.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Star Syndrome (2023)
+http://royaltv.world:25461/movie/R8010/8009/20207.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kapan Hamil? (2023)
+http://royaltv.world:25461/movie/R8010/8009/20208.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sosok Ketiga (2023)
+http://royaltv.world:25461/movie/R8010/8009/20209.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dear Jo: Almost is Never Enough (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/20231.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pamali (2022)
+http://royaltv.world:25461/movie/R8010/8009/20389.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Catatan si Boy (2023)
+http://royaltv.world:25461/movie/R8010/8009/20446.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Galaksi (2023)
+http://royaltv.world:25461/movie/R8010/8009/20448.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sosok Ketiga (2023)
+http://royaltv.world:25461/movie/R8010/8009/20504.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Malaikat Tanpa Sayap (2023)
+http://royaltv.world:25461/movie/R8010/8009/21350.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Koridor (2023)
+http://royaltv.world:25461/movie/R8010/8009/21351.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Iblis dalam darah (2023)
+http://royaltv.world:25461/movie/R8010/8009/21731.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ratu Dansa (2022)
+http://royaltv.world:25461/movie/R8010/8009/21746.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kajiman: Iblis Terkejam Penagih Janji (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/21769.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Melukis Luka (2024)
+http://royaltv.world:25461/movie/R8010/8009/21786.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kejarlah Janji (2024)
+http://royaltv.world:25461/movie/R8010/8009/21926.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bangku Kosong (2023)
+http://royaltv.world:25461/movie/R8010/8009/21973.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Star Syndrome (2023)
+http://royaltv.world:25461/movie/R8010/8009/21993.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sleep Call (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/21996.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sosok Ketiga (2023)
+http://royaltv.world:25461/movie/R8010/8009/22121.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ritual Tumbal Terakhir (2024)
+http://royaltv.world:25461/movie/R8010/8009/22149.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bangku Kosong Ujian Terakhir (2023) eng
+http://royaltv.world:25461/movie/R8010/8009/22151.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Aku Tahu Kapan Kamu Mati 2 (2023)
+http://royaltv.world:25461/movie/R8010/8009/22262.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Melodate (2024)
+http://royaltv.world:25461/movie/R8010/8009/22301.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Susuk (2023)
+http://royaltv.world:25461/movie/R8010/8009/22315.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Indigo (2023)
+http://royaltv.world:25461/movie/R8010/8009/22347.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hantu Baru (2023)
+http://royaltv.world:25461/movie/R8010/8009/22422.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Panduan Mempersiapkan Perpisahan (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/22668.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Srimulat: Hidup Memang Komedi (2023)
+http://royaltv.world:25461/movie/R8010/8009/22934.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kereta (2024)
+http://royaltv.world:25461/movie/R8010/8009/22981.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Nona Manis Sayange (2023)
+http://royaltv.world:25461/movie/R8010/8009/22983.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Di Ambang Kematian (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/23029.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sujud Terakhir Bapak (2024)
+http://royaltv.world:25461/movie/R8010/8009/23170.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mukidi (2024)
+http://royaltv.world:25461/movie/R8010/8009/23172.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Gampang Cuan (2023)
+http://royaltv.world:25461/movie/R8010/8009/23404.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",13 Bombs Di Jakarta(2024)
+http://royaltv.world:25461/movie/R8010/8009/23542.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Trinil (2024)
+http://royaltv.world:25461/movie/R8010/8009/23614.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kutukan Sembilan Setan  (2023)
+http://royaltv.world:25461/movie/R8010/8009/23620.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Saranjana: Kota Ghaib (2023)
+http://royaltv.world:25461/movie/R8010/8009/24144.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ayo Balikan (2024)
+http://royaltv.world:25461/movie/R8010/8009/24183.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dinda (2024)
+http://royaltv.world:25461/movie/R8010/8009/24385.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sinden Gaib (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/24551.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pemandi Jenazah (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/24802.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kisah Tanah Jawa: Pocong Gundul (2023)
+http://royaltv.world:25461/movie/R8010/8009/24803.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Titisan Sundel Bolong (2023)
+http://royaltv.world:25461/movie/R8010/8009/24829.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Algrafi (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/24832.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Botting (2024)
+http://royaltv.world:25461/movie/R8010/8009/24833.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Wakaf (2023)
+http://royaltv.world:25461/movie/R8010/8009/24873.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",13 Bombs (2023)
+http://royaltv.world:25461/movie/R8010/8009/24958.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pemandi Jenazah (2024)
+http://royaltv.world:25461/movie/R8010/8009/25021.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuyang (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/25025.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Bikeriders (2024)
+http://royaltv.world:25461/movie/R8010/8009/25026.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pasutri Gaje (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/25162.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",TANDUK SETAN (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/25299.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perjalanan Pembuktian Cinta (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/25301.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Badarawuhi Di Desa Penari Penari (2024)
+http://royaltv.world:25461/movie/R8010/8009/25357.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Vina: Before 7 Days (2024)cam
+http://royaltv.world:25461/movie/R8010/8009/25358.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mendung Tanpo Udan (2024)
+http://royaltv.world:25461/movie/R8010/8009/25377.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Diwe: Hutan Larangan (2024)
+http://royaltv.world:25461/movie/R8010/8009/25583.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bonnie (2024)
+http://royaltv.world:25461/movie/R8010/8009/25602.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ronggeng Kematian (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/25724.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dua Hati Biru (2024)
+http://royaltv.world:25461/movie/R8010/8009/25747.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pemukiman setan (2024)
+http://royaltv.world:25461/movie/R8010/8009/25749.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bardon Directors Cut (2024)
+http://royaltv.world:25461/movie/R8010/8009/25942.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Siri Na Pacce (2024)
+http://royaltv.world:25461/movie/R8010/8009/25997.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Marbot (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/27377.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ten Years Challenge (2024)
+http://royaltv.world:25461/movie/R8010/8009/27428.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tuhan Izinkan Aku Berdosa (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/27862.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Lampir (2024)
+http://royaltv.world:25461/movie/R8010/8009/27905.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Night of Hell (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/28061.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Respati (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28192.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Teka-Teki Tika (2021)eng
+http://royaltv.world:25461/movie/R8010/8009/28211.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Marni: The Story of Wewe Gombel (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28273.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Si Juki the Movie: Harta Pulau Monyet (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28456.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jurnal Risa by Risa Saraswati (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28487.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suami Yang Lain (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28531.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sekawan Limo (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28656.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Lokananta (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/28679.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suami Yang Lain (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28680.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tepatilah Janji (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/28681.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dewi (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/28747.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Crossroad (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/28777.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",How to Survive a Marriage? (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/28841.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mawang: Jangan Sebut Namanya (2024)
+http://royaltv.world:25461/movie/R8010/8009/28982.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sekawan Limo (2024)
+http://royaltv.world:25461/movie/R8010/8009/29007.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",TANPA AMPUN (2024)
+http://royaltv.world:25461/movie/R8010/8009/29095.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jendela Seribu Sungai (2023nosub
+http://royaltv.world:25461/movie/R8010/8009/29196.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Romeo Ingkar Janji (2024)
+http://royaltv.world:25461/movie/R8010/8009/29237.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Malam Pertobatan (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/29272.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Father's Haunted House (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/29342.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sakaratul Maut (2024)
+http://royaltv.world:25461/movie/R8010/8009/29493.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bangsal Isolasi (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/29495.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dilan 1983 (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/29496.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Uang Panai 2 (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/29703.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kang Mak (from Pee Mak) (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/29750.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Thaghut (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/29829.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tulang Belulang Tulang (2024)
+http://royaltv.world:25461/movie/R8010/8009/29989.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",99 Cahaya Di Langit Eropa The Final Edition (2014)nosub
+http://royaltv.world:25461/movie/R8010/8009/29992.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keluar Main 1994 (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/29993.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Laura (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/30131.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Petualangan Anak Penangkap Hantu (2024) nosub
+http://royaltv.world:25461/movie/R8010/8009/30387.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Azzamine (2024)
+http://royaltv.world:25461/movie/R8010/8009/30570.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Semusim Setelah Kemarau (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/30571.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",7 Hari Untuk Keshia (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/30601.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Home Sweet Loan (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/30638.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kemah Terlarang: Kesurupan Massal (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31019.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Start Up Never Give Up (2024)
+http://royaltv.world:25461/movie/R8010/8009/31026.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Mediterranean (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31104.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Mediterranean Sea (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31129.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Berebut Jenazah (2025)
+http://royaltv.world:25461/movie/R8010/8009/31174.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Five Star Princess (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31388.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",My Annoying Brother (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31389.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perewangan (2024)nosub
+http://royaltv.world:25461/movie/R8010/8009/31603.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Lembayung (2024)
+http://royaltv.world:25461/movie/R8010/8009/31782.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jabang Mayit (2025)
+http://royaltv.world:25461/movie/R8010/8009/31873.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bila Esok Ibu Tiada (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/31901.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kampung Keramat (2025)
+http://royaltv.world:25461/movie/R8010/8009/32066.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pantaskah Aku Berhijab (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32087.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pure Love (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32093.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Misteri Bilik Korek Api (2024)
+http://royaltv.world:25461/movie/R8010/8009/32103.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Doa doa di atas kepala (2025)
+http://royaltv.world:25461/movie/R8010/8009/32115.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Surga Yang Tak Dirindukan 2 (2017)
+http://royaltv.world:25461/movie/R8010/8009/32129.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Surga Yang Tak Dirindukan (2015)
+http://royaltv.world:25461/movie/R8010/8009/32131.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hidup Ini Terlalu Banyak Kamu (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32173.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Petak Umpet (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32217.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Till Then Hanna! (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32235.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Love Unlike in K-Dramas (2024)
+http://royaltv.world:25461/movie/R8010/8009/32369.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Titisan Dewi Ular (1990)
+http://royaltv.world:25461/movie/R8010/8009/32426.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perjanjian Di Malam Keramat (1991)
+http://royaltv.world:25461/movie/R8010/8009/32427.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bukannya Aku Tak Mau Nikah (2023)
+http://royaltv.world:25461/movie/R8010/8009/32481.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hutang Nyawa (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32519.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Racun Sangga Santet Pemisah Rumah Tangga (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32520.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Modal Nekad (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32765.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Panggonan Wingit 2 Miss K (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/32941.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ambyar Mak Byar (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/32973.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bad Boy In Love (2024)
+http://royaltv.world:25461/movie/R8010/8009/32990.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Norma: Antara Mertua dan Menantu (2025)
+http://royaltv.world:25461/movie/R8010/8009/33141.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jagal Teluh (2025)
+http://royaltv.world:25461/movie/R8010/8009/33236.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ketindihan (2025)
+http://royaltv.world:25461/movie/R8010/8009/33295.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Almarhum (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/33331.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",1 Imam 2 Makmum (2025)
+http://royaltv.world:25461/movie/R8010/8009/33368.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kutukan Calon Arang (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/33444.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Love Therapy (2025)
+http://royaltv.world:25461/movie/R8010/8009/33536.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sebelum 7 Hari (2025) eng
+http://royaltv.world:25461/movie/R8010/8009/33794.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Paris in Bali (2025)
+http://royaltv.world:25461/movie/R8010/8009/33808.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ruang Rahasia Ibu (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/33845.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sarung Untuk Bapak (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/33846.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Cinta Tak Pernah Tepat Waktu (2025)
+http://royaltv.world:25461/movie/R8010/8009/34033.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Awas Kepunan: Kelak Celako (2025)
+http://royaltv.world:25461/movie/R8010/8009/34043.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Secret 2: Mystery of Villa 666 (2021)
+http://royaltv.world:25461/movie/R8010/8009/34177.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Made in Bali (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/34262.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pernikahan Arwah (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/34351.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rahasia Rasa (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/34354.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keajaiban Air Mata Wanita (2025)
+http://royaltv.world:25461/movie/R8010/8009/34377.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Santet Ilmu Pelebur Nyawa (1988)
+http://royaltv.world:25461/movie/R8010/8009/34396.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",1 Kakak 7 Ponakan (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/34473.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Alibii.com (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/34576.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Petualangan Sherina 2 (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/34589.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Singsot: Siulan Kematian (2025)
+http://royaltv.world:25461/movie/R8010/8009/34620.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Elang (2025)
+http://royaltv.world:25461/movie/R8010/8009/34717.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pengepungan Di Bukit Duri (2025)
+http://royaltv.world:25461/movie/R8010/8009/35451.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perang Kota (2025)
+http://royaltv.world:25461/movie/R8010/8009/35750.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Qodrat 2 (2025) cam
+http://royaltv.world:25461/movie/R8010/8009/35767.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mendadak Dangdut (2025)
+http://royaltv.world:25461/movie/R8010/8009/35776.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tabayyun (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/35913.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Siege at Thorn High (2025)
+http://royaltv.world:25461/movie/R8010/8009/36137.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Angkara Murka (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/36323.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Utusan Iblis: Dia Yang Berada di Antara Kita (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/36454.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sampai Jumpa Selamat Tinggal (2025)
+http://royaltv.world:25461/movie/R8010/8009/36481.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pure Love (2024)eng
+http://royaltv.world:25461/movie/R8010/8009/36510.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pembantaian Dukun Santet (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/36603.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Waktu Maghrib 2 (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/36780.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kutukan Cakar Monyet (2023)eng
+http://royaltv.world:25461/movie/R8010/8009/37239.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Vina Sebelum 7 Hari (2024)
+http://royaltv.world:25461/movie/R8010/8009/37244.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",GJLS: Ibuku Ibu-Ibu (2025)multi
+http://royaltv.world:25461/movie/R8010/8009/37289.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Anak Kunti (2025)
+http://royaltv.world:25461/movie/R8010/8009/37340.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Narik Sukmo (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/37366.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tak Ingin Usai di Sini  (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/37367.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keluarga Suami Adalah Hama (2025)
+http://royaltv.world:25461/movie/R8010/8009/37388.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jodoh 3 Bujang (2025)
+http://royaltv.world:25461/movie/R8010/8009/37541.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Selepas Tahlil (2025)
+http://royaltv.world:25461/movie/R8010/8009/37542.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Assalamualaikum Beijing 2: Lost in Ningxia (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/37546.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sore Istri Dari Masa Depan (2025)
+http://royaltv.world:25461/movie/R8010/8009/37850.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tenung (2025)
+http://royaltv.world:25461/movie/R8010/8009/38022.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Believe Takdir Mimpi Keberanian(2025)
+http://royaltv.world:25461/movie/R8010/8009/38157.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rego Nyowo (2025)
+http://royaltv.world:25461/movie/R8010/8009/38169.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sihir Pelakor (2025)
+http://royaltv.world:25461/movie/R8010/8009/38170.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Panggil Aku Ayah (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/38290.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Lupa Daratan (2025)
+http://royaltv.world:25461/movie/R8010/8009/38330.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Lyora: Penantian Buah Hati (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/38527.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Leak 2 (Jimat Dadong) (2025)
+http://royaltv.world:25461/movie/R8010/8009/38546.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Arwah (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/62697.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Panji Tengkorak (2025)bm/eng
+http://royaltv.world:25461/movie/R8010/8009/62702.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pamali Tumbal (2025)bm/eng
+http://royaltv.world:25461/movie/R8010/8009/62703.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Panggilan Dari Kubur (2025)bm/eng
+http://royaltv.world:25461/movie/R8010/8009/62946.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Labinak: Mereka Ada di Sini (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/63078.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sukma (2025)
+http://royaltv.world:25461/movie/R8010/8009/63226.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dia Bukan Ibu (2025)
+http://royaltv.world:25461/movie/R8010/8009/63322.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Maryam Janji dan Jiwa yang Terikat (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/63323.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pencarian Terakhir (2025)bm/eng
+http://royaltv.world:25461/movie/R8010/8009/63325.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tukar Takdir (2025)
+http://royaltv.world:25461/movie/R8010/8009/63504.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kang Solah from Kang Mak x Nenek Gayung (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/63511.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rangga & Cinta (2025)multi
+http://royaltv.world:25461/movie/R8010/8009/63585.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Getih Ireng (2025)
+http://royaltv.world:25461/movie/R8010/8009/63635.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jembatan Shiratal Mustaqim (2025)
+http://royaltv.world:25461/movie/R8010/8009/63636.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keadilan (2025)cn
+http://royaltv.world:25461/movie/R8010/8009/63681.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Selepas Tahlil (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/63733.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jangan Panggil Mama Kafir (2025)
+http://royaltv.world:25461/movie/R8010/8009/63747.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ada Apa Dengan Cinta 2 (2016)nosub
+http://royaltv.world:25461/movie/R8010/8009/63994.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Si Paling Aktor (2025)
+http://royaltv.world:25461/movie/R8010/8009/64006.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuncen (2025)
+http://royaltv.world:25461/movie/R8010/8009/64259.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Seher -Lenteng Tedes(2025)
+http://royaltv.world:25461/movie/R8010/8009/64263.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sampai Titik Terakhirmu (2025)
+http://royaltv.world:25461/movie/R8010/8009/64526.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keadilan (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/64527.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dopamine (2025)
+http://royaltv.world:25461/movie/R8010/8009/64598.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Air Mata Mualaf (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/64603.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Legenda Kelam Malin Kundang (2025)
+http://royaltv.world:25461/movie/R8010/8009/64604.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Timur (2025)
+http://royaltv.world:25461/movie/R8010/8009/64704.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Nia (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/64719.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Wasiat Warisan (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/64720.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ozora: Penganiayaan Brutal Penguasa Jaksel (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/64729.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Patah Hati Yang Kupilih (2025)
+http://royaltv.world:25461/movie/R8010/8009/65191.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dusun Mayit (2025)
+http://royaltv.world:25461/movie/R8010/8009/65494.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Musuh Dalam Selimut (2026)
+http://royaltv.world:25461/movie/R8010/8009/65497.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Uang Passolo -Amplop Kondangan- (2026)eng
+http://royaltv.world:25461/movie/R8010/8009/65594.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suka Duka Tawa (2025)
+http://royaltv.world:25461/movie/R8010/8009/65754.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mariaban (2026)
+http://royaltv.world:25461/movie/R8010/8009/65763.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Qorin 2 (2025) eng
+http://royaltv.world:25461/movie/R8010/8009/65845.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sebelum Dijemput Nenek (2026) eng
+http://royaltv.world:25461/movie/R8010/8009/65846.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Alas Roban (2026) eng
+http://royaltv.world:25461/movie/R8010/8009/65848.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Jadi Tuh Barang (2025)
+http://royaltv.world:25461/movie/R8010/8009/65856.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Maju Serem Mundur Horor (2025) multi
+http://royaltv.world:25461/movie/R8010/8009/65985.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mencadin 2: Tamu Mayit (2026)nosub
+http://royaltv.world:25461/movie/R8010/8009/65986.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Arwah Sinden (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/65990.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Warung Pocong (2026)eng
+http://royaltv.world:25461/movie/R8010/8009/66089.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Esok Tanpa Ibu (2026)
+http://royaltv.world:25461/movie/R8010/8009/66108.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kafir: The Spirit Gate (2026)
+http://royaltv.world:25461/movie/R8010/8009/66241.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Crocodile Tears (2026)
+http://royaltv.world:25461/movie/R8010/8009/66252.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Perempuan Pembawa Sial (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/86833.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Check Out Sekarang Pay Later (Caper) (2026)
+http://royaltv.world:25461/movie/R8010/8009/86931.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kafir Gerbang Sukma (2026)
+http://royaltv.world:25461/movie/R8010/8009/86932.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Senin Harga Naik (2026)
+http://royaltv.world:25461/movie/R8010/8009/87064.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Penerbangan Terakhir (2026)
+http://royaltv.world:25461/movie/R8010/8009/87067.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suzzanna Santet Dosa di Atas Dosa (2026)
+http://royaltv.world:25461/movie/R8010/8009/87124.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Istri Siri (2026) nosub
+http://royaltv.world:25461/movie/R8010/8009/87315.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Setannya Cuan (2026) eng
+http://royaltv.world:25461/movie/R8010/8009/87351.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",The Invisible Guest (2026)
+http://royaltv.world:25461/movie/R8010/8009/87422.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Na Willa (2026)
+http://royaltv.world:25461/movie/R8010/8009/87478.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tunggu Aku Sukses Nanti (2026)
+http://royaltv.world:25461/movie/R8010/8009/87545.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Pelangi di Mars (2026)
+http://royaltv.world:25461/movie/R8010/8009/87564.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Hantu Dalam Sel (2026)
+http://royaltv.world:25461/movie/R8010/8009/87698.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ikatan Darah (2026)
+http://royaltv.world:25461/movie/R8010/8009/87869.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Sengkolo: Petaka Satu Suro (2026)
+http://royaltv.world:25461/movie/R8010/8009/87875.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kalo Sayang Jangan Direkam (2025)nosub
+http://royaltv.world:25461/movie/R8010/8009/87880.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kupilih Jalur Langit (2026)
+http://royaltv.world:25461/movie/R8010/8009/87912.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Shaka Oh Shaka (2026)
+http://royaltv.world:25461/movie/R8010/8009/88126.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Air Mata Buaya (2026)
+http://royaltv.world:25461/movie/R8010/8009/88195.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tumbal Proyek (2026)
+http://royaltv.world:25461/movie/R8010/8009/88244.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ayah Ini Arahnya Ke Mana Ya? (2026)
+http://royaltv.world:25461/movie/R8010/8009/88254.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Ipar Itu Benalu (2026)
+http://royaltv.world:25461/movie/R8010/8009/88318.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Keluarga Suami Adalah Hama (2026)eng
+http://royaltv.world:25461/movie/R8010/8009/88521.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kupeluk Kamu Selamanya (2026)bm/ eng
+http://royaltv.world:25461/movie/R8010/8009/88525.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Samawa (2025)
+http://royaltv.world:25461/movie/R8010/8009/88543.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Mengejar Restu (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/88549.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Dilanjutkan Salah Disudahi Perih (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/88550.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Rumah Tanpa Cahaya (2026)eng
+http://royaltv.world:25461/movie/R8010/8009/88551.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tak Kenal Maka Taaruf (2025)eng
+http://royaltv.world:25461/movie/R8010/8009/88552.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Tiba Tiba Setan (2026)
+http://royaltv.world:25461/movie/R8010/8009/88723.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Monster Pabrik Rambut (2026)
+http://royaltv.world:25461/movie/R8010/8009/88766.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Bayang-Bayang Anak Jahanam (2025)
+http://royaltv.world:25461/movie/R8010/8009/88823.mp4
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Kuyank (2026)
+http://royaltv.world:25461/movie/R8010/8009/88995.mkv
+#EXTINF:0 tvg-id="avi" group-title="🔵MovieIndonesia",Suamiku Lukaku (2026)
+http://royaltv.world:25461/movie/R8010/8009/89007.mp4
+
+==============================================================================================================================================================================
+
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="🔵ASIA | INDONESIA VIP",IDS: FOX NEWS VIP
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34310
 #EXTINF:-1 tvg-id="" tvg-name="IDS: BLOOMBERG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/bloomberg.png" group-title="🔵ASIA | INDONESIA VIP",IDS: BLOOMBERG VIP
