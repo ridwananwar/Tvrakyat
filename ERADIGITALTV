@@ -24,6 +24,17 @@ http://royaltv.world:25461/live/S1048/9886/107.ts
 http://royaltv.world:25461/live/S1048/9886/108.ts
 #EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
 http://royaltv.world:25461/live/S1048/9886/109.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV VIP" ,IDS: SPOTV VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34406
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV 2 VIP" ,IDS: SPOTV 2 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 1 VIP" ,IDS: FOX SPORTS 1 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34338
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 2 VIP" ,IDS: FOX SPORTS 2 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34339
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 3 VIP" ,IDS: FOX SPORTS 3 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34340
+
 ==================================================================================================================================================
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
 http://royaltv.world:25461/live/S1038/9863/110.ts
