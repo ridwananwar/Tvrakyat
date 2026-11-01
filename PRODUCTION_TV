@@ -1,45 +1,86 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://ridwananwar.publit.io/file/Ikuti-Pak-Timo.jpg" group-title="🔴RE-FRESH & RELOAD",Re-fresh
 https://ridwananwar.publit.io/file/Ikuti-Pak-Timo.mp4
-===================================================================================================================================================================================================================
+==============================================================================================================================================================================
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34332
+http://royaltv.world:25461/live/S1048/9886/110.ts
 #EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34335
+http://royaltv.world:25461/live/S1048/9886/99.ts
 #EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34421
+http://royaltv.world:25461/live/S1048/9886/100.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34323
+http://royaltv.world:25461/live/S1048/9886/101.ts
 #EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34324
+http://royaltv.world:25461/live/S1048/9886/102.ts
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34325
+http://royaltv.world:25461/live/S1048/9886/103.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34327
+http://royaltv.world:25461/live/S1048/9886/105.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34328
+http://royaltv.world:25461/live/S1048/9886/106.ts
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34329
+http://royaltv.world:25461/live/S1048/9886/107.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34330
+http://royaltv.world:25461/live/S1048/9886/108.ts
 #EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34331
-#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV VIP" ,IDS: SPOTV VIP
+http://royaltv.world:25461/live/S1048/9886/109.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV VIP" ,IDS: SPOTV VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34406
-#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV 2 VIP" ,IDS: SPOTV 2 VIP
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV 2 VIP" ,IDS: SPOTV 2 VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
-#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 1 VIP" ,IDS: FOX SPORTS 1 VIP
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 1 VIP" ,IDS: FOX SPORTS 1 VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34338
-#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 2 VIP" ,IDS: FOX SPORTS 2 VIP
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 2 VIP" ,IDS: FOX SPORTS 2 VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34339
-#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 3 VIP" ,IDS: FOX SPORTS 3 VIP
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 3 VIP" ,IDS: FOX SPORTS 3 VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34340
-
 ==================================================================================================================================================
-
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
+http://royaltv.world:25461/live/S1038/9863/110.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+http://royaltv.world:25461/live/S1038/9863/99.ts
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
+http://royaltv.world:25461/live/S1038/9863/100.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
+http://royaltv.world:25461/live/S1038/9863/101.ts
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
+http://royaltv.world:25461/live/S1038/9863/102.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
+http://royaltv.world:25461/live/S1038/9863/103.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
+http://royaltv.world:25461/live/S1038/9863/105.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
+http://royaltv.world:25461/live/S1038/9863/106.ts
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+http://royaltv.world:25461/live/S1038/9863/107.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
+http://royaltv.world:25461/live/S1038/9863/108.ts
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
+http://royaltv.world:25461/live/S1038/9863/109.ts
 ====================================================================================================================================================
-
-===================================================================================================================================================================================================================
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
+http://royaltv.world:25461/live/G5016/7865/110.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+http://royaltv.world:25461/live/G5016/7865/99.ts
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
+http://royaltv.world:25461/live/G5016/7865/100.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
+http://royaltv.world:25461/live/G5016/7865/101.ts
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
+http://royaltv.world:25461/live/G5016/7865/102.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
+http://royaltv.world:25461/live/G5016/7865/103.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
+http://royaltv.world:25461/live/G5016/7865/105.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
+http://royaltv.world:25461/live/G5016/7865/106.ts
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+http://royaltv.world:25461/live/G5016/7865/107.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
+http://royaltv.world:25461/live/G5016/7865/108.ts
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
+http://royaltv.world:25461/live/G5016/7865/109.ts
+==============================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="🔴ASIA | INDONESIA VIP",IDS: FOX NEWS VIP
 http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34310
