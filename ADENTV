@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="KINDONESIA",ID: Indosiar HD
+http://tvking.xyz:8080/Syednasrullah/kng1714/5117
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="KINDONESIA",ID: Citra Drama
+http://tvking.xyz:8080/Syednasrullah/kng1714/5118
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="KINDONESIA",ID: ANTV
+http://tvking.xyz:8080/Syednasrullah/kng1714/5124
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="ID: GTV" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="INDONESIA",ID: GTV
+http://tvking.xyz:8080/Syednasrullah/kng1714/5127
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="KINDONESIA",ID: MNC TV HD
+http://tvking.xyz:8080/Syednasrullah/kng1714/5139
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="KINDONESIA",ID: RCTI HD
+http://tvking.xyz:8080/Syednasrullah/kng1714/5144
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="KINDONESIA",ID: SCTV
+http://tvking.xyz:8080/Syednasrullah/kng1714/5147
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="KINDONESIA",ID: Trans 7
+http://tvking.xyz:8080/Syednasrullah/kng1714/5149
+#EXTINF:-1 tvg-id="" tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="KINDONESIA",ID: TransTV
+http://tvking.xyz:8080/Syednasrullah/kng1714/5151
+
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="ASIA | INDONESIA VIP",IDS: FOX NEWS VIP
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34310
 #EXTINF:-1 tvg-id="" tvg-name="IDS: BLOOMBERG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/bloomberg.png" group-title="ASIA | INDONESIA VIP",IDS: BLOOMBERG VIP
