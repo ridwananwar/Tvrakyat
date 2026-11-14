@@ -4728,8 +4728,7 @@ http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/25212
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/25213
 #EXTINF:-1 group-title="ASIA | KURDISTAN VIP" tvg-logo="https://docdog.top/logo/countries/kurdistan/Suryoyo_sat.jpg",KU: Suryoyo Sat
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/128950
-#EXTINF:-1 group-title="ASIA | UZBEKISTAN VIP" tvg-logo="https://docdog.top/logo/countries/uzbekistan/NAVO.jpg",UZ: NAVO
-http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/25220
+
 ============================================================================================================VOD======================================================================
 
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/devICaLkwCklaehPpajjSd47QLP.jpg",ID - Onyx the Fortuitous and the Talisman of Souls - 2023
@@ -4882,7 +4881,7 @@ http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/652600.mp4
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/652605.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxqFjaGiKqh6vNwwPJzf82V1T9D.jpg",ID - Brontosaurus Love - 2013
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/652606.mp4
-#EXTINF:-1 ,#MoveOnAja - 2019
+#EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxqFjaGiKqh6vNwwPJzf82V1T9D.jpg",ID - MoveOnAja - 2019
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/652608.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwnZ24ODfAxMGzCzZET7GnxgtmI.jpg",ID - Guru-Guru Gokil - 2020
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/652612.mp4
@@ -6490,7 +6489,7 @@ http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1024027.mp4
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1024029.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSz18QmxTQxuCy6dO0C8KMJTdfX.jpg",ID - Satu Hari Dengan Ibu - 2023
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1024031.mp4
-#EXTINF:-1 ,#OOTD Outfit of the Designer - 2024
+#EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSz18QmxTQxuCy6dO0C8KMJTdfX.jpg",ID - OOTD Outfit of the Designer - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1024032.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxSx97i3VExRNX4qqzrMEv3e7PF.jpg",ID - Mendung Tanpo Udan - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1024033.mp4
@@ -6660,11 +6659,11 @@ http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/921543.mkv
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058038.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCQMn8LZZ6CIIHF6Ruky6DBsFy4.jpg",ID - Dark Feathers: Dance of the Geisha - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058052.mp4
-#EXTINF:-1 ,#OOTD: Outfit of the Designer - 2024
+#EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSz18QmxTQxuCy6dO0C8KMJTdfX.jpg",ID - OOTD: Outfit of the Designer - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058053.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugjFBjpoTpAqDXyYkBJUKL2Vw1G.jpg",ID - His & Hers - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058054.mp4
-#EXTINF:-1 ,#64 - First Love - 2024
+#EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugjFBjpoTpAqDXyYkBJUKL2Vw1G.jpg",ID - First Love - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058055.mp4
 #EXTINF:-1 group-title="VOD | INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhhKT6uUlxdKTu9Swbrk3ijP3nZ.jpg",ID - Death PhD - 2024
 http://zujicarg.xandoria.cc:80/movie/HADJI23106/V5BGE7T/1058056.mp4
