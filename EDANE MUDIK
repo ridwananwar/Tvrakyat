@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="VISION" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
+#EXTINF:-1 group-title="VISION" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",VISIONTEST
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #EXTINF:-1 group-title="AIRTEL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
