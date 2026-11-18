@@ -585,6 +585,8 @@ http://31.43.191.125:8080/VIP01781738601885328/9eb3a600f003/34683
 
 #EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cnbc.png",IDS: CNBC VIP
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34314
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
+http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34327
 #EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxmoviesaction.png",IDS: FOX MOVIES ACTION VIP
 http://31.43.191.125:8080/VIP018671742134028370/799c8439dd30/34315
 #EXTINF:-1 group-title="ASIA | INDONESIA VIP",IDS: NET. TV VIP
