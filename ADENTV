@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="KINDONESIA",ID: Indosiar HD
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="KINDONESIA",INDOSIAR 
 http://tvking.xyz:8080/Syednasrullah/kng1714/5117
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="KINDONESIA",ID: ANTV
+#EXTINF:-1 tvg-id="" tvg-name="IDS: ANTV VIP" tvg-logo="" group-title="KINDONESIA",ANTV
 http://tvking.xyz:8080/Syednasrullah/kng1714/5124
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="KINDONESIA",ID: MNC TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="KINDONESIA",MNC TV HD
 http://tvking.xyz:8080/Syednasrullah/kng1714/5139
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="KINDONESIA",ID: Trans 7
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="KINDONESIA",TRANS 7
 http://tvking.xyz:8080/Syednasrullah/kng1714/5149
-#EXTINF:-1 tvg-id="" tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="KINDONESIA",ID: TransTV
+#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="KINDONESIA",TRANS TV
 http://tvking.xyz:8080/Syednasrullah/kng1714/5151
 ===================================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="ASIA INDONESIA",IDS: FOX NEWS VIP
