@@ -1,133 +1,289 @@
 #EXTM3U
 ===================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="ASIA INDONESIA",IDS: NET TV
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png",IDS: NET TV
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34321
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="ASIA INDONESIA",IDS: RCTI
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png",IDS: RCTI
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34322
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="ASIA INDONESIA",IDS: SCTV
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34323
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="ASIA INDONESIA",IDS: TRANS TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png",IDS: TRANS TV VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34324
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="ASIA INDONESIA",IDS: TRANS 7 VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png",IDS: TRANS 7 VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34325
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="ASIA INDONESIA",IDS: MNC TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png",IDS: MNC TV VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34326
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA INDONESIA",IDS: INDOSIAR VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png",IDS: INDOSIAR VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34327
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="ASIA INDONESIA",IDS: ANTV
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34328
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="ASIA INDONESIA",IDS: TV ONE VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34329
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="ASIA INDONESIA",IDS: METRO TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="ASIA INDONESIA",IDS: GTV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="ASIA INDONESIA",IDS: KOMPAS TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34332
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png",IDS: TVRI NASIONAL VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34333
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34320
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="ASIA INDONESIA",IDS: BERITASATU VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png",IDS: BERITASATU VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34334
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="ASIA INDONESIA",IDS: INEWS VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png",IDS: INEWS VIP
 http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34335
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="ASIA INDONESIA",IDS: NET TV
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34321
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="ASIA INDONESIA",IDS: RCTI
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34322
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="ASIA INDONESIA",IDS: SCTV
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34323
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="ASIA INDONESIA",IDS: TRANS TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34324
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="ASIA INDONESIA",IDS: TRANS 7 VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34325
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="ASIA INDONESIA",IDS: MNC TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34326
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA INDONESIA",IDS: INDOSIAR VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34327
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="ASIA INDONESIA",IDS: ANTV
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34328
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="ASIA INDONESIA",IDS: TV ONE VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34329
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="ASIA INDONESIA",IDS: METRO TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="ASIA INDONESIA",IDS: GTV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="ASIA INDONESIA",IDS: KOMPAS TV VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34332
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34333
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34320
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="ASIA INDONESIA",IDS: BERITASATU VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34334
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="ASIA INDONESIA",IDS: INEWS VIP
-http://31.43.191.125:8080/vip3171770021396/ef6e88c58393/34335
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="ASIA INDONESIA",IDS: NET TV
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png",IDS: NET TV
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34321
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="ASIA INDONESIA",IDS: RCTI
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png",IDS: RCTI
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34322
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="ASIA INDONESIA",IDS: SCTV
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34323
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="ASIA INDONESIA",IDS: TRANS TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png",IDS: TRANS TV VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34324
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="ASIA INDONESIA",IDS: TRANS 7 VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png",IDS: TRANS 7 VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34325
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="ASIA INDONESIA",IDS: MNC TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png",IDS: MNC TV VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34326
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA INDONESIA",IDS: INDOSIAR VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png",IDS: INDOSIAR VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34327
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="ASIA INDONESIA",IDS: ANTV
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34328
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="ASIA INDONESIA",IDS: TV ONE VIP
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34329
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="ASIA INDONESIA",IDS: METRO TV VIP
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="ASIA INDONESIA",IDS: GTV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png",IDS: GTV VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="ASIA INDONESIA",IDS: KOMPAS TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png",IDS: KOMPAS TV VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34332
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png",IDS: TVRI NASIONAL VIP
 http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34333
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34320
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="ASIA INDONESIA",IDS: BERITASATU VIP
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34334
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="ASIA INDONESIA",IDS: INEWS VIP
-http://31.43.191.125:8080/VIP013071736868726303/3bbe4cf87fa5/34335
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="ASIA INDONESIA",IDS: NET TV
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34321
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="ASIA INDONESIA",IDS: RCTI
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png",IDS: RCTI
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34322
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="ASIA INDONESIA",IDS: SCTV
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34323
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="ASIA INDONESIA",IDS: TRANS TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png",IDS: TRANS TV VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34324
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="ASIA INDONESIA",IDS: TRANS 7 VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png",IDS: TRANS 7 VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34325
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="ASIA INDONESIA",IDS: MNC TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png",IDS: MNC TV VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34326
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA INDONESIA",IDS: INDOSIAR VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png",IDS: INDOSIAR VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34327
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="ASIA INDONESIA",IDS: ANTV
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34328
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="ASIA INDONESIA",IDS: TV ONE VIP
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34329
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="ASIA INDONESIA",IDS: METRO TV VIP
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="ASIA INDONESIA",IDS: GTV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png",IDS: GTV VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="ASIA INDONESIA",IDS: KOMPAS TV VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png",IDS: KOMPAS TV VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34332
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png",IDS: TVRI NASIONAL VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34333
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA INDONESIA",IDS: TVRI NASIONAL VIP
-http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34320
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="ASIA INDONESIA",IDS: BERITASATU VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png",IDS: BERITASATU VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34334
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="ASIA INDONESIA",IDS: INEWS VIP
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png",IDS: INEWS VIP
 http://31.43.191.125:8080/vip451767442552/146602a9ba5a/34335
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png",ID: ANTV
+http://013tv.com:8080/F24657/f44540b5/165072
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png",ID: Arirang
+http://013tv.com:8080/F24657/f44540b5/247447
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png",ID: AXN
+http://013tv.com:8080/F24657/f44540b5/165079
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png",ID: Baby TV
+http://013tv.com:8080/F24657/f44540b5/157605
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png",ID: Bandung TV
+http://013tv.com:8080/F24657/f44540b5/166416
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png",ID: BBC Earth
+http://013tv.com:8080/F24657/f44540b5/165106
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: BBC Lifestyle
+http://013tv.com:8080/F24657/f44540b5/264747
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png",ID: beIN Sports 1
+http://013tv.com:8080/F24657/f44540b5/295289
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png",ID: beIN Sports 3
+http://013tv.com:8080/F24657/f44540b5/306458
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png",ID: Bioskop Indonesia
+http://013tv.com:8080/F24657/f44540b5/264801
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png",ID: Bloomberg TV
+http://013tv.com:8080/F24657/f44540b5/157599
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg",ID: BTV/Berita Satu
+http://013tv.com:8080/F24657/f44540b5/162513
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png",ID: Cartoon Network EN
+http://013tv.com:8080/F24657/f44540b5/157593
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: Cartoon Network ID
+http://013tv.com:8080/F24657/f44540b5/306459
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png",ID: Celestial Movies
+http://013tv.com:8080/F24657/f44540b5/165065
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png",ID: CGTN
+http://013tv.com:8080/F24657/f44540b5/298510
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png",ID: CGTN Documentary
+http://013tv.com:8080/F24657/f44540b5/298511
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png",ID: Channel News Asia
+http://013tv.com:8080/F24657/f44540b5/157602
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: Chinese Drama
+http://013tv.com:8080/F24657/f44540b5/298516
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png",ID: Cinemax
+http://013tv.com:8080/F24657/f44540b5/197964
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",ID: Citra Drama
+http://013tv.com:8080/F24657/f44540b5/264748
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",ID: CNN Indonesia
+http://013tv.com:8080/F24657/f44540b5/162137
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png",ID: Crime+ Investigation
+http://013tv.com:8080/F24657/f44540b5/165052
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png",ID: Da Ai TV
+http://013tv.com:8080/F24657/f44540b5/165061
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: Dhoho TV
+http://013tv.com:8080/F24657/f44540b5/307053
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png",ID: Discovery Asia
+http://013tv.com:8080/F24657/f44540b5/197968
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png",ID: Dunia Anak
+http://013tv.com:8080/F24657/f44540b5/264753
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV BIOSKOP 01
+http://013tv.com:8080/F24657/f44540b5/298526
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV BIOSKOP 02
+http://013tv.com:8080/F24657/f44540b5/298513
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV BIOSKOP 03
+http://013tv.com:8080/F24657/f44540b5/298514
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV BIOSKOP 04
+http://013tv.com:8080/F24657/f44540b5/298529
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/4c853008f5a94216b46c111232a08064.png",ID: EWTN Asia Pacific
+http://013tv.com:8080/F24657/f44540b5/307054
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: Ficom Channel
+http://013tv.com:8080/F24657/f44540b5/307050
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: FLIK
+http://013tv.com:8080/F24657/f44540b5/165095
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png",ID: Galaxy
+http://013tv.com:8080/F24657/f44540b5/264773
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png",ID: Galaxy Premium
+http://013tv.com:8080/F24657/f44540b5/264774
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",ID: GTV
+http://013tv.com:8080/F24657/f44540b5/157578
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: HBO
+http://013tv.com:8080/F24657/f44540b5/306484
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",ID: HBO 1080
+http://013tv.com:8080/F24657/f44540b5/197972
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",ID: HBO Family 1080
+http://013tv.com:8080/F24657/f44540b5/197055
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: HBO Hits
+http://013tv.com:8080/F24657/f44540b5/306486
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",ID: HBO Hits 1080
+http://013tv.com:8080/F24657/f44540b5/196480
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: HBO Signature
+http://013tv.com:8080/F24657/f44540b5/306483
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png",ID: HGTV
+http://013tv.com:8080/F24657/f44540b5/298535
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: Hope Channel
+http://013tv.com:8080/F24657/f44540b5/264798
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png",ID: I AM Channel
+http://013tv.com:8080/F24657/f44540b5/287423
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png",ID: IMC
+http://013tv.com:8080/F24657/f44540b5/264769
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",ID: Indosiar
+http://013tv.com:8080/F24657/f44540b5/162138
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",ID: INews
+http://013tv.com:8080/F24657/f44540b5/157579
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",ID: Kompas TV
+http://013tv.com:8080/F24657/f44540b5/165060
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png",ID: Love Nature
+http://013tv.com:8080/F24657/f44540b5/157592
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: Madu TV
+http://013tv.com:8080/F24657/f44540b5/307071
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",ID: Metro TV
+http://013tv.com:8080/F24657/f44540b5/165059
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: MNC Entertainment
+http://013tv.com:8080/F24657/f44540b5/309936
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png",ID: MNC TV
+http://013tv.com:8080/F24657/f44540b5/165054
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png",ID: Moji
+http://013tv.com:8080/F24657/f44540b5/298550
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: MQTV
+http://013tv.com:8080/F24657/f44540b5/298551
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png",ID: Music TV
+http://013tv.com:8080/F24657/f44540b5/165108
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png",ID: Nabawi TV
+http://013tv.com:8080/F24657/f44540b5/306469
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png",ID: NBA TV
+http://013tv.com:8080/F24657/f44540b5/298558
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png",ID: Net
+http://013tv.com:8080/F24657/f44540b5/80292
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png",ID: NHK World
+http://013tv.com:8080/F24657/f44540b5/298560
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png",ID: Nick Jr
+http://013tv.com:8080/F24657/f44540b5/165107
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png",ID: nickelodeon
+http://013tv.com:8080/F24657/f44540b5/162510
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png",ID: Nusantara TV
+http://013tv.com:8080/F24657/f44540b5/166410
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png",ID: Radar Cirebon TV
+http://013tv.com:8080/F24657/f44540b5/300662
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",ID: RCTI
+http://013tv.com:8080/F24657/f44540b5/157591
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png",ID: Rock Entertaiment
+http://013tv.com:8080/F24657/f44540b5/298565
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png",ID: SCTV
+http://013tv.com:8080/F24657/f44540b5/162141
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png",ID: Smithsonian Channel
+http://013tv.com:8080/F24657/f44540b5/264767
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/55fe27237a255968a16a4b1073bdfb5f.png",ID: SportStars 2
+http://013tv.com:8080/F24657/f44540b5/304861
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png",ID: SpoTV
+http://013tv.com:8080/F24657/f44540b5/165105
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png",ID: SpoTV 2
+http://013tv.com:8080/F24657/f44540b5/298506
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: TATV
+http://013tv.com:8080/F24657/f44540b5/166708
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png",ID: Thrill
+http://013tv.com:8080/F24657/f44540b5/157580
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png",ID: Trans 7
+http://013tv.com:8080/F24657/f44540b5/162502
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png",ID: Trans TV
+http://013tv.com:8080/F24657/f44540b5/162503
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png",ID: TV 9 Nusantara
+http://013tv.com:8080/F24657/f44540b5/162509
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: TV One
+http://013tv.com:8080/F24657/f44540b5/310084
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/47568faeda204bcbbecfe3bac3d286eb.png",ID: TV Tabalong
+http://013tv.com:8080/F24657/f44540b5/306481
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-04/d333d140cb4b1cde09203bfd352772c4.png",ID: TVM 3
+http://013tv.com:8080/F24657/f44540b5/309934
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png",ID: TVN Movies
+http://013tv.com:8080/F24657/f44540b5/157596
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png",ID: TVOne
+http://013tv.com:8080/F24657/f44540b5/266808
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png",ID: TVRI Aceh
+http://013tv.com:8080/F24657/f44540b5/166694
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/18313e7bc85d4b6ebbfbfb9cd8c446ab.png",ID: TVRI Bali
+http://013tv.com:8080/F24657/f44540b5/287434
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png",ID: TVRI Bangka Belitung
+http://013tv.com:8080/F24657/f44540b5/166690
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png",ID: TVRI Bengkulu
+http://013tv.com:8080/F24657/f44540b5/166691
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png",ID: TVRI DKI Jakarta
+http://013tv.com:8080/F24657/f44540b5/305306
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png",ID: TVRI Gorontalo
+http://013tv.com:8080/F24657/f44540b5/166698
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png",ID: TVRI Jambi
+http://013tv.com:8080/F24657/f44540b5/166692
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/08b5a76f2d73ec8289f8454d18a063df.png",ID: TVRI Jawa Barat
+http://013tv.com:8080/F24657/f44540b5/166688
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png",ID: TVRI Jawa Timur
+http://013tv.com:8080/F24657/f44540b5/276060
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9eaaf1f3fdadc91781c46818e02a8ad1.png",ID: TVRI Kalimantan Barat
+http://013tv.com:8080/F24657/f44540b5/166701
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png",ID: TVRI Kalimantan Selatan
+http://013tv.com:8080/F24657/f44540b5/305305
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/4f002dcff1ce6253a4555a3626f85b3d.png",ID: TVRI Kalimantan Tengah
+http://013tv.com:8080/F24657/f44540b5/166702
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png",ID: TVRI Kalimantan Timur
+http://013tv.com:8080/F24657/f44540b5/166703
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png",ID: TVRI Lampung
+http://013tv.com:8080/F24657/f44540b5/166693
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png",ID: TVRI Maluku
+http://013tv.com:8080/F24657/f44540b5/305304
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/6e912e1e4bc79e0126c798b067a7665e.png",ID: TVRI Nasional
+http://013tv.com:8080/F24657/f44540b5/162504
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png",ID: TVRI Nusa Tenggara Barat
+http://013tv.com:8080/F24657/f44540b5/305303
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png",ID: TVRI Nusa Tenggara Timur
+http://013tv.com:8080/F24657/f44540b5/287441
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png",ID: TVRI Papua
+http://013tv.com:8080/F24657/f44540b5/287442
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png",ID: TVRI Sulawesi Barat
+http://013tv.com:8080/F24657/f44540b5/305300
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png",ID: TVRI Sulawesi Selatan
+http://013tv.com:8080/F24657/f44540b5/166699
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png",ID: TVRI Sulawesi Tengah
+http://013tv.com:8080/F24657/f44540b5/287445
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png",ID: TVRI Sulawesi Tenggara
+http://013tv.com:8080/F24657/f44540b5/287446
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png",ID: TVRI Sumatera Barat
+http://013tv.com:8080/F24657/f44540b5/166695
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png",ID: TVRI Sumatera Selatan
+http://013tv.com:8080/F24657/f44540b5/166697
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png",ID: TVRI World
+http://013tv.com:8080/F24657/f44540b5/295291
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png",ID: TVRI Yogyakarta
+http://013tv.com:8080/F24657/f44540b5/305297
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",ID: UG TV
+http://013tv.com:8080/F24657/f44540b5/304029
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png",ID: Vision Prime
+http://013tv.com:8080/F24657/f44540b5/197958
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg",ID: Warner TV
+http://013tv.com:8080/F24657/f44540b5/157594
+#EXTINF:-1 group-title="ASIA INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png",ID: Zee Bioskop
+http://013tv.com:8080/F24657/f44540b5/157584
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="ASIA INDONESIA",IDS: FOX NEWS VIP
