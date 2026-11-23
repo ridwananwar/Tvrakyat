@@ -183,7 +183,7 @@ https://jmp2.uk/stvp-GB2600018PD
 http://royaltv.world:25461/live/M8012/3422/110.ts
 #EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" tvg-id="iNews.id@SD" ,iNews TV
 http://royaltv.world:25461/live/M8012/3422/99.ts
-#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" tvg-id="RCTI.id@SD" ,RCTI
+#EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/W4cm6dzI7-7-JvcyxepEQ3YX6SA=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" tvg-id="RCTI.id@SD" ,RCTI
 http://royaltv.world:25461/live/M8012/3422/100.ts
 #EXTINF:-1 group-title="ROYALIndonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" tvg-id="SCTV.id@SD" ,SCTV
 http://royaltv.world:25461/live/M8012/3422/101.ts
