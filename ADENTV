@@ -1,6 +1,120 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ID: JOGET YOK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="Indonesia",ASTREAMING
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1795784274/ei/8ikJa5LJBqjKssUPw7zmQQ/ip/114.125.237.254/id/zuL0Ahod0XE.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-uxa3vhnxa-2ah6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFAFb8EgwbKlvvo85y8f3clBTxXUWV_wT1P5Cde1BOjP2yGLeXvv9kwlOhcCt6waZ9XVQTEeA8-hevo/spc/nfZ8ZnJc0KCnegHG1CTz3q5oC1YnBpBOYEUfokmCqXiB09gjScvr21IwX7FH/vprv/1/reg/0/playlist_type/DVR/initcwndbps/587250/met/1795762680,/mh/Pr/mip/114.125.234.190/mm/44/mn/sn-uxa3vhnxa-2ah6/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/epbp/1/short_key/1/keepalive/yes/fexp/51565116/mt/1795762110/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgEBpdjhiY0Wm5cZjBmxXuRM0WCBDDIcGuavXsyr_vAbYCIQDmRMn7x3gavy2C_i9OWbAPWqQCxMkIsUeXfBzg2Wl6ZQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgKK_4tYUZBsavNZ3jKbuFK3F973Y9CxVILxaqBYJ-eVACIGab82BUOFAALPa0mTZ9oelqqUWFixeIRQy27khpbj7d/playlist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ID - INTERNATIONAL / GLOBAL " tvg-logo="" group-title="INDONESIA", ID - INTERNATIONAL / GLOBAL 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320982.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - AL JAZEERA INT" tvg-logo="https://go4.pw/INDONESIA/AL_JAZEERA_ENGLISH.png" group-title="INDONESIA",ID - AL JAZEERA INT
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - AL QURAN AL KAREM" tvg-logo="https://go4.pw/ISLAMIC/quraan.png" group-title="INDONESIA",ID - AL QURAN AL KAREM
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584528.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TVB XingHe HD" tvg-logo="" group-title="INDONESIA",ID - TVB XingHe HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247950.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - LOCAL NETWORKS " tvg-logo="https://go4.pw/INDONESIA/FLAG.png" group-title="INDONESIA", ID - LOCAL NETWORKS 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - GTV HD" tvg-logo="https://go4.pw/INDONESIA/GTV.png" group-title="INDONESIA",ID - GTV HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/830544.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID- RCTI HD" tvg-logo="https://go4.pw/INDONESIA/rcti.png" group-title="INDONESIA",ID- RCTI HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/830548.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - NET TV" tvg-logo="" group-title="INDONESIA",ID - NET TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247867.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Indosiar HD" tvg-logo="" group-title="INDONESIA",ID - Indosiar HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247933.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - MOJIO Channel HD" tvg-logo="" group-title="INDONESIA",ID - MOJIO Channel HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247938.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TRANSTV" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" group-title="INDONESIA",ID - TRANSTV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584538.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - RTV" tvg-logo="https://go4.pw/INDONESIA/RTV.png" group-title="INDONESIA",ID - RTV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584495.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TVRI" tvg-logo="https://go4.pw/INDONESIA/TVRI.png" group-title="INDONESIA",ID - TVRI
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TRANS7" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" group-title="INDONESIA",ID - TRANS7
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584545.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - ANTV" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" group-title="INDONESIA",ID - ANTV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584497.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - MNC TV HD" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" group-title="INDONESIA",ID - MNC TV HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1064641.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - DOCUMENTARY & SCIENCE " tvg-logo="" group-title="INDONESIA", ID - DOCUMENTARY & SCIENCE 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320988.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - CGTN DOCUMENTARY" tvg-logo="https://go4.pw/EUROPE/DENMARK/CGTN_Documentary.png" group-title="INDONESIA",ID - CGTN DOCUMENTARY
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247852.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - CRIME INVESTIGATION" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/CRIMEINVESTIGATION.png" group-title="INDONESIA",ID - CRIME INVESTIGATION
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584521.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - EDUCATIONAL & LIFESTYLE " tvg-logo="" group-title="INDONESIA", ID - EDUCATIONAL & LIFESTYLE 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320986.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Da Vinci Learning TV" tvg-logo="" group-title="INDONESIA",ID - Da Vinci Learning TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247857.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - NEWS & INFORMATION " tvg-logo="" group-title="INDONESIA", ID - NEWS & INFORMATION 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320984.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - JAKTV" tvg-logo="https://go4.pw/INDONESIA/JAKTV.png" group-title="INDONESIA",ID - JAKTV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584471.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - CNNID HD" tvg-logo="" group-title="INDONESIA",ID - CNNID HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247915.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TVBS Asia HD" tvg-logo="" group-title="INDONESIA",ID - TVBS Asia HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247949.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - TVBS News HD" tvg-logo="" group-title="INDONESIA",ID - TVBS News HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247951.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Metro TV" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png" group-title="INDONESIA",ID - Metro TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584480.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - KOMPASTV" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" group-title="INDONESIA",ID - KOMPASTV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584467.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - IDX" tvg-logo="https://go4.pw/INDONESIA/IDX.png" group-title="INDONESIA",ID - IDX
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584543.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - BERITA SATU" tvg-logo="https://go4.pw/INDONESIA/BERITA_SATU.png" group-title="INDONESIA",ID - BERITA SATU
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584478.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - INEWS" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" group-title="INDONESIA",ID - INEWS
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584539.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - MOVIES & ENTERTAINMENT " tvg-logo="" group-title="INDONESIA", ID - MOVIES & ENTERTAINMENT 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320980.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - LIFETIME" tvg-logo="https://go4.pw/INDONESIA/LIFETIME.png" group-title="INDONESIA",ID - LIFETIME
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584537.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Horee HD" tvg-logo="" group-title="INDONESIA",ID - Horee HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247932.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Bioskop Indonesia" tvg-logo="" group-title="INDONESIA",ID - Bioskop Indonesia
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247956.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - HITS Movies HD" tvg-logo="" group-title="INDONESIA",ID - HITS Movies HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247930.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Indonesia Movie Channel (IMC)" tvg-logo="" group-title="INDONESIA",ID - Indonesia Movie Channel (IMC)
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247860.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - GALAXY HD" tvg-logo="https://go4.pw/ALBANIA/GALAXY.png" group-title="INDONESIA",ID - GALAXY HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/830535.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - CELESTIAL MOVIES" tvg-logo="https://go4.pw/ASIA/fra.png" group-title="INDONESIA",ID - CELESTIAL MOVIES
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Cinema World" tvg-logo="https://go4.pw/INDONESIA/My_Cinema.png" group-title="INDONESIA",ID - Cinema World
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/830529.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Flik TV" tvg-logo="" group-title="INDONESIA",ID - Flik TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247858.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - HITS Now HD" tvg-logo="" group-title="INDONESIA",ID - HITS Now HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247931.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Dunia Lain" tvg-logo="" group-title="INDONESIA",ID - Dunia Lain
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247971.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - FOOD & TRAVEL " tvg-logo="" group-title="INDONESIA", ID - FOOD & TRAVEL 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Travel" tvg-logo="" group-title="INDONESIA",ID - Travel
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1248010.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - SPORTS " tvg-logo="" group-title="INDONESIA", ID - SPORTS 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320981.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - FIGHT SPORTS HD" tvg-logo="https://go4.pw/EUROPE/GERMANY/FIGHT_SPORTS.png" group-title="INDONESIA",ID - FIGHT SPORTS HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/830543.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - SPOTV HD" tvg-logo="" group-title="INDONESIA",ID - SPOTV HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247898.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - SPOTV 2 HD" tvg-logo="" group-title="INDONESIA",ID - SPOTV 2 HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247899.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - KIDS & FAMILY " tvg-logo="" group-title="INDONESIA", ID - KIDS & FAMILY 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320983.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Mentari TV" tvg-logo="" group-title="INDONESIA",ID - Mentari TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247912.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - NICK JR HD" tvg-logo="https://go4.pw/USA/SD/6.png" group-title="INDONESIA",ID - NICK JR HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1064638.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Nick Jr" tvg-logo="https://go4.pw/EUROPE/DENMARK/Nick_Jr.png" group-title="INDONESIA",ID - Nick Jr
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247868.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Aniplus TV" tvg-logo="" group-title="INDONESIA",ID - Aniplus TV
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247880.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - ANIMAX HD" tvg-logo="https://go4.pw/INDONESIA/ANIMAX.png" group-title="INDONESIA",ID - ANIMAX HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/584498.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ID - MUSIC & RADIO " tvg-logo="" group-title="INDONESIA", ID - MUSIC & RADIO 
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1320985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Citra Dangdut HD" tvg-logo="" group-title="INDONESIA",ID - Citra Dangdut HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247910.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Citra Drama HD" tvg-logo="" group-title="INDONESIA",ID - Citra Drama HD
+http://dnsjibre.xyz:80/live/EYUQB6N/44ASXGS/1247911.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",ID: AFN/Asian Food Network
 http://013tv.com:8080/F24657/f44540b5/298503
 #EXTINF:-1 tvg-id="" tvg-name="ID: Al Wafa Tarim" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="Indonesia",ID: Al Wafa Tarim
